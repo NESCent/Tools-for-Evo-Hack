@@ -10,7 +10,7 @@ Meeting
 
 ### Agenda
 
--   [Original agenda](Media:Taxondb21_Agenda.pdf "wikilink") as a PDF
+-   [Original agenda](Media:{{MeetingAgenda}} "wikilink") as a PDF
     download
 -   [Agenda](Agenda "wikilink") with latest updates
 
