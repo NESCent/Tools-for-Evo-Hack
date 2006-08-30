@@ -10,7 +10,7 @@ to all meeting participants by posting to
 \[[mailto:{{GroupEmail}](mailto:{{GroupEmail})} \].
 
 The URL for the mailing list archive is
-[<https://lists.nescent.org/mailman/private/wg-taxondb21/>](https://lists.nescent.org/mailman/private/wg-taxondb21/).
+[[https://lists.nescent.org/mailman/private/{{GroupEmailName}}/](https://lists.nescent.org/mailman/private/{{GroupEmailName}}/)](https://lists.nescent.org/mailman/private/{{GroupEmailName}}/).
 You will need to login with your email and password to view the
 archives. The initial password is randomly generated and can be
 retrieved through the [subscription information

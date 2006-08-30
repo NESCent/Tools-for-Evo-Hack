@@ -2,7 +2,7 @@
 
 The mailing list is called {{GroupEmailName}} and is hosted by NESCent. You can send email to all meeting participants by posting to [mailto:{{GroupEmail}} {{GroupEmail}}].
 
-The URL for the mailing list archive is  [https://lists.nescent.org/mailman/private/wg-taxondb21/ https://lists.nescent.org/mailman/private/wg-taxondb21/]. You will need to login with your email and password to view the archives. The initial password is randomly generated and can be retrieved through the [https://lists.nescent.org/mailman/listinfo/wg-taxondb21 subscription information page] Enter your email address with which you are subscribed into the field at the bottom of the page and click the button next to it labeled 'Unsubscribe or edit options'. The next page will have a button to have the system email you your password. You may also send requests for changes to the mailing list to [mailto:support@nescent.org support@nescent.org].
+The URL for the mailing list archive is  [https://lists.nescent.org/mailman/private/{{GroupEmailName}}/ https://lists.nescent.org/mailman/private/{{GroupEmailName}}/]. You will need to login with your email and password to view the archives. The initial password is randomly generated and can be retrieved through the [https://lists.nescent.org/mailman/listinfo/wg-taxondb21 subscription information page] Enter your email address with which you are subscribed into the field at the bottom of the page and click the button next to it labeled 'Unsubscribe or edit options'. The next page will have a button to have the system email you your password. You may also send requests for changes to the mailing list to [mailto:support@nescent.org support@nescent.org].
 
 ==NESCent Newsletters==
 
