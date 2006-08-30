@@ -1,0 +1,167 @@
+---
+title: Information
+---
+
+The travel, transportation, and hotel arrangements are also available as
+a [downloadable PDF file](Media:Travel_Arrangements.pdf "wikilink").
+
+Meeting
+-------
+
+### Agenda
+
+-   [Original agenda](Media:Taxondb21_Agenda.pdf "wikilink") as a PDF
+    download
+-   [Agenda](Agenda "wikilink") with latest updates
+
+### Resources
+
+NESCent is equipped with a complete set of IT and office resources to
+support the needs of meeting participants. They are explained in detail
+in the [IT & General Help article](Help:Contents "wikilink").
+
+In short, all meeting and break-out spaces are covered by wireless
+network. Wired network jacks are available in the conference rooms and
+at the back of the large meeting space too. We have a system
+administrator on staff to assist you ad-hoc with computer problems.
+Video projectors and a loaner laptop for displaying Powerpoint
+presentations are available. You may submit your presentation
+electronically to the meeting organizer either by email, or using a USB
+memory stick (your own or supplied by us).
+
+In terms of office resources, there are fully networked printers you can
+use, as well as a copier that doubles as a scanner. For high-end
+printing and finishing needs, a FedexKinko's is right across the street.
+
+Hotel Arrangements
+------------------
+
+You will be staying at the
+\[<http://www.millenniumhotels.com/MCIL.nsf/LU_HOTELDOC/113>$$HotelDescription?OpenDocument
+Millennium Hotel\] in Durham, (2800 Campus Walk Avenue, Durham, NC
+27705, telephone: (919) 383 8575).
+
+Reservations have been made for 3 nights’ lodging, Wednesday, Aug. 23
+through Friday August 25. The current agenda plans for you to arrive on
+Wednesday, August 23, meet Thursday, Friday and Saturday, departing on
+Saturday late PM or Sunday, August 26 or 27. (The meeting is expected to
+end about 2 to 3 PM on Saturday). Check in time at the Millennium Hotel
+is 3:00 p.m. and check out time is noon. Please contact Jeff Sturkey at
+NESCent via email <jsturkey@nescent.org> or 919-668-4551 to make any
+changes to your room reservations. The rooms will be directly billed to
+the grant supporting this workshop. We will pay for your room, while you
+will be responsible for all other incidental room charges, including
+meals you might charge to your room. If you are bringing a roommate,
+there will be an additional charge of $20.00 per person per night
+payable to the Millennium Hotel.
+
+Travel Arrangements
+-------------------
+
+Please contact our travel agent, Cindy Talisman, as soon as possible to
+arrange your airline travel. Please note that as a condition of your
+invitation to participate, we ask that your travel plans be ticketed no
+less than 21 days in advance of your meeting, August 1. In addition, our
+travel agent has been instructed to search for lower-cost airfares for
+all attendees.
+
+Your early selection of flights will provide you the widest choices. In
+addition, please note that the National Science Foundation requires that
+we use U.S. air carriers and coach class.
+
+Your airfare charge will be reimbursed from the grant. According to UNC
+regulations, this is separate from other reimbursements. Please provide
+your name, home address, and social security number to {mailto:
+pgensel@bio.unc.edu Pat Gensel\] at the time you have your booking and
+we can start to process reimbursement. Although we have provided the
+travel agency with your names, we ask that you directly [contact
+Cindy](mailto:cltalisman@hotmail.com). Her contact information is:
+
+    Cindy Talisman, Travelink, Incorporated          
+    410 Market Street, Suite 342
+    Chapel Hill, NC 27516
+    cltalisman@hotmail.com
+    919-968-6744 
+    800-729-1158
+
+It would be helpful if you could make your travel arrangements as soon
+as possible. We also suggest using the Millennium Hotel shuttle service.
+This shuttle will be directly billed to the grant, and is less expensive
+than other transport to the hotel.
+
+Transportation
+--------------
+
+### Arrival at Raleigh/Durham International Airport (RDU)
+
+We suggest using the Millennium Hotel airport shuttle service. This
+shuttle will be directly billed to the grant. When you arrive at RDU,
+please call the Millennium Hotel via the display of hotels at the
+Baggage claim area. You may pick up the receiver and push the
+appropriate button for the Millennium Hotel, or you may call the
+\[<http://www.millenniumhotels.com/MCIL.nsf/LU_HOTELDOC/113>$$HotelDescription?OpenDocument
+Millennium\] at (919) 383-8575. Please tell the attendant that you have
+a reservation and wish to be picked up at the RDU airport. The hotel is
+approximately 10 minutes away. Any ground transportation questions
+arising immediately after arrival can be answered at the RDU Information
+Desk near the Baggage Claim area.
+
+### Getting to NESCent
+
+We will also coordinate shuttle service between the hotel and the
+NESCent office for your meeting.
+
+Meal Arrangements
+-----------------
+
+We will be basing your meal reimbursement on the State of North Carolina
+rates. We are able to reimburse participants up to a total of
+approximately $32/day for the meals at the meeting. This includes some
+meals on your arrival and departure days. A major advantage of this
+system is that you are not required to keep or furnish us with any meal
+receipts. After the meeting, UNC Biology Accounting will process
+reimbursements which will be mailed within approximately 45 days- keep
+any receipts for taxi, airfare (if necessary). University of North
+Carolina policy dictates that these reimbursements must be sent to your
+home address. Please complete the attached home address form and return
+it to Patricia Gensel prior to your arrival.
+
+Non-U.S. Citizens
+-----------------
+
+We would appreciate your letting us know if you are not a US citizen. If
+you will be arriving from outside the United States, we will provide you
+with a formal letter of invitation briefly outlining the purpose of your
+visit. This letter may be required during your travel to the US, and we
+encourage you to keep a copy with you. Please send via email your office
+mailing address so that we can send the formal letter of invitation. For
+all non-US citizens we will need to make a copy of your passport and
+I-94 and/or visa waiver during your visit.
+
+IT Support
+----------
+
+For information about the IT and audio-visual support at NESCent, please
+see <Help:Contents>.
+
+Contact
+-------
+
+### For Logistical Questions
+
+For questions directly pertaining to NESCent arrangements, contact:
+
+    Jeff Sturkey                        Telephone:  919-668-4545
+    Logistics Coordinator                   Fax:             919-668-9192
+    National Evolutionary Synthesis Center      Email:         jsturkey@nescent.org
+    2024 West Main Street, Suite A200
+    Durham, NC 27705
+
+### For Other Questions
+
+If you have any other questions regarding your visit, please contact
+[Jeff Sturkey](mailto:jsturkey@nescent.org). NOTE: try to contact Jeff
+BEFORE June 28 or AFTER July 18; she will be in the field between those
+dates, and will only have intermittent internet connections.
+
+<Category:Help>
