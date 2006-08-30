@@ -10,8 +10,7 @@ Meeting
 
 ### Agenda
 
--   [Original agenda](Media:{{MeetingAgenda}} "wikilink") as a PDF
-    download
+-   [Original agenda](Media:Agenda.pdf "wikilink") as a PDF download
 -   [Agenda](Agenda "wikilink") with latest updates
 
 ### Resources
