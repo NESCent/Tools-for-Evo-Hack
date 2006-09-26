@@ -2,8 +2,7 @@
 title: Agenda
 ---
 
-<big>Developing and Integrating Taxonomic Databases for the 21st
-Century</big>
+<big>Title of the meeting</big>
 
 ### Wednesday, August 23
 
