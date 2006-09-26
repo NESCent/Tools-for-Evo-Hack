@@ -2,7 +2,9 @@
 title: Main Page
 ---
 
-<big>**MediaWiki has been successfully installed.**</big>
+<big>**This is a demo wiki.**</big>
+
+`To login, click `[`here`](Special:Userlogin "wikilink")
 
 Consult the [User's
 Guide](http://meta.wikipedia.org/wiki/MediaWiki_User%27s_Guide) for

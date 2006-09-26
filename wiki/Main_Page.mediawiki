@@ -1,4 +1,6 @@
-<big>'''MediaWiki has been successfully installed.'''</big>
+<big>'''This is a demo wiki.'''</big>
+
+ To login, click [[Special:Userlogin |here]]
 
 Consult the [http://meta.wikipedia.org/wiki/MediaWiki_User%27s_Guide User's Guide] for information on using the wiki software.
 
