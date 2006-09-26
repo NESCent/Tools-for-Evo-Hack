@@ -6,7 +6,8 @@ title: Agenda
 
 ### Wednesday, August 23
 
--   4:00-5:30 p.m.: Pre-Meeting tour of NESCent
+4:00-5:30 p.m.: Pre-Meeting tour of NESCent
+-------------------------------------------
 
 ### Thursday, August 24
 
