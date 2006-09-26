@@ -4,12 +4,13 @@ title: Agenda
 
 <big>Title of the meeting</big>
 
-### Wednesday, August 23
+Wednesday, August 23
+====================
 
-4:00-5:30 p.m.: Pre-Meeting tour of NESCent
--------------------------------------------
+-   4:00-5:30 p.m.: Pre-Meeting tour of NESCent
 
-### Thursday, August 24
+Thursday, August 24
+===================
 
 -   7:45 a.m.: Millennium shuttle to NESCent
 -   8:00 a.m.: Last Millennium shuttle to NESCent
@@ -23,7 +24,8 @@ title: Agenda
 -   12: 30- 2:00 p.m.: LUNCH
 -   ... ...
 
-### Friday, August 25
+Friday, August 25
+=================
 
 -   ... ...
 
