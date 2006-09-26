@@ -2,10 +2,7 @@
 
 ===Wednesday, August 23===
 
-{| width="100%" border="1" cellspacing="0" cellpadding="2"
-|- style="background:#efefef;"
-| width="15%" | 4:00-5:30 p.m.|| width="85%" |		Pre-Meeting tour of NESCent
-|}
+* 4:00-5:30 p.m. Pre-Meeting tour of NESCent
 
 ===Thursday, August 24=== 
 

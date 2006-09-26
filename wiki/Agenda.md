@@ -7,18 +7,7 @@ Century</big>
 
 ### Wednesday, August 23
 
-<table>
-<colgroup>
-<col width="1%" />
-<col width="8%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"><p>4:00-5:30 p.m.</p></td>
-<td align="left"><p>Pre-Meeting tour of NESCent</p></td>
-</tr>
-</tbody>
-</table>
+-   4:00-5:30 p.m. Pre-Meeting tour of NESCent
 
 ### Thursday, August 24
 
