@@ -2,133 +2,20 @@
 
 ===Wednesday, August 23===
 
-* 4:00-5:30 p.m. Pre-Meeting tour of NESCent
+* 4:00-5:30 p.m.: Pre-Meeting tour of NESCent
 
 ===Thursday, August 24=== 
 
-{| width="100%" border="1" cellspacing="0" cellpadding="2"
-|- style="background:#efefef;"
-| width="15%" | 7:45 a.m.|| width="85%" |	  	Millennium shuttle to NESCent
-|- style="background:#efefef;"
-|8:00 a.m.||	  	Last Millennium shuttle to NESCent
-|- style="background:#efefef;"
-|8:00-8:30 a.m.||  	Coffee, bagels, fruit, etc. at NESCent
-|-
-|8:30-8:45 a.m.||	  	Kathleen Smith, Director of NESCent: Welcome to NESCent
-|-
-|8:45-9:30 a.m.||   	Participant introductions-  brief, 1 minute name, affiliation, aspect relevant to this workshop
-|-
-|9:30-9:50 a.m.||	Patricia G. Gensel, UNC-Chapel Hill:  [[Media:Pgensel Slides.ppt|Introduction, overview, questions and goals]]
-|-
-|9:50-10:15 a.m.|| 	Judith Skog, Deputy Division Director, Division of Biological Infrastructure (BIO/DBI), NSF:  [[Media:Jskog Slides.ppt|NSF strategies and goals for cyberinfrastructure]]
-|- style="background:#efefef;"
-|10:15-10:35 a.m.||  BREAK
-|-
-! colspan="2" | '''Standards:'''
-|-
-|10:40-11:10 a.m.|| 	Stanley Blum, California Academy of Sciences:  [[Media:Sblum Slides.ppt|Overview of TDWG]]
-|-
-|11: 20 a.m.-12:00 p.m.||	Jessie Kennedy,  Napier University, TDWG:  [[Media:Jkennedy Slides.ppt|The Taxonomic Concept Schema and the TDWG Ontology]]
-|-
-! colspan="2" | '''Interoperability:''' 
-|-
-|12: 00- 12:30 p.m.|| 	Josh Madin, NCEAS, SEEK:  "[[Media:Jmadin Slides.ppt|Describing ecological data using the Ecological Metadata Language and the Extensible Observation Ontology]]"
-|- style="background:#efefef;"
-|12: 30- 2:00 p.m.||   	LUNCH
-|-
-|2:00-2:40 p.m. || 	David Remsen, The Marine Biological Laboratory, Woods Hole, Mass;  uBIO, GBIF: "[[Media:Dremsen Slides.ppt|The Tangled Tree of Life:  Informatics and Taxon Names]]"  OR  "Informatics aspects of taxon names"
-|-
-|2: 40- 3:20 p.m.|| 	Reed Beaman, Nico Cellinese, and Ashley Green,  Yale University:  '"[[Media:Rbeaman Slides.ppt|TOLKIN:  A web-based collaborative information system for systematics.]]"  
-|-
-|3:20-4:20 p.m.  ||	Vladimir Davydov,  Boise State University, Paleostrat:  "[[Media:Vdavydov Slides.ppt|Unique identifier in taxonomy – the key for the global paleontologic network development]]"
-|- style="background:#efefef;"
-|4:20-4:30 p.m.	||	BREAK
-|- style="background:#ffeead;"
-|4:30- 5:15 p.m. ||	Organizational meetings of breakout groups.  Each Breakout Group holds an initial meeting and decides upon a leader and scribe for the group, and plans for tomorrow’s sessions.
-|- style="background:#efefef;"
-|5:15 p.m.  	||	SHUTTLE TO HOTEL   (Optional) <br/>Shuttle will bring you back to NESCent at 6:00 p.m.
-|- style="background:#efefef;"
-|6:15 p.m.	||  	DINNER at George’s Garage
-|- style="background:#efefef;"
-|8:00 p.m.	||	SHUTTLE TO HOTEL   (leaving from NESCent)
-|}
+*7:45 a.m.: Millennium shuttle to NESCent
+*8:00 a.m.: Last Millennium shuttle to NESCent
+*8:00-8:30 a.m.: Coffee, bagels, fruit, etc. at NESCent
+*9:30-9:50 a.m.: speaker 1, UNC-Chapel Hill, Introduction, overview, questions and goals
+*... ...
+*10:15-10:35 a.m.: BREAK
+*10:40-11:10 a.m.: speaker 2, Duke University, [tile]
+* ... ...
+*12: 30- 2:00 p.m.: LUNCH
+* ... ...
 
 ===Friday,  August 25===
-
-{| width="100%" border="1" cellspacing="0" cellpadding="2"
-|- style="background:#efefef;"
-| width="15%" | 7:45 a.m.	|| width="85%" |  	Millennium shuttle to NESCent
-|- style="background:#efefef;"
-|8:00 a.m.	||  	Last Millennium shuttle to NESCent
-|- style="background:#efefef;"
-|8:00-8:30 a.m.	||	Coffee, bagels, fruit, etc. at NESCent
-|- style="background:#efefef;"
-|8:30 a.m.	||	Announcements
-|-
-! colspan="2" | '''Existing multitaxon databases/portals in biology and paleontology:'''   
-|-
-|8:30- 9:00 a.m.||  	Robert Peet, UNC-Chapel Hill, [[Media:Rpeet Slides.ppt|SEEK, VEGBANK]]
-|-
-|9:10- 9:40 a.m.|| 	John Alroy, NCEAS,  [[Media:Jalroy Slides.ppt|Paleobiology Database:   The Paleobiology Database's Dynamic, Integrated Online Systematics Archiving System]]
-|-
-|9:50-10:20 a.m.||	Brian Huber,  USNM:   The CHRONOS Online Taxonomic Dictionary Initiative
-|- style="background:#efefef;"
-|10:20-10:40 a.m.||         BREAK
-|- style="background:#ffeead;"
-|10:40 a.m. -12:30|| 	For rest of morning, demonstrations of particular databases (please inform Pat Gensel if you plan to do this)<br>
-* [http://www.morphobank.org/ Morphobank], [[Media:MorphoBankKMC.ppt|Kerin Claeson's slides + notes]]
-* [http://insidewood.lib.ncsu.edu/search/ INSIDE WOOD]
-* [http://palaeo.gly.bris.ac.uk/frwhole/FR2.html The Fossil Record], [[Media:Mbenton Slides.ppt|Michael Benton's slides]]
-* [http://eusmilia.geology.uiowa.edu/ NMITA]
-* [http://darwincope.museum.state.il.us/ DarwinCoPE], [[Media:Nescent.ppt|Jessica Theodor's slides]]
-* [http://services.chronos.org/databases/neptune/index.html Neptune], [[Media:DLazarus_presentation.pdf|David Lazarus' slides]] and [[Notes for DLazarus Slides|notes]]
-* [[Media:CHRONOS_Geoinfo2006_fils.pdf|Synonymy resolution using SKOS/RDF and GUIDs/LSIDs for the purpose of federating CHRONOS Neptune and GNS/NZ FRED databases]]
-* [http://www.ucmp.berkeley.edu/miomap MIOMAP]
-|- style="background:#efefef;"
-|12:30-1:45 p.m.||	LUNCH
-|-
-|1:45-2:00 p.m.	||	Instruction on using our wiki site - Hilmar  Lapp, NESCent
-|- style="background:#ffeead;"
-|2:00-2:45 p.m. ||  	Meeting of breakout groups, part 1- brainstorm, address issues, start on solutions
-|- style="background:#efefef;"
-|2:45-3:00 p.m. ||	BREAK
-|- style="background:#ffeead;"
-|3:00-3:45 p.m.||	Breakout groups- secondary mix.  Here attendees will have a chance to attend other Breakout Groups than their primary group, to express their ideas.  Breakout Group leaders and secretaries will stay with their primary group.
-|- style="background:#ffeead;"
-|4:00-5:00 p.m.||		Meeting of Breakout groups to  finalize presentations for next day.
-|- style="background:#efefef;"
-|5:15 p.m.  	||	SHUTTLE TO HOTEL   (Optional) <br/> Shuttle will bring you back to NESCent at 6:00 p.m.
-|- style="background:#efefef;"
-|6:15 p.m.	||  	DINNER on Ninth Street or elsewhere
-|- style="background:#efefef;"
-|8:00 p.m.	||	SHUTTLE TO HOTEL   (leaving from NESCent)
-|}
-
-===Saturday, August 26===
-
-{| width="100%" border="1" cellspacing="0" cellpadding="2"
-|- style="background:#efefef;"
-| width="15%" | 7:45 a.m.	|| width="85%" |  	Millennium shuttle to NESCent
-|- style="background:#efefef;"
-|8:00 a.m.	||  	Last Millennium shuttle to NESCent
-|- style="background:#efefef;"
-|8:00-8:30 a.m.	||	Coffee, bagels, fruit, etc. at NESCent
-|- style="background:#efefef;"
-|8:30 a.m.	||	Announcements
-|- 
-|8:40 -10:00 a.m.||	Presentations by each breakout group. <br/> Breakout Groups will present their ideas for discussion to the overall workshop.  These presentations and the resulting discussions will form the basis for 5-10 page reports from each Breakout Group, to be produced after the meeting.  Each presentation will last 15-20 minutes, with time for discussion by the overall group.  Final reports for each Breakout Group are due to the organizers by end of September.  Reports can be posted on [[Documents|this site]]. These reports will then be synthesized into a final workshop document that will be distributed.  Perhaps presented to the community for discussion at the Philadelphia GSA/PS meeting  and other appropriate society meetings?  We also plan to publish a report, place on web, etc
-|- 
-|8:40-9:00 a.m.  ||	[[Break-out Group 1|Breakout group 1]]
-|- 
-|9:00-9:20 a.m. ||	[[Break-out Group 2|Breakout group 2]]
-|- 
-|9:20-9:40 a.m.	||	[[Break-out Group 3|Breakout group 3]]
-|- 
-|9:40-10:00 a.m. ||	BREAK
-|- 
-|10:00-10:20 a.m.||	[[Break-out Group 4|Breakout group 4]]
-|-
-|10:20 a.m.-12:00 p.m.||  [[Media:Breakout Presentations.pdf|General discussion, resolutions]]
-|-
-! colspan="2" | '''Adjourn'''
-|}
+* ... ...
