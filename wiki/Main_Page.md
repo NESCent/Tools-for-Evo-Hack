@@ -2,7 +2,7 @@
 title: Main Page
 ---
 
-<big>**This is a demo wiki.**</big>
+<big>**\[Meeting tile\]**</big>
 
 To login, click [here](Special:Userlogin "wikilink")
 

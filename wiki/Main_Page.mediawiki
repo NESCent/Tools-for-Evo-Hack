@@ -1,4 +1,4 @@
-<big>'''This is a demo wiki.'''</big>
+<big>'''[Meeting tile]'''</big>
 
 To login, click [[Special:Userlogin |here]]
 
