@@ -60,9 +60,9 @@ Please contact our travel agent, [Mark
 Eide](mailto:mark@galegentrytravel.com), as soon as possible to arrange
 your airline travel. Please note that as a condition of your invitation
 to participate in NESCent meetings, we ask that your travel plans be
-ticketed no less than 21 days in advance of your meeting, August 25. In
-addition, our travel agent has been instructed to search for lower-cost
-airfares for all attendees.
+ticketed no less than 21 days in advance of your meeting. In addition,
+our travel agent has been instructed to search for lower-cost airfares
+for all attendees.
 
 Your early selection of flights will provide you the widest choices. In
 addition, please note that the National Science Foundation requires that
