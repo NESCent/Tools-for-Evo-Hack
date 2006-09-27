@@ -4,13 +4,13 @@ title: Agenda
 
 <big>Title of the meeting</big>
 
-Wednesday, August 23
-====================
+Wednesday, Feb 29, 2007
+=======================
 
 -   4:00-5:30 p.m.: Pre-Meeting tour of NESCent
 
-Thursday, August 24
-===================
+Thursday, Feb 30, 2007
+======================
 
 -   7:45 a.m.: Millennium shuttle to NESCent
 -   8:00 a.m.: Last Millennium shuttle to NESCent
@@ -25,8 +25,8 @@ Thursday, August 24
 -   12: 30- 2:00 p.m.: LUNCH
 -   ... ...
 
-Friday, August 25
-=================
+Friday, Feb 31, 2007
+====================
 
 -   ... ...
 
