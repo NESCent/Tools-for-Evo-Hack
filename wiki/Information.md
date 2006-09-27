@@ -38,17 +38,16 @@ Hotel Arrangements
 You will be staying at the
 \[<http://www.millenniumhotels.com/MCIL.nsf/LU_HOTELDOC/113>$$HotelDescription?OpenDocument
 Millennium Hotel\] in Durham, (2800 Campus Walk Avenue, Durham, NC
-27705, telephone: (919) 383 8575).
+27705, telephone: (919) 383-8575).
 
-Reservations have been made for 3 nights’ lodging, Wednesday, Aug. 23
-through Friday August 25. The current agenda plans for you to arrive on
-Wednesday, August 23, meet Thursday, Friday and Saturday, departing on
-Saturday late PM or Sunday, August 26 or 27. (The meeting is expected to
-end about 2 to 3 PM on Saturday). Check in time at the Millennium Hotel
-is 3:00 p.m. and check out time is noon. Please contact Jeff Sturkey at
-NESCent via email <jsturkey@nescent.org> or 919-668-4551 to make any
-changes to your room reservations. The rooms will be directly billed to
-the grant supporting this workshop. We will pay for your room, while you
+Reservations have been made for 4 nights’ lodging, Wednesday, September
+6th through Saturday, September 9th. The current agenda plans for you to
+arrive on Wednesday, September 6th, meet Thursday, Friday, and Saturday
+departing on Sunday, September 10th. Check in time at the Millennium
+Hotel is 3:00 p.m. and check out time is noon. Please contact Jeff
+Sturkey at NESCent via email [Jeff Sturkey](mailto:jsturkey@nescent.org)
+or 919-668-4545 to make any changes to your room reservations. The rooms
+will be directly billed to NESCent. We will pay for your room, while you
 will be responsible for all other incidental room charges, including
 meals you might charge to your room. If you are bringing a roommate,
 there will be an additional charge of $20.00 per person per night
@@ -57,36 +56,30 @@ payable to the Millennium Hotel.
 Travel Arrangements
 -------------------
 
-Please contact our travel agent, Cindy Talisman, as soon as possible to
-arrange your airline travel. Please note that as a condition of your
-invitation to participate, we ask that your travel plans be ticketed no
-less than 21 days in advance of your meeting, August 1. In addition, our
-travel agent has been instructed to search for lower-cost airfares for
-all attendees.
+Please contact our travel agent, [Mark
+Eide](mailto:mark@galegentrytravel.com), as soon as possible to arrange
+your airline travel. Please note that as a condition of your invitation
+to participate in NESCent meetings, we ask that your travel plans be
+ticketed no less than 21 days in advance of your meeting, August 25. In
+addition, our travel agent has been instructed to search for lower-cost
+airfares for all attendees.
 
 Your early selection of flights will provide you the widest choices. In
 addition, please note that the National Science Foundation requires that
 we use U.S. air carriers and coach class.
 
-Your airfare charge will be reimbursed from the grant. According to UNC
-regulations, this is separate from other reimbursements. Please provide
-your name, home address, and social security number to {mailto:
-pgensel@bio.unc.edu Pat Gensel\] at the time you have your booking and
-we can start to process reimbursement. Although we have provided the
-travel agency with your names, we ask that you directly [contact
-Cindy](mailto:cltalisman@hotmail.com). Her contact information is:
+Your airfare charge will be directly billed to NESCent. Although we have
+provided the travel agency with your names, we ask that you contact
+Mark. His contact information is:
 
-    Cindy Talisman, Travelink, Incorporated          
-    410 Market Street, Suite 342
-    Chapel Hill, NC 27516
-    cltalisman@hotmail.com
-    919-968-6744 
-    800-729-1158
+    Mark Eide (although other agents at the firm can assist you as well)
+    Gentry Travel
+    Telephone:  919-787-2511  ext. 215  
+    Toll Free Telephone:  800-633-9350
+    Email: mark@galegentrytravel.com
 
-It would be helpful if you could make your travel arrangements as soon
-as possible. We also suggest using the Millennium Hotel shuttle service.
-This shuttle will be directly billed to the grant, and is less expensive
-than other transport to the hotel.
+It would be helpful if you could make your travel arrangements by August
+15.
 
 Transportation
 --------------
@@ -94,13 +87,12 @@ Transportation
 ### Arrival at Raleigh/Durham International Airport (RDU)
 
 We suggest using the Millennium Hotel airport shuttle service. This
-shuttle will be directly billed to the grant. When you arrive at RDU,
+shuttle will be directly billed to NESCent. When you arrive at RDU,
 please call the Millennium Hotel via the display of hotels at the
 Baggage claim area. You may pick up the receiver and push the
 appropriate button for the Millennium Hotel, or you may call the
-\[<http://www.millenniumhotels.com/MCIL.nsf/LU_HOTELDOC/113>$$HotelDescription?OpenDocument
-Millennium\] at (919) 383-8575. Please tell the attendant that you have
-a reservation and wish to be picked up at the RDU airport. The hotel is
+Millennium at (919) 383-8575. Please tell the attendant that you have a
+reservation and wish to be picked up at the RDU airport. The hotel is
 approximately 10 minutes away. Any ground transportation questions
 arising immediately after arrival can be answered at the RDU Information
 Desk near the Baggage Claim area.
@@ -113,17 +105,18 @@ NESCent office for your meeting.
 Meal Arrangements
 -----------------
 
-We will be basing your meal reimbursement on the State of North Carolina
-rates. We are able to reimburse participants up to a total of
-approximately $32/day for the meals at the meeting. This includes some
-meals on your arrival and departure days. A major advantage of this
-system is that you are not required to keep or furnish us with any meal
-receipts. After the meeting, UNC Biology Accounting will process
-reimbursements which will be mailed within approximately 45 days- keep
-any receipts for taxi, airfare (if necessary). University of North
-Carolina policy dictates that these reimbursements must be sent to your
-home address. Please complete the attached home address form and return
-it to Patricia Gensel prior to your arrival.
+We will be basing your meal reimbursement on the
+\[<http://www.gsa.gov/Portal/gsa/ep/contentView.do?programId=9704&channelId>=-15943&ooid=16365&contentId=17943&pageTypeId=8203&contentType=GSA\_BASIC&programPage=%252Fep%252Fprogram%252FgsaBasic.jsp&P=MTT
+GSA Federal per diem rates\]. We are able to reimburse participants up
+to a total of $210.00 for the meals at the meeting. This includes meals
+on your arrival and departure days. A major advantage of this system is
+that you are not required to keep or furnish NESCent with any meal
+receipts. This system also offers significant flexibility in your
+choices of cuisine and meal times. After the meeting, NESCent will
+process reimbursements which will be mailed within approximately 45
+days. Duke University policy dictates that these reimbursements must be
+sent to your home address. Please complete the attached home address
+form and return it to NESCent prior to your arrival.
 
 Non-U.S. Citizens
 -----------------
@@ -159,8 +152,6 @@ For questions directly pertaining to NESCent arrangements, contact:
 ### For Other Questions
 
 If you have any other questions regarding your visit, please contact
-[Jeff Sturkey](mailto:jsturkey@nescent.org). NOTE: try to contact Jeff
-BEFORE June 28 or AFTER July 18; she will be in the field between those
-dates, and will only have intermittent internet connections.
+[Jeff Sturkey](mailto:jsturkey@nescent.org).
 
 <Category:Help>
