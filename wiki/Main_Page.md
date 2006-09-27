@@ -2,20 +2,14 @@
 title: Main Page
 ---
 
-<big>**\[Meeting tile\]**</big>
+<big>**Meeting Tile**</big>
 
-To login, click [here](Special:Userlogin "wikilink")
+Use the links in the sidebar to navigate the wiki.
 
-Consult the [User's
-Guide](http://meta.wikipedia.org/wiki/MediaWiki_User%27s_Guide) for
-information on using the wiki software.
+MediaWiki Help if you need it
+-----------------------------
 
-Getting started
----------------
-
--   [Configuration settings
-    list](http://www.mediawiki.org/wiki/Help:Configuration_settings)
+-   [User's
+    Guide](http://meta.wikipedia.org/wiki/MediaWiki_User%27s_Guide)
 -   [MediaWiki FAQ](http://www.mediawiki.org/wiki/Help:FAQ)
--   [MediaWiki release mailing
-    list](http://mail.wikipedia.org/mailman/listinfo/mediawiki-announce)
 
