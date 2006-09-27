@@ -14,12 +14,12 @@ The URL for the mailing list archive is
 You will need to login with your email and password to view the
 archives. The initial password is randomly generated and can be
 retrieved through the [subscription information
-page](https://lists.nescent.org/mailman/listinfo/wg-taxondb21) Enter
-your email address with which you are subscribed into the field at the
-bottom of the page and click the button next to it labeled 'Unsubscribe
-or edit options'. The next page will have a button to have the system
-email you your password. You may also send requests for changes to the
-mailing list to <support@nescent.org>.
+page](https://lists.nescent.org/mailman/listinfo/wg_demo) Enter your
+email address with which you are subscribed into the field at the bottom
+of the page and click the button next to it labeled 'Unsubscribe or edit
+options'. The next page will have a button to have the system email you
+your password. You may also send requests for changes to the mailing
+list to <support@nescent.org>.
 
 NESCent Newsletters
 -------------------
