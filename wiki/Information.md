@@ -108,8 +108,8 @@ Meal Arrangements
 We will be basing your meal reimbursement on the
 \[<http://www.gsa.gov/Portal/gsa/ep/contentView.do?programId=9704&channelId>=-15943&ooid=16365&contentId=17943&pageTypeId=8203&contentType=GSA\_BASIC&programPage=%252Fep%252Fprogram%252FgsaBasic.jsp&P=MTT
 GSA Federal per diem rates\]. We are able to reimburse participants up
-to a total of $210.00 for the meals at the meeting. This includes meals
-on your arrival and departure days. A major advantage of this system is
+to a total of $$$ for the meals at the meeting. This includes meals on
+your arrival and departure days. A major advantage of this system is
 that you are not required to keep or furnish NESCent with any meal
 receipts. This system also offers significant flexibility in your
 choices of cuisine and meal times. After the meeting, NESCent will
