@@ -7,19 +7,19 @@ Mailing List for the Meeting
 
 The mailing list is called and is hosted by NESCent. You can send email
 to all meeting participants by posting to
-\[[mailto:{{GroupEmail}](mailto:{{GroupEmail})} \].
+\[[mailto:wg](mailto:wg)-@nescent.org wg-@nescent.org\].
 
 The URL for the mailing list archive is
-[[https://lists.nescent.org/mailman/private/{{GroupEmailName}}/](https://lists.nescent.org/mailman/private/{{GroupEmailName}}/)](https://lists.nescent.org/mailman/private/{{GroupEmailName}}/).
-You will need to login with your email and password to view the
-archives. The initial password is randomly generated and can be
-retrieved through the [subscription information
-page](https://lists.nescent.org/mailman/listinfo/wg_demo) Enter your
-email address with which you are subscribed into the field at the bottom
-of the page and click the button next to it labeled 'Unsubscribe or edit
-options'. The next page will have a button to have the system email you
-your password. You may also send requests for changes to the mailing
-list to <support@nescent.org>.
+\[<https://lists.nescent.org/mailman/private/wg>-/
+<https://lists.nescent.org/mailman/private/wg>-/\]. You will need to
+login with your email and password to view the archives. The initial
+password is randomly generated and can be retrieved through the
+\[<https://lists.nescent.org/mailman/listinfo/wg>- subscription
+information page\] Enter your email address with which you are
+subscribed into the field at the bottom of the page and click the button
+next to it labeled 'Unsubscribe or edit options'. The next page will
+have a button to have the system email you your password. You may also
+send requests for changes to the mailing list to <support@nescent.org>.
 
 NESCent Newsletters
 -------------------
