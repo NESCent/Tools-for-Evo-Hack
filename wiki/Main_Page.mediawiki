@@ -1,4 +1,4 @@
-<big>'''Meeting Tile'''</big>
+<big>'''{{SITENAME}} Wiki'''</big>
 
 Use the links in the sidebar to navigate the wiki.
 

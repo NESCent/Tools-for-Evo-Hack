@@ -2,7 +2,7 @@
 title: Main Page
 ---
 
-<big>**Meeting Tile**</big>
+<big>** Wiki**</big>
 
 Use the links in the sidebar to navigate the wiki.
 
