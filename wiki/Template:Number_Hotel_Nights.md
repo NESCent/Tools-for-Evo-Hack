@@ -2,4 +2,4 @@
 title: Template:Number Hotel Nights
 ---
 
-N
+<number of hotal nights>
