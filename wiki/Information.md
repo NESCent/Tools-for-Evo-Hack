@@ -75,9 +75,6 @@ Mark. His contact information is:
     Toll Free Telephone:  800-633-9350
     Email: mark@galegentrytravel.com
 
-It would be helpful if you could make your travel arrangements by August
-15.
-
 Transportation
 --------------
 
