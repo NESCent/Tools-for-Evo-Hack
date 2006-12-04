@@ -103,9 +103,7 @@ reimbursement. NESCent bases these amounts on the
 \[<http://www.gsa.gov/Portal/gsa/ep/contentView.do?programId=9704&channelId>=-15943&ooid=16365&contentId=17943&pageTypeId=8203&contentType=GSA\_BASIC&programPage=%252Fep%252Fprogram%252FgsaBasic.jsp&P=MTT
 GSA Federal per diem rates\]. Individual reimbursement amounts will vary
 depending on the length of the meeting. Please review the information
-specific to your meeting for the exact amount of eligible
-reimbursement.Please consult the information sent to you regarding
-travel and reimbursement for your specific meeting.
+specific to your meeting for the exact amount of eligible reimbursement.
 
 Non-U.S. Citizens
 -----------------
