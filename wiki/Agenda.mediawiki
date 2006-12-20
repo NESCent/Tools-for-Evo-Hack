@@ -1,5 +1,5 @@
 <big>{{SITENAME}} Agenda</big>
---SAMPLE--
+ THIS IS A SAMPLE
 
 =Wednesday, Feb 29, 2007=
 
