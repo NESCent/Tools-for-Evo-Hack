@@ -2,9 +2,7 @@
 title: Agenda
 ---
 
-<big></big>
-
--   -   SAMPLE\*\*
+<big> Agenda</big> --SAMPLE--
 
 Wednesday, Feb 29, 2007
 =======================
