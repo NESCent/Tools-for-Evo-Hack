@@ -5,8 +5,8 @@ title: Lists
 Mailing List for the Meeting
 ----------------------------
 
-The mailing list is called and is hosted by NESCent. You can send email
-to all meeting participants by posting to
+The mailing list is called **wg-** and is hosted by NESCent. You can
+send email to all meeting participants by posting to
 \[[mailto:wg](mailto:wg)-@nescent.org wg-@nescent.org\].
 
 The URL for the mailing list archive is
