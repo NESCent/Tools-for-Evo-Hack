@@ -1,4 +1,5 @@
-<big>Title of the meeting</big>
+<big>{{SITENAME}}</big>
+**SAMPLE**
 
 =Wednesday, Feb 29, 2007=
 
