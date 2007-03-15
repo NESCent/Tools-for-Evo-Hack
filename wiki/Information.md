@@ -98,12 +98,25 @@ NESCent office for your meeting.
 Meal Arrangements
 -----------------
 
-NESCent-sponsored meeting participants are eligible for meal
-reimbursement. NESCent bases these amounts on the
-\[<http://www.gsa.gov/Portal/gsa/ep/contentView.do?programId=9704&channelId>=-15943&ooid=16365&contentId=17943&pageTypeId=8203&contentType=GSA\_BASIC&programPage=%252Fep%252Fprogram%252FgsaBasic.jsp&P=MTT
-GSA Federal per diem rates\]. Individual reimbursement amounts will vary
-depending on the length of the meeting. Please review the information
-specific to your meeting for the exact amount of eligible reimbursement.
+We are able to reimburse you up to $36.75 for meals on your arrival
+travel day and for your departure travel day, providing you can furnish
+NESCent with original receipts. Reimbursable meal receipts cannot exceed
+$49.00 for a full (non-travel) meeting day at NESCent. These amounts are
+based upon US Government rates and are subject to change. Please see the
+information sent to you regarding your specific meeting.
+
+NESCent is unable to reimburse you for any alcohol purchases, and cannot
+process meal receipts with any alcohol line-items. Please make sure
+there are no alcohol charges on your submitted receipt.
+
+NESCent can reimburse you for your local airport parking, travel to the
+airport, and related ground transportation, with your original receipts.
+
+In order to process your reimbursement, NESCent will need your home
+address and your social security number. Without your home address,
+NESCent cannot process any reimbursement to you. NESCent will process
+reimbursement checks which will be mailed to your home address within
+approximately 45 days after you send us your original receipts.
 
 Non-U.S. Citizens
 -----------------
