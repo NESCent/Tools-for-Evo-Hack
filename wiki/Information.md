@@ -113,10 +113,10 @@ NESCent can reimburse you for your local airport parking, travel to the
 airport, and related ground transportation, with your original receipts.
 
 In order to process your reimbursement, NESCent will need your home
-address and your social security number. Without your home address,
-NESCent cannot process any reimbursement to you. NESCent will process
-reimbursement checks which will be mailed to your home address within
-approximately 45 days after you send us your original receipts.
+address. Without your home address, NESCent cannot process any
+reimbursement to you. NESCent will process reimbursement checks which
+will be mailed to your home address within approximately 45 days after
+you send us your original receipts.
 
 Non-U.S. Citizens
 -----------------
