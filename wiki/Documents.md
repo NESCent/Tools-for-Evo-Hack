@@ -2,8 +2,8 @@
 title: Documents
 ---
 
-*For collaborative writing of documents, you may wish to use
-[Writely](http://www.writely.com/)*
+*For collaborative writing of documents, you may wish to use [Google
+Docs](http://docs.google.com)*
 
 Presentation Slides
 -------------------
