@@ -2,156 +2,312 @@
 title: Information
 ---
 
-The travel, transportation, and hotel arrangements are also available as
-a [downloadable PDF file](Media:Travel_Arrangements.pdf "wikilink").
+`National Evolutionary Synthesis Center`  
+`2024 W. Main St., Suite A200`  
+`Durham, NC  27705  USA`  
+[`http://www.nescent.org`](http://www.nescent.org)  
+`Phone:  919-668-4551`  
+`Fax:  919-668-9198`
 
-Meeting
--------
+NESCent Travel Arrangements
+===========================
 
-### Agenda
+The following information is an overview of your travel plans for your
+trip to NESCent. Please also see our NSF/NESCent Travel Policies
+section.
 
--   [Original agenda](Media:Agenda.pdf "wikilink") as a PDF download
--   [Agenda](Agenda "wikilink") with latest updates
-
-### Resources
-
-NESCent is equipped with a complete set of IT and office resources to
-support the needs of meeting participants. They are explained in detail
-in the [IT & General Help article](Help:Contents "wikilink").
-
-In short, all meeting and break-out spaces are covered by wireless
-network. Wired network jacks are available in the conference rooms and
-at the back of the large meeting space too. We have a system
-administrator on staff to assist you ad-hoc with computer problems.
-Video projectors and a loaner laptop for displaying Powerpoint
-presentations are available. You may submit your presentation
-electronically to the meeting organizer either by email, or using a USB
-memory stick (your own or supplied by us).
-
-In terms of office resources, there are fully networked printers you can
-use, as well as a copier that doubles as a scanner. For high-end
-printing and finishing needs, a FedexKinko's is right across the street.
-
-Hotel Arrangements
-------------------
-
-You will be staying at the
-\[<http://www.millenniumhotels.com/MCIL.nsf/LU_HOTELDOC/113>$$HotelDescription?OpenDocument
-Millennium Hotel\] in Durham, (2800 Campus Walk Avenue, Durham, NC
-27705, telephone: (919) 383-8575).
-
-Reservations have been made for the whole meeting period. Check in time
-at the Millennium Hotel is 3:00 p.m. and check out time is noon. Please
-contact Jeff Sturkey at NESCent via email [Jeff
-Sturkey](mailto:jsturkey@nescent.org) or 919-668-4545 to make any
-changes to your room reservations or ask for information about any other
-issue, such as reimbursement. If you are bringing a roommate, there will
-be an additional charge of $20.00 per person per night payable to the
-Millennium Hotel.
-
-Travel Arrangements
+Hotel Arrangements:
 -------------------
 
-Please contact our travel agent, [Mark
-Eide](mailto:mark@galegentrytravel.com), as soon as possible to arrange
-your airline travel. Please note that as a condition of your invitation
-to participate in NESCent meetings, we ask that your travel plans be
-ticketed no less than 21 days in advance of your meeting. In addition,
-our travel agent has been instructed to search for lower-cost airfares
-for all attendees.
+You will be staying at the
+
+`Millennium Hotel `  
+`2800 Campus Walk Avenue`  
+`Durham, NC  27705`  
+`telephone:  919-383-8575`
+
+NESCent will arrange your hotel reservations. Contact Jeff Sturkey at
+NESCent via email [jeff.sturkey@duke.edu](mailto:jeffsturkey@duke.edu)
+or 919-668-4545 to make any changes to your room reservations. The rooms
+will be directly billed to NESCent. We will pay for your room, while you
+will be responsible for all other incidental room charges, including
+phone calls and meals you might charge to your room. If you are bringing
+a roommate, there will be an additional charge of $20.00 per person per
+night payable to the Millennium Hotel.
+
+If your travel plans change and you are not able to attend the meeting,
+please assist NESCent in avoiding any hotel penalties by notifying us as
+soon as possible.
+
+Travel Arrangements:
+--------------------
+
+Please contact our travel agent, [Nate
+Matthews](mailto:nate@galegentrytravel.com), as soon as possible to
+arrange your airline travel. Please note that as a condition of your
+invitation to participate in NESCent meetings, we ask that your travel
+plans be ticketed no less than 21 days in advance of your meeting. In
+some circumstances, particularly for international travel, we may
+request that you extend your stay to include a Saturday night. In
+addition, our travel agent has been instructed to search for lower-cost
+airfares for all attendees.
+
+NESCent cannot guarantee the reimbursement of any non-NESCent travel
+agent travel arrangements. Attendees wishing to make their own travel
+plans should seek approval prior to making any financial commitments on
+their part.
 
 Your early selection of flights will provide you the widest choices. In
 addition, please note that the National Science Foundation requires that
 we use U.S. air carriers and coach class.
 
-Your airfare charge will be directly billed to NESCent. Although we have
-provided the travel agency with your names, we ask that you contact
-Mark. His contact information is:
+Your airfare will be directly billed to NESCENT. Although we have
+provided the travel agency with your names, we ask that you contact Nate
+Matthews. His contact information is:
 
-    Mark Eide (although other agents at the firm can assist you as well)
-    Gentry Travel
-    Telephone:  919-787-2511  ext. 215  
-    Toll Free Telephone:  800-633-9350
-    Email: mark@galegentrytravel.com
+Nate Matthews (although other agents at the firm can assist you as well)
 
-Transportation
---------------
+`Gale Gentry Travel`  
+`Telephone:  919-787-2511 ext. 428`  
+`Toll Free Telephone:  800-633-9350`  
+`Email:  `[`nate@galegentrytravel.com`](mailto:nate@galegentrytravel.com)
 
-### Arrival at Raleigh/Durham International Airport (RDU)
+Arrival at Raleigh/Durham International Airport (RDU):
+------------------------------------------------------
 
 We suggest using the Millennium Hotel airport shuttle service. This
 shuttle will be directly billed to NESCent. When you arrive at RDU,
-please call the Millennium Hotel via the display of hotels at the
-Baggage claim area. You may pick up the receiver and push the
-appropriate button for the Millennium Hotel, or you may call the
-Millennium at (919) 383-8575. Please tell the attendant that you have a
-reservation and wish to be picked up at the RDU airport. The hotel is
-approximately 10 minutes away. Any ground transportation questions
-arising immediately after arrival can be answered at the RDU Information
-Desk near the Baggage Claim area.
+please call the
+\[<http://www.millenniumhotels.com/MCIL.nsf/LU_HOTELDOC/113>$$HotelDescription?OpenDocument
+Millennium Hotel\] via the display of hotels at the Baggage claim area.
+You may pick up the receiver and push the appropriate button for the
+Millennium Hotel, or you may call the Millennium at (919) 383-8575.
+Please tell the attendant that you have a reservation and wish to be
+picked up at the RDU airport. The hotel is approximately 20 minutes
+away. Any ground transportation questions arising immediately after
+arrival can be answered at the RDU Information Desk near the Baggage
+Claim area.
 
-### Getting to NESCent
+For flights arriving at or after 9:00 p.m., please take a taxi to the
+Millennium Hotel.
 
-We will also coordinate shuttle service between the hotel and the
+Getting to NESCent:
+-------------------
+
+We will also coordinate daily shuttle service between the hotel and the
 NESCent office for your meeting.
 
-Meal Arrangements
------------------
+Meal Arrangements:
+------------------
 
-We are able to reimburse you up to $36.75 for meals on your arrival
-travel day and for your departure travel day, providing you can furnish
-NESCent with original receipts. Reimbursable meal receipts cannot exceed
-$49.00 for a full (non-travel) meeting day at NESCent. These amounts are
-based upon US Government rates and are subject to change. Please see the
-information sent to you regarding your specific meeting.
+### For Non-Duke University Employees � Meal Per Diem:
 
-NESCent is unable to reimburse you for any alcohol purchases, and cannot
-process meal receipts with any alcohol line-items. Please make sure
-there are no alcohol charges on your submitted receipt.
+We will be basing your meal reimbursement on the US GSA Federal per diem
+rates. This includes 75% per diem reimbursement on your arrival and
+departure days. A major advantage of this system is that you are not
+required to keep or furnish NESCent with any meal receipts. This system
+also offers significant flexibility in your choices of cuisine and meal
+times. ���Please note that NSF prohibits the reimbursement for alcoholic
+beverages.��� After the meeting, NESCent will process reimbursements
+which will be mailed within approximately 45 days. Duke University
+policy dictates that these reimbursements must be sent to your home
+address. You will be asked to complete a home address form including
+your social security number and return it to NESCent prior to your
+arrival.
 
-NESCent can reimburse you for your local airport parking, travel to the
-airport, and related ground transportation, with your original receipts.
+### For Non-U.S. Citizens � Original Receipts:
 
-In order to process your reimbursement, NESCent will need your home
-address. Without your home address, NESCent cannot process any
-reimbursement to you. NESCent will process reimbursement checks which
-will be mailed to your home address within approximately 45 days after
-you send us your original receipts.
+Because per diem reimbursements for foreign nationals can be taxed at
+36%, it is recommended that NESCent reimbursement you based on original
+meal receipts. ���NSF prohibits the reimbursement for any alcohol.
+Please note that Duke will not reimburse you for your meal if alcoholic
+beverages appear on your receipt.��� Please consult with your restaurant
+server to insure that alcoholic beverages do not appear on your receipt
+for NESCent. After the meeting, NESCent will process reimbursements
+which will be mailed within approximately 45 days after receiving your
+original receipts. Duke University policy dictates that these
+reimbursements must be sent to your home address. You will be asked to
+complete a home address form and return it to NESCent prior to your
+arrival.
 
-Non-U.S. Citizens
------------------
+### For Duke University Employees � Original Receipts:
 
-We would appreciate your letting us know if you are not a US citizen. If
+Duke University faculty and staff must furnish original receipts for
+meals and, if possible, use a Duke Procurement Card to purchase meals.
+���NSF prohibits the reimbursement for any alcohol. Please note that
+Duke will not reimburse you for your meal if alcoholic beverages appear
+on your receipt.��� Please consult with your restaurant server to insure
+that alcoholic beverages do not appear on your receipt for NESCent.
+
+Other Important Information for Non-U.S. Citizens
+-------------------------------------------------
+
+We would appreciate you letting us know if you are not a US citizen. If
 you will be arriving from outside the United States, we will provide you
-with a formal letter of invitation briefly outlining the purpose of your
-visit. This letter may be required during your travel to the US, and we
-encourage you to keep a copy with you. Please send via email your office
-mailing address so that we can send the formal letter of invitation. For
-all non-US citizens we will need to make a copy of your passport and
-I-94 and/or visa waiver during your visit.
+with a formal letter of invitation from NESCent briefly outlining the
+purpose of your visit. This letter may be required during your travel to
+the US, and we encourage you to keep a copy with you. Please send via
+email your office mailing address so that we can send the formal letter
+of invitation.
 
-IT Support
-----------
+For all non-US citizens we will need to make a copy of your passport and
+I-94 and/or visa waiver during your visit. You must meet with a NESCent
+staff member for photo-copying and completion of Duke University and
+NESCent International Guest forms. This includes citizens of other
+countries already in the US. We cannot process your expense
+reimbursements without this documentation.
 
-For information about the IT and audio-visual support at NESCent, please
-see <Help:Contents>.
+NSF/NESCent Travel Policy
+=========================
 
-Contact
--------
+Flight Arrangements:
+--------------------
 
-### For Logistical Questions
+1.  We are required by NSF to use US-based air-carriers and require
+    coach-class tickets. Occasionally, there are situations where US
+    carriers are not available. We address these on a
+    case-by-case basis.
+2.  There are rare occasions where an attendee may request an exemption
+    to coach-class travel for medical reasons. These are addressed on a
+    case-by-case basis and may require a written statement from the
+    attendee�s physician for full consideration. This is a NSF policy.
+3.  NESCent expects all participants to select lower cost, 21-day
+    advance purchase tickets through NESCent�s selected travel agent. In
+    some circumstances, particularly for international travel, we may
+    request that you extend your stay to include a Saturday night. We
+    will provide all attendees our travel agent�s name, email address,
+    toll-free telephone number and related contact information, and ask
+    them to contact our agent.
+4.  All flight arrangements should be made through a NESCent
+    travel agent. Once attendees have made their travel plans and their
+    tickets have been purchased, it will be the responsibility of the
+    attendee to pay for any non-emergency ticket changes. Emergency
+    ticket changes (such as family, or medical issues, etc.) are
+    addressed upon a case-by-case basis and may not be approved or paid
+    for by NESCent.
+5.  Although cancelled tickets are usually in the name of the attendee,
+    NESCent hopes that the attendee will be able to use the canceled
+    ticket a for a future NESCent activity.
 
-For questions directly pertaining to NESCent arrangements, contact:
+Ground transportation:
+----------------------
 
-    Jeff Sturkey                        Telephone:  919-668-4545
-    Logistics Coordinator                   Fax:             919-668-9192
-    National Evolutionary Synthesis Center      Email:         jsturkey@nescent.org
-    2024 West Main Street, Suite A200
-    Durham, NC 27705
+1.  Attendees may choose to drive to their meeting at NESCent. In these
+    cases and at NESCent�s discretion, NESCent may choose to offer the
+    attendee reimbursement equal to the GSA mileage rate for the
+    round-trip drive or a 21-day advance purchase air fare, whichever
+    is lower. Long distance driving reimbursements will be evaluated on
+    a case-by-case basis.
+2.  NESCent will pay for shuttles to and from the Raleigh/Durham (RDU)
+    airport to the selected hotel and NESCent, and strongly suggests
+    using the selected hotel�s shuttle.
+3.  NESCent will reimburse attendees for routine airport parking and
+    related hometown ground-travel expenses with original receipts.
+4.  Attendees arriving at or after 9:00 p.m. should take a taxi to
+    the hotel. Taxis may be found outside the Baggage Claim areas at the
+    RDU Airport.
+5.  NESCent cannot pay for limousines or car rentals.
 
-### For Other Questions
+Lodging and reimbursement rates:
+--------------------------------
 
-If you have any other questions regarding your visit, please contact
-[Jeff Sturkey](mailto:jsturkey@nescent.org).
+1.  NESCent will select the hotel and will coordinate all reservations
+    for the attendees.
+2.  NESCent is limited by the US Government�s rates in the lodging fees
+    that it can pay.
+3.  NESCent will pay for attendees� lodging for the dates of the
+    meeting, usually including arriving the day prior to the meeting and
+    departure the afternoon or evening of the last meeting day. Return
+    flights to some locations may require departure the day following
+    the meeting�s adjournment. Meeting coordinators can request an
+    arrival or departure beyond this framework for themselves.
+
+Meal Reimbursement:
+-------------------
+
+### Non-Duke University Employees � Per Diem:
+
+1.  NESCent is limited by the US Government�s meal per diem rates.
+    NESCent may modify these rates.
+2.  Due to Duke University policies, it is not possible to offer
+    attendees a meal program of NESCent-paid meals and partial
+    per diems. We have found it more efficient to provide attendees with
+    a post-meeting reimbursement for a pre-established GSA-related per
+    diem rate. Attendees (non-Duke attendees) are not required to
+    provide NESCent with any meal receipts as part of this program.
+3.  \\'\\'\\'Please note that NSF prohibits the reimbursement for any
+    alcohol.\\'\\'\\'
+4.  NESCent will communicate to your attendees the reimbursement rates
+    for the meeting.
+5.  NESCent may modify the reimbursement rates for meetings.
+
+### Non-US Citizens � Original Receipts:
+
+1.  Because per diem reimbursements for foreign nationals can be taxed
+    at 36%, it is recommended that NESCent reimbursement you based on
+    original meal receipts.
+2.  \\'\\'\\'NSF prohibits the reimbursement for any alcohol. Please
+    note that we cannot reimburse you for your meal if alcoholic
+    beverages appear on your receipt.\\'\\'\\' Please consult with your
+    restaurant server to insure that alcoholic beverages do not appear
+    on your receipt for NESCent.
+3.  Amounts for meals are based upon the US Government�s per diem rates.
+    These pre-established and meeting-specific rates will be
+    communicated to participants prior to the meeting and will outline
+    additional details and the process for reimbursing their expenses.
+
+### Duke University Employees:
+
+1.  Duke University faculty and staff must furnish original receipts for
+    meals and, if possible, use a Duke Procurement Card to
+    purchase meals.
+2.  \\'\\'\\'NSF prohibits the reimbursement for any alcohol. Please
+    note that we cannot reimburse you for your meal if alcoholic
+    beverages appear on your receipt.\\'\\'\\' Please consult with your
+    restaurant server to insure that alcoholic beverages do not appear
+    on your receipt for NESCent.
+3.  Amounts for meals are based upon the US Government�s per diem rates.
+    These pre-established and meeting-specific rates will be
+    communicated to Duke employee participants prior to the meeting and
+    will outline additional details and the process for reimbursing
+    their expenses.
+
+Other Reimbursements:
+---------------------
+
+1.  Duke University requires \\'\\'\\'original receipts\\'\\'\\'
+    for reimbursements.
+2.  Duke University requires that all reimbursements be mailed to an
+    attendee�s home address. Attendees will be requested to provide
+    their home address (and social security number if also receiving a
+    per diem reimbursement) prior to the meeting.
+3.  Attendees will be given a letter outlining their reimbursement
+    process, and a pre-addressed envelope for sending their
+    \\'\\'\\'original receipts\\'\\'\\' to NESCent.
+4.  Processing reimbursements will take approximately 45 days, assuming
+    attendees immediately provide their \\'\\'\\'original
+    receipts\\'\\'\\' and home address. Individual situations may
+    take longer.
+5.  NESCent provides reimbursement in US dollars. Attendees wishing to
+    receive reimbursement in alternative currencies or wire transfers
+    will be responsible for the payment (or deduction from
+    reimbursement amounts) of all currency change fees. Historically
+    these fees have been $20 for alternative currencies and $45 for
+    wire transfers.
+6.  We recommend that foreign nationals submit original receipts for
+    reimbursement of all expenses. Without a social security number and
+    an international tax treaty agreement with the United States of
+    America, taxes may be withheld at 36% from all
+    reimbursements submitted.
+
+Web Sites With Federal and NSF Travel Policies:
+-----------------------------------------------
+
+1.  Office of Management and Budget (OMB), Circular A-21, \#53 Travel
+    Costs - <http://www.whitehouse.gov/omb/circulars/a021/a21_2004.html>
+2.  NSF Grant Policy Manual, \#05-131, \#614 Travel Costs -
+    <http://www.nsf.gov/pubs/manuals/gpm05_131/gpm6.jsp#614>
+3.  U.S. General Services Administration (GSA) Per Diem Rates -
+    <http://www.state.gov/m/a/als/>
 
 <Category:Help>
