@@ -2,13 +2,6 @@
 title: Information
 ---
 
-`National Evolutionary Synthesis Center`  
-`2024 W. Main St., Suite A200`  
-`Durham, NC  27705  USA`  
-[`http://www.nescent.org`](http://www.nescent.org)  
-`Phone:  919-668-4551`  
-`Fax:  919-668-9198`
-
 NESCent Travel Arrangements
 ===========================
 
