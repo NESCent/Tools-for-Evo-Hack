@@ -8,6 +8,8 @@ title: Agenda
 `Jack W. Sites, Jr. and Daniel G. Faith`  
 `16 – 19 June 2008; Duke University, Durham, NC`
 
+[ Download Agenda](Media:Agenda "wikilink")
+
 Themes of the discussion:
 =========================
 
