@@ -163,12 +163,12 @@ Flight Arrangements:
 2.  There are rare occasions where an attendee may request an exemption
     to coach-class travel for medical reasons. These are addressed on a
     case-by-case basis and may require a written statement from the
-    attendee�s physician for full consideration. This is a NSF policy.
+    attendee's physician for full consideration. This is a NSF policy.
 3.  NESCent expects all participants to select lower cost, 21-day
     advance purchase tickets through NESCent's selected travel agent. In
     some circumstances, particularly for international travel, we may
     request that you extend your stay to include a Saturday night. We
-    will provide all attendees our travel agent�s name, email address,
+    will provide all attendees our travel agent's name, email address,
     toll-free telephone number and related contact information, and ask
     them to contact our agent.
 4.  All flight arrangements should be made through a NESCent
@@ -186,14 +186,14 @@ Ground transportation:
 ----------------------
 
 1.  Attendees may choose to drive to their meeting at NESCent. In these
-    cases and at NESCent�s discretion, NESCent may choose to offer the
+    cases and at NESCent's discretion, NESCent may choose to offer the
     attendee reimbursement equal to the GSA mileage rate for the
     round-trip drive or a 21-day advance purchase air fare, whichever
     is lower. Long distance driving reimbursements will be evaluated on
     a case-by-case basis.
 2.  NESCent will pay for shuttles to and from the Raleigh/Durham (RDU)
     airport to the selected hotel and NESCent, and strongly suggests
-    using the selected hotel�s shuttle.
+    using the selected hotel's shuttle.
 3.  NESCent will reimburse attendees for routine airport parking and
     related hometown ground-travel expenses with original receipts.
 4.  Attendees arriving at or after 9:00 p.m. should take a taxi to
@@ -206,9 +206,9 @@ Lodging and reimbursement rates:
 
 1.  NESCent will select the hotel and will coordinate all reservations
     for the attendees.
-2.  NESCent is limited by the US Government�s rates in the lodging fees
+2.  NESCent is limited by the US Government's rates in the lodging fees
     that it can pay.
-3.  NESCent will pay for attendees� lodging for the dates of the
+3.  NESCent will pay for attendees' lodging for the dates of the
     meeting, usually including arriving the day prior to the meeting and
     departure the afternoon or evening of the last meeting day. Return
     flights to some locations may require departure the day following
