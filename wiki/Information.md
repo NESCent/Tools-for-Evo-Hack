@@ -93,28 +93,28 @@ NESCent office for your meeting.
 Meal Arrangements:
 ------------------
 
-### For Non-Duke University Employees � Meal Per Diem:
+### For Non-Duke University Employees - Meal Per Diem:
 
 We will be basing your meal reimbursement on the US GSA Federal per diem
 rates. This includes 75% per diem reimbursement on your arrival and
 departure days. A major advantage of this system is that you are not
 required to keep or furnish NESCent with any meal receipts. This system
 also offers significant flexibility in your choices of cuisine and meal
-times. ���Please note that NSF prohibits the reimbursement for alcoholic
-beverages.��� After the meeting, NESCent will process reimbursements
+times. **Please note that NSF prohibits the reimbursement for alcoholic
+beverages.** After the meeting, NESCent will process reimbursements
 which will be mailed within approximately 45 days. Duke University
 policy dictates that these reimbursements must be sent to your home
 address. You will be asked to complete a home address form including
 your social security number and return it to NESCent prior to your
 arrival.
 
-### For Non-U.S. Citizens � Original Receipts:
+### For Non-U.S. Citizens - Original Receipts:
 
 Because per diem reimbursements for foreign nationals can be taxed at
 36%, it is recommended that NESCent reimbursement you based on original
-meal receipts. ���NSF prohibits the reimbursement for any alcohol.
-Please note that Duke will not reimburse you for your meal if alcoholic
-beverages appear on your receipt.��� Please consult with your restaurant
+meal receipts. **NSF prohibits the reimbursement for any alcohol. Please
+note that Duke will not reimburse you for your meal if alcoholic
+beverages appear on your receipt.** Please consult with your restaurant
 server to insure that alcoholic beverages do not appear on your receipt
 for NESCent. After the meeting, NESCent will process reimbursements
 which will be mailed within approximately 45 days after receiving your
@@ -123,13 +123,13 @@ reimbursements must be sent to your home address. You will be asked to
 complete a home address form and return it to NESCent prior to your
 arrival.
 
-### For Duke University Employees � Original Receipts:
+### For Duke University Employees - Original Receipts:
 
 Duke University faculty and staff must furnish original receipts for
 meals and, if possible, use a Duke Procurement Card to purchase meals.
-���NSF prohibits the reimbursement for any alcohol. Please note that
-Duke will not reimburse you for your meal if alcoholic beverages appear
-on your receipt.��� Please consult with your restaurant server to insure
+**NSF prohibits the reimbursement for any alcohol. Please note that Duke
+will not reimburse you for your meal if alcoholic beverages appear on
+your receipt.** Please consult with your restaurant server to insure
 that alcoholic beverages do not appear on your receipt for NESCent.
 
 Other Important Information for Non-U.S. Citizens
@@ -165,7 +165,7 @@ Flight Arrangements:
     case-by-case basis and may require a written statement from the
     attendee�s physician for full consideration. This is a NSF policy.
 3.  NESCent expects all participants to select lower cost, 21-day
-    advance purchase tickets through NESCent�s selected travel agent. In
+    advance purchase tickets through NESCent's selected travel agent. In
     some circumstances, particularly for international travel, we may
     request that you extend your stay to include a Saturday night. We
     will provide all attendees our travel agent�s name, email address,
@@ -212,15 +212,15 @@ Lodging and reimbursement rates:
     meeting, usually including arriving the day prior to the meeting and
     departure the afternoon or evening of the last meeting day. Return
     flights to some locations may require departure the day following
-    the meeting�s adjournment. Meeting coordinators can request an
+    the meeting's adjournment. Meeting coordinators can request an
     arrival or departure beyond this framework for themselves.
 
 Meal Reimbursement:
 -------------------
 
-### Non-Duke University Employees � Per Diem:
+### Non-Duke University Employees - Per Diem:
 
-1.  NESCent is limited by the US Government�s meal per diem rates.
+1.  NESCent is limited by the US Government's meal per diem rates.
     NESCent may modify these rates.
 2.  Due to Duke University policies, it is not possible to offer
     attendees a meal program of NESCent-paid meals and partial
@@ -228,23 +228,23 @@ Meal Reimbursement:
     a post-meeting reimbursement for a pre-established GSA-related per
     diem rate. Attendees (non-Duke attendees) are not required to
     provide NESCent with any meal receipts as part of this program.
-3.  \\'\\'\\'Please note that NSF prohibits the reimbursement for any
-    alcohol.\\'\\'\\'
+3.  **Please note that NSF prohibits the reimbursement for
+    any alcohol.**
 4.  NESCent will communicate to your attendees the reimbursement rates
     for the meeting.
 5.  NESCent may modify the reimbursement rates for meetings.
 
-### Non-US Citizens � Original Receipts:
+### Non-US Citizens - Original Receipts:
 
 1.  Because per diem reimbursements for foreign nationals can be taxed
     at 36%, it is recommended that NESCent reimbursement you based on
     original meal receipts.
-2.  \\'\\'\\'NSF prohibits the reimbursement for any alcohol. Please
-    note that we cannot reimburse you for your meal if alcoholic
-    beverages appear on your receipt.\\'\\'\\' Please consult with your
-    restaurant server to insure that alcoholic beverages do not appear
-    on your receipt for NESCent.
-3.  Amounts for meals are based upon the US Government�s per diem rates.
+2.  **NSF prohibits the reimbursement for any alcohol. Please note that
+    we cannot reimburse you for your meal if alcoholic beverages appear
+    on your receipt.**' Please consult with your restaurant server to
+    insure that alcoholic beverages do not appear on your receipt
+    for NESCent.
+3.  Amounts for meals are based upon the US Government's per diem rates.
     These pre-established and meeting-specific rates will be
     communicated to participants prior to the meeting and will outline
     additional details and the process for reimbursing their expenses.
@@ -254,12 +254,12 @@ Meal Reimbursement:
 1.  Duke University faculty and staff must furnish original receipts for
     meals and, if possible, use a Duke Procurement Card to
     purchase meals.
-2.  \\'\\'\\'NSF prohibits the reimbursement for any alcohol. Please
-    note that we cannot reimburse you for your meal if alcoholic
-    beverages appear on your receipt.\\'\\'\\' Please consult with your
-    restaurant server to insure that alcoholic beverages do not appear
-    on your receipt for NESCent.
-3.  Amounts for meals are based upon the US Government�s per diem rates.
+2.  **NSF prohibits the reimbursement for any alcohol. Please note that
+    we cannot reimburse you for your meal if alcoholic beverages appear
+    on your receipt.** Please consult with your restaurant server to
+    insure that alcoholic beverages do not appear on your receipt
+    for NESCent.
+3.  Amounts for meals are based upon the US Government's per diem rates.
     These pre-established and meeting-specific rates will be
     communicated to Duke employee participants prior to the meeting and
     will outline additional details and the process for reimbursing
@@ -268,19 +268,17 @@ Meal Reimbursement:
 Other Reimbursements:
 ---------------------
 
-1.  Duke University requires \\'\\'\\'original receipts\\'\\'\\'
-    for reimbursements.
+1.  Duke University requires**original receipts** for reimbursements.
 2.  Duke University requires that all reimbursements be mailed to an
-    attendee�s home address. Attendees will be requested to provide
+    attendee's home address. Attendees will be requested to provide
     their home address (and social security number if also receiving a
     per diem reimbursement) prior to the meeting.
 3.  Attendees will be given a letter outlining their reimbursement
-    process, and a pre-addressed envelope for sending their
-    \\'\\'\\'original receipts\\'\\'\\' to NESCent.
+    process, and a pre-addressed envelope for sending their **original
+    receipts** to NESCent.
 4.  Processing reimbursements will take approximately 45 days, assuming
-    attendees immediately provide their \\'\\'\\'original
-    receipts\\'\\'\\' and home address. Individual situations may
-    take longer.
+    attendees immediately provide their **original receipts** and
+    home address. Individual situations may take longer.
 5.  NESCent provides reimbursement in US dollars. Attendees wishing to
     receive reimbursement in alternative currencies or wire transfers
     will be responsible for the payment (or deduction from
