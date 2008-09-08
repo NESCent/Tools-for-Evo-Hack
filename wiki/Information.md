@@ -144,12 +144,12 @@ the US, and we encourage you to keep a copy with you. Please send via
 email your office mailing address so that we can send the formal letter
 of invitation.
 
-For all non-US citizens we will need to make a copy of your passport and
-I-94 and/or visa waiver during your visit. You must meet with a NESCent
-staff member for photo-copying and completion of Duke University and
-NESCent International Guest forms. This includes citizens of other
-countries already in the US. We cannot process your expense
-reimbursements without this documentation.
+For all non-US citizens we will need to make a copy of your passport,
+I-94, visa waiver, and/or permanent resident card during your visit. You
+must meet with a NESCent staff member for photo-copying and completion
+of Duke University and NESCent International Guest forms. This includes
+citizens of other countries already in the US. We cannot process your
+expense reimbursements without this documentation.
 
 NSF/NESCent Travel Policy
 =========================
