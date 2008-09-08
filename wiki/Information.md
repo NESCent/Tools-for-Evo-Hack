@@ -268,7 +268,7 @@ Meal Reimbursement:
 Other Reimbursements:
 ---------------------
 
-1.  Duke University requires**original receipts** for reimbursements.
+1.  Duke University requires **original receipts** for reimbursements.
 2.  Duke University requires that all reimbursements be mailed to an
     attendee's home address. Attendees will be requested to provide
     their home address (and social security number if also receiving a
