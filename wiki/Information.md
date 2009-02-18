@@ -12,25 +12,14 @@ section.
 Hotel Arrangements:
 -------------------
 
-You will be staying at the
-
-`Millennium Hotel `  
-`2800 Campus Walk Avenue`  
-`Durham, NC  27705`  
-`telephone:  919-383-8575`
-
-NESCent will arrange your hotel reservations. Contact Danielle Wilson at
-NESCent via email <danielle@nescent.org> or 919-668-4545 to make any
-changes to your room reservations. The rooms will be directly billed to
-NESCent. We will pay for your room, while you will be responsible for
-all other incidental room charges, including phone calls and meals you
-might charge to your room. If you are bringing a roommate, there will be
-an additional charge of $20.00 per person per night payable to the
-Millennium Hotel.
+NESCent will pay for your room, while you will be responsible for all
+other incidental room charges, including phone calls and meals you might
+charge to your room.
 
 If your travel plans change and you are not able to attend the meeting,
-please assist NESCent in avoiding any hotel penalties by notifying us as
-soon as possible.
+please assist NESCent in avoiding any hotel penalties by contacting
+Danielle Wilson at NESCent via email Danielle@nescent.org or phone at
+919-668-4545 to make any changes or cancel your room reservations.
 
 Travel Arrangements:
 --------------------
