@@ -24,12 +24,10 @@ Danielle Wilson at NESCent via email Danielle@nescent.org or phone at
 Travel Arrangements:
 --------------------
 
-Please contact our travel agent, [Nate
-Matthews](mailto:nate@galegentrytravel.com), as soon as possible to
-arrange your airline travel. Please note that as a condition of your
-invitation to participate in NESCent meetings, we ask that your travel
-plans be ticketed no less than 21 days in advance of your meeting. In
-some circumstances, particularly for international travel, we may
+Your airfare will be directly billed to NESCent. A condition of your
+invitation to participate in any NESCent event, we ask that your travel
+plans be ticketed no less than 21 days in advance of your arrival date.
+In some circumstances, particularly for international travel, we may
 request that you extend your stay to include a Saturday night. In
 addition, our travel agent has been instructed to search for lower-cost
 airfares for all attendees.
@@ -39,20 +37,22 @@ agent travel arrangements. Attendees wishing to make their own travel
 plans should seek approval prior to making any financial commitments on
 their part.
 
-Your early selection of flights will provide you the widest choices. In
-addition, please note that the National Science Foundation requires that
-we use U.S. air carriers and coach class.
+In addition, the National Science Foundation requires that we use U.S.
+air carriers and coach class. If you are a Federal employee, please
+contact Danielle Wilson at NESCent immediately before arranging your
+airline travel.
 
-Your airfare will be directly billed to NESCENT. Although we have
-provided the travel agency with your names, we ask that you contact Nate
-Matthews. His contact information is:
+-   -   SPECIAL NOTE TO INTERNATIONAL VISITORS TO THE UNITED STATES
+        \*\*\*
 
-Nate Matthews (although other agents at the firm can assist you as well)
-
-`Gale Gentry Travel`  
-`Telephone:  919-787-2511 ext. 428`  
-`Toll Free Telephone:  800-633-9350`  
-`Email:  `[`nate@galegentrytravel.com`](mailto:nate@galegentrytravel.com)
+Beginning January 12, 2009, all VWP (Visa Waiver Program) nationals and
+citizens will be required to obtain a travel authorization prior to
+initiating travel to the United States under the Visa Waiver Program.
+This authorization may be obtained on-line through a free Internet
+application administered by the Department of Homeland Security through
+a U.S. government web site. There is no fee for completion of an ESTA
+application. For complete information, please go to:
+<http://www.cbp.gov/xp/cgov/travel/id_visa/esta/>
 
 Arrival at Raleigh/Durham International Airport (RDU):
 ------------------------------------------------------
