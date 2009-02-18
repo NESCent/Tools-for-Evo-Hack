@@ -56,21 +56,8 @@ application. For complete information, please go to:
 Arrival at Raleigh/Durham International Airport (RDU):
 ------------------------------------------------------
 
-We suggest using the Millennium Hotel airport shuttle service. This
-shuttle will be directly billed to NESCent. When you arrive at RDU,
-please call the
-\[<http://www.millenniumhotels.com/MCIL.nsf/LU_HOTELDOC/113>$$HotelDescription?OpenDocument
-Millennium Hotel\] via the display of hotels at the Baggage claim area.
-You may pick up the receiver and push the appropriate button for the
-Millennium Hotel, or you may call the Millennium at (919) 383-8575.
-Please tell the attendant that you have a reservation and wish to be
-picked up at the RDU airport. The hotel is approximately 20 minutes
-away. Any ground transportation questions arising immediately after
-arrival can be answered at the RDU Information Desk near the Baggage
-Claim area.
-
-For flights arriving at or after 9:00 p.m., please take a taxi to the
-Millennium Hotel.
+Upon arrival to the airport, please take a taxi to the hotel. The taxis
+are available outside the Baggage Claim areas.
 
 Getting to NESCent:
 -------------------
