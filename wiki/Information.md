@@ -42,9 +42,7 @@ air carriers and coach class. If you are a Federal employee, please
 contact Danielle Wilson at NESCent immediately before arranging your
 airline travel.
 
--   -   SPECIAL NOTE TO INTERNATIONAL VISITORS TO THE UNITED STATES
-        \*\*\*
-
+**SPECIAL NOTE TO INTERNATIONAL VISITORS TO THE UNITED STATES**
 Beginning January 12, 2009, all VWP (Visa Waiver Program) nationals and
 citizens will be required to obtain a travel authorization prior to
 initiating travel to the United States under the Visa Waiver Program.
