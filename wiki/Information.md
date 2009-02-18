@@ -62,8 +62,10 @@ are available outside the Baggage Claim areas.
 Getting to NESCent:
 -------------------
 
-We will also coordinate daily shuttle service between the hotel and the
-NESCent office for your meeting.
+NESCent will coordinate daily shuttle service between the hotel and the
+NESCent office for your visit. We will also pre-schedule your out-bound
+airport shuttles (if applicable). A schedule will be distributed upon
+your arrival at NESCent.
 
 Meal Arrangements:
 ------------------
