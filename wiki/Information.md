@@ -160,19 +160,18 @@ Meal Reimbursement:
 
 ### Non-Duke University Employees - Per Diem:
 
-1.  NESCent is limited by the US Government's meal per diem rates.
-    NESCent may modify these rates.
-2.  Due to Duke University policies, it is not possible to offer
-    attendees a meal program of NESCent-paid meals and partial
-    per diems. We have found it more efficient to provide attendees with
-    a post-meeting reimbursement for a pre-established GSA-related per
-    diem rate. Attendees (non-Duke attendees) are not required to
-    provide NESCent with any meal receipts as part of this program.
-3.  **Please note that NSF prohibits the reimbursement for
-    any alcohol.**
-4.  NESCent will communicate to your attendees the reimbursement rates
-    for the meeting.
-5.  NESCent may modify the reimbursement rates for meetings.
+1.  Duke University faculty and staff must furnish original receipts for
+    meals and, if possible, use a Duke Procurement Card to
+    purchase meals.
+2.  NSF prohibits the reimbursement for any alcohol. Please note that we
+    cannot reimburse you for your meal if alcoholic beverages appear on
+    your receipt. Please consult with your restaurant server to insure
+    that alcoholic beverages do not appear on your receipt for NESCent.
+3.  Amounts for meals are based upon the US Government’s per diem rates.
+    These pre-established and meeting-specific rates will be
+    communicated to Duke employee participants prior to the meeting and
+    will outline additional details and the process for reimbursing
+    their expenses.
 
 ### Non-US Citizens - Original Receipts:
 
