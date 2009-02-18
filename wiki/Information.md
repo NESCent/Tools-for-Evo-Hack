@@ -103,12 +103,12 @@ Flight Arrangements:
 2.  There are rare occasions where an attendee may request an exemption
     to coach-class travel for medical reasons. These are addressed on a
     case-by-case basis and may require a written statement from the
-    attendee's physician for full consideration. This is a NSF policy.
+    attendee’s physician for full consideration. This is a NSF policy.
 3.  NESCent expects all participants to select lower cost, 21-day
-    advance purchase tickets through NESCent's selected travel agent. In
+    advance purchase tickets through NESCent’s selected travel agent. In
     some circumstances, particularly for international travel, we may
     request that you extend your stay to include a Saturday night. We
-    will provide all attendees our travel agent's name, email address,
+    will provide all attendees our travel agent’s name, email address,
     toll-free telephone number and related contact information, and ask
     them to contact our agent.
 4.  All flight arrangements should be made through a NESCent
