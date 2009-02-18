@@ -83,12 +83,23 @@ Meal Arrangements:
 Non-US Citizens – Original Receipts:
 ------------------------------------
 
-` 1.Because per diem reimbursements for foreign nationals can be taxed at 36%, it is recommended that NESCent reimbursement you based on  `  
-`   original meal receipts.`  
-` 2.NSF prohibits the reimbursement for any alcohol.  Please note that we cannot reimburse you for your meal if alcoholic beverages appear on `  
-`   your receipt. Please consult with your restaurant server to insure that alcoholic beverages do not appear on your receipt for NESCent.`  
-` 3.Amounts for meals are based upon the US Government’s per diem rates.  These pre-established and meeting-specific rates will be `  
-`   communicated to participants prior to the meeting and will outline additional details and the process for reimbursing their expenses.`
+1.  Because per diem reimbursements for foreign nationals can be taxed
+    at 36%, it is recommended that NESCent reimbursement you based on
+    original meal receipts.
+
+<!-- -->
+
+1.  NSF prohibits the reimbursement for any alcohol. Please note that we
+    cannot reimburse you for your meal if alcoholic beverages appear on
+    your receipt. Please consult with your restaurant server to insure
+    that alcoholic beverages do not appear on your receipt for NESCent.
+
+<!-- -->
+
+1.  Amounts for meals are based upon the US Government’s per diem rates.
+    These pre-established and meeting-specific rates will be
+    communicated to participants prior to the meeting and will outline
+    additional details and the process for reimbursing their expenses.
 
 NSF/NESCent Travel Policy
 =========================
