@@ -70,15 +70,21 @@ your arrival at NESCent.
 Meal Arrangements:
 ------------------
 
-`  Non-Duke University Employees – Per Diem:`  
-`     1. NESCent is limited by the US Government’s meal per diem rates.  NESCent may modify these rates.`  
-`     2. Due to Duke University policies, it is not possible to offer attendees a meal program of NESCent-paid meals and partial per diems.     `  
-`        We have found it more efficient to provide attendees with a post-meeting reimbursement for a pre-established GSA-related per diem `  
-`        rate. Attendees (non-Duke attendees) are not required to provide NESCent with any meal receipts as part of this program.`  
-`     3. `***`Please` `note` `that` `NSF` `prohibits` `the`
-`reimbursement` `for` `any` `alcohol`***`.  `  
-`     4. NESCent will communicate to your attendees the reimbursement rates for the meeting.`  
-`     5. NESCent may modify the reimbursement rates for meetings.`
+Non-Duke University Employees – Per Diem:
+
+1.  NESCent is limited by the US Government’s meal per diem rates.
+    NESCent may modify these rates.
+2.  Due to Duke University policies, it is not possible to offer
+    attendees a meal program of NESCent-paid meals and partial
+    per diems. We have found it more efficient to provide attendees with
+    a post-meeting reimbursement for a pre-established GSA-related per
+    diem rate. Attendees (non-Duke attendees) are not required to
+    provide NESCent with any meal receipts as part of this program.
+3.  ***Please note that NSF prohibits the reimbursement for any
+    alcohol***.
+4.  NESCent will communicate to your attendees the reimbursement rates
+    for the meeting.
+5.  NESCent may modify the reimbursement rates for meetings.
 
 Non-US Citizens – Original Receipts:
 ------------------------------------
