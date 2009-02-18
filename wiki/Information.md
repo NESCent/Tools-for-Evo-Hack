@@ -18,9 +18,8 @@ charge to your room.
 
 If your travel plans change and you are not able to attend the meeting,
 please assist NESCent in avoiding any hotel penalties by contacting
-Danielle Wilson at NESCent via email [1](mailto:Danielle@nescent.org) or
-phone at 919-668-4545 to make any changes or cancel your room
-reservations.
+Danielle Wilson at NESCent via email Danielle@nescent.org or phone at
+919-668-4545 to make any changes or cancel your room reservations.
 
 Travel Arrangements:
 --------------------
