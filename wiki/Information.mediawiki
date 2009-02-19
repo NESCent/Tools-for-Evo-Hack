@@ -53,11 +53,10 @@ Non-Duke University Employees – Per Diem:
 #	'''NESCent will not reimburse attendees for expenses related to luggage.'''
 
 ==Ground transportation:==
-#Attendees may choose to drive to their meeting at NESCent.  In these cases and at NESCent's discretion, NESCent may choose to offer the attendee reimbursement equal to the GSA mileage rate for the round-trip drive or a 21-day advance purchase air fare, whichever is lower.  Long distance driving reimbursements will be evaluated on a case-by-case basis.
-#NESCent will pay for shuttles to and from the Raleigh/Durham (RDU) airport to the selected hotel and NESCent, and strongly suggests using the selected hotel's shuttle.
-#NESCent will reimburse attendees for routine airport parking and related hometown ground-travel expenses with original receipts.
-#Attendees arriving at or after 9:00 p.m. should take a taxi to the hotel.  Taxis may be found outside the Baggage Claim areas at the RDU Airport.
-#NESCent cannot pay for limousines or car rentals.
+#  Attendees may choose to drive to their meeting at NESCent.  In these cases and at NESCent’s discretion, NESCent may choose to offer the attendee reimbursement equal to the GSA mileage rate for the round-trip drive or a 21-day advance purchase air fare, whichever is lower.  Long distance driving reimbursements will be evaluated on a case-by-case basis.
+#  NESCent will pay for shuttles to and from the Raleigh/Durham (RDU) airport to the selected hotel and NESCent, and strongly suggests using the selected hotel’s shuttle.
+#  NESCent will reimburse attendees for routine airport parking and related hometown ground-travel expenses with original receipts.#Attendees arriving at or after 9:00 p.m. should take a taxi to the hotel.  Taxis may be found outside the Baggage Claim areas at the RDU Airport.
+#  NESCent cannot pay for limousines or car rentals.
 
 ==Lodging and reimbursement rates:==
 #NESCent will select the hotel and will coordinate all reservations for the attendees.
