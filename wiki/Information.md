@@ -134,6 +134,12 @@ Flight Arrangements:
     NESCent hopes that the attendee will be able to use the canceled
     ticket a for a future NESCent activity.
 
+Luggage:
+--------
+
+1.  **NESCent will not reimburse attendees for expenses related
+    to luggage.**
+
 Ground transportation:
 ----------------------
 
