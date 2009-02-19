@@ -181,10 +181,11 @@ Meal Reimbursement:
 1.  Duke University faculty and staff must furnish original receipts for
     meals and, if possible, use a Duke Procurement Card to
     purchase meals.
-2.  NSF prohibits the reimbursement for any alcohol. Please note that we
-    cannot reimburse you for your meal if alcoholic beverages appear on
-    your receipt. Please consult with your restaurant server to insure
-    that alcoholic beverages do not appear on your receipt for NESCent.
+2.  NSF prohibits the reimbursement for any alcohol. **Please note that
+    we cannot reimburse you for your meal if alcoholic beverages appear
+    on your receipt.** Please consult with your restaurant server to
+    insure that alcoholic beverages do not appear on your receipt
+    for NESCent.
 3.  Amounts for meals are based upon the US Government’s per diem rates.
     These pre-established and meeting-specific rates will be
     communicated to Duke employee participants prior to the meeting and
