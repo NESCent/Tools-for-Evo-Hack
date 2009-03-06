@@ -9,6 +9,9 @@ The following information is an overview of your travel plans for your
 trip to NESCent. Please also see our NSF/NESCent Travel Policies
 section.
 
+**Specific travel information for your group can be downloaded here:
+[Travel.pdf](Media:Travel.pdf "wikilink")**
+
 Hotel Arrangements:
 -------------------
 
