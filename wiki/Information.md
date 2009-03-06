@@ -10,7 +10,8 @@ trip to NESCent. Please also see our NSF/NESCent Travel Policies
 section.
 
 **Specific travel information for your group can be downloaded here:
-[Travel.pdf](Media:Travel.pdf "wikilink")**
+\[[https://{{SERVERNAME}](https://{{SERVERNAME})}/Travel.pdf
+travel.pdf\]**
 
 Hotel Arrangements:
 -------------------
