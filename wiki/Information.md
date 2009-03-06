@@ -2,6 +2,8 @@
 title: Information
 ---
 
+\_\_NOTOC\_\_
+
 NESCent Travel Arrangements
 ===========================
 
