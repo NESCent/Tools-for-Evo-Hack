@@ -2,8 +2,8 @@
 title: Information
 ---
 
-NESCent Travel Arrangements
-===========================
+NESCent Travel Arrangements:
+============================
 
 The following information is an overview of your travel plans for your
 trip to NESCent. Please also see our NSF/NESCent Travel Policies
