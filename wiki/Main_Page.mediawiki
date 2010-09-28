@@ -36,8 +36,6 @@ Organizers have identified the following broad themes for focusing work at the e
 * [[Phylogenetics and Tree Visualization|Visualization of phylogenetic data and trees]]
 * [[Diversity and Phenotypes|Population Diversity and Phenotype support]]
 
-See [[Objectives]] and the individual pages for details.
-
 = Hackathon Structure =
 
 == Before the Event ==

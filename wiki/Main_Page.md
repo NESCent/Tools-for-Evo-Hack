@@ -106,9 +106,6 @@ targets.
 -   [Population Diversity and Phenotype
     support](Diversity_and_Phenotypes "wikilink")
 
-See [Objectives](Objectives "wikilink") and the individual pages for
-details.
-
 Hackathon Structure
 ===================
 
