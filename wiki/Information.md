@@ -24,23 +24,9 @@ Danielle Wilson at NESCent via email Danielle@nescent.org or phone at
 Travel Arrangements:
 --------------------
 
-Your airfare will be directly billed to NESCent. A condition of your
-invitation to participate in any NESCent event, we ask that your travel
-plans be ticketed no less than 21 days in advance of your arrival date.
-In some circumstances, particularly for international travel, we may
-request that you extend your stay to include a Saturday night. In
-addition, our travel agent has been instructed to search for lower-cost
-airfares for all attendees.
-
-NESCent cannot guarantee the reimbursement of any non-NESCent travel
-agent travel arrangements. Attendees wishing to make their own travel
-plans should seek approval prior to making any financial commitments on
-their part.
-
-In addition, the National Science Foundation requires that we use U.S.
-air carriers and coach class. If you are a Federal employee, please
-contact Danielle Wilson at NESCent immediately before arranging your
-airline travel.
+Your travel arrangements depend on the level of support you are
+receiving from NESCent. Please see email from Danielle Wilson of NESCent
+with specific information.
 
 **SPECIAL NOTE TO INTERNATIONAL VISITORS TO THE UNITED STATES**
 
