@@ -1,0 +1,9 @@
+---
+title: Use Cases
+---
+
+Use cases are specific problems that we could address or solutions we
+could implement using the hackathon's deliverables. Use cases will help
+the group prioritize possible deliverables, and then give developers
+concrete examples to address when developing solutions. (Put another
+way, use cases help developers deliver things that are actually useful.)
