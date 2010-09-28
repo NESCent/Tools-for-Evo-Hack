@@ -20,8 +20,9 @@ Local Links
 
 Hotel  
 
--   \[<http://www.millenniumhotels.com/MCIL.nsf/LU_HOTELDOC/113>$$HotelDescription?OpenDocument
-    Millenium Hotel\]
+-   \[<http://www.marriott.com/hotels/travel/rducv-durham-marriott-convention-center/>
+
+Durham Marriott Hotel\]
 
 Dining & Entertainment  
 
