@@ -10,7 +10,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Robert|Buels||rmb32@cornell.edu|}}
 {{Participant|Scott|Cain||scott@scottcain.net|}}
 {{Participant|Terry|Casstevens||tmc46@cornell.edu|}}
-{{Participant|Dave|Clements||clements@nescent.org|}}
+{{Participant|Dave|Clements|[http://nescent.org NESCent], [[gmod:Main Page|GMOD]]|clements@nescent.org|}}
 {{Participant|Delphine|Dauga||dauga@ibdm.univ-mrs.fr|}}
 {{Participant|Chris|Fields||cjfields@illinois.edu|}}
 {{Participant|Maren|Friesen||friesen@usc.edu|}}
