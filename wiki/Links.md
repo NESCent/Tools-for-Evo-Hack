@@ -20,9 +20,8 @@ Local Links
 
 Hotel  
 
--   \[<http://www.marriott.com/hotels/travel/rducv-durham-marriott-convention-center/>
-
-Durham Marriott Hotel\]
+-   [Durham Marriott
+    Hotel](http://www.marriott.com/hotels/travel/rducv-durham-marriott-convention-center/)
 
 Dining & Entertainment  
 
