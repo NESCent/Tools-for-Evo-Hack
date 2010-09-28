@@ -18,3 +18,5 @@ add-on for JBrowse. Current Java-based tree viewers (such as
 [PhyloWidget](http://www.phylowidget.org)) could be used as the basis
 for a JavaScript-based tree viewer (or an applet that can be controlled
 through JavaScript) that integrates with JBrowse.
+
+<Category:Objectives>
