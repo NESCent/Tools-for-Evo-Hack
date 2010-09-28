@@ -29,3 +29,5 @@ phenotype data, and to make it operate on top of Chado. The hackathon
 could harness this synergy to help this effort leap forward, which could
 ultimately provide GMOD with the currently missing web-interface for
 such data.
+
+<Category:Objectives>
