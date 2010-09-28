@@ -47,6 +47,9 @@ References (optional)
 
 -   Links to documents related to this use case.
 
+Examples
+--------
+
 A whole slew of example use cases are available from the
 [Phyloinformatics](http://hackathon.nescent.org/UseCases) and [Database
 Interoperability](https://www.nescent.org/wg_evoinfo/Database_Interop_Hackathon/Use_Cases#Use_Cases)

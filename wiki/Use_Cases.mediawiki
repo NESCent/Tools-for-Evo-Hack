@@ -21,4 +21,6 @@ Use cases typically specify:
 ; References (optional)
 * Links to documents related to this use case.
 
+== Examples ==
+
 A whole slew of example use cases are available from the [http://hackathon.nescent.org/UseCases Phyloinformatics] and [https://www.nescent.org/wg_evoinfo/Database_Interop_Hackathon/Use_Cases#Use_Cases Database Interoperability] Hackathons.
