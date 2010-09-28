@@ -56,9 +56,9 @@ your arrival at NESCent.
 Meal Arrangements:
 ------------------
 
-Non-Duke University Employees – Per Diem:
+***If* NESCent is paying your meal costs and you aren't with Duke:**
 
-1.  NESCent is limited by the US Government’s meal per diem rates.
+1.  NESCent is limited by the US Government’s meal *per diem* rates.
     NESCent may modify these rates.
 2.  Due to Duke University policies, it is not possible to offer
     attendees a meal program of NESCent-paid meals and partial
