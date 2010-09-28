@@ -19,3 +19,5 @@ the means for tracking the necessary alignment metadata in
 In addition to filling those gaps, GBrowse\_syn would also particularly
 stand to benefit from the event by gaining a more sustainable developer
 base.
+
+<Category:Objectives>

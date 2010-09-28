@@ -3,3 +3,5 @@
 In particular, GBrowse_syn lacks support for the [http://samtools.sourceforge.net/ Sequence Alignment Format (SAM)], its mechanism of storing genome comparisons does not scale beyond a few organisms,  and the means for tracking the necessary alignment metadata in [[gmod:Chado|Chado]] are insufficient.
 
 In addition to filling those gaps, GBrowse_syn would also particularly stand to benefit from the event by gaining a more sustainable developer base.
+
+[[Category:Objectives]]
