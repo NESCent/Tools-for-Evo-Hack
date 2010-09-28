@@ -38,3 +38,11 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Matt|Yoder||diapriid@gmail.com|}}
 |-
 |}
+
+== Organizing Committee ==
+* [[gmod:User:NLWashington|Nicole Washington]], chair
+* [[gmod:User:Mckays|Sheldon McKay]]
+* [[gmod:User:Scott|Scott Cain]]
+* [[gmod:User:RBuels|Robert Buels]]
+* [https://www.nescent.org/wg_phyloinformatics/User:Hlapp Hilmar Lapp]
+* [[gmod:User:Clements|Dave Clements]]
