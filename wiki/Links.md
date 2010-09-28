@@ -10,6 +10,16 @@ by semantic tags. Popular sites include
 [Connotea](http://www.connotea.org/) and
 [del.icio.us](http://del.icio.us).*
 
+Hackathon
+---------
+
+-   [Proposal](gmod:GMOD_Evo_Hackathon_Proposal "wikilink") submitted to
+    [NESCent](http://nesscent.org/)
+-   [Open call for
+    participants](gmod:GMOD_Evo_Hackathon_Open_Call "wikilink")
+-   [Proposal Supplemental
+    Information](gmod:GMOD_Evo_Hackathon_Proposal_Supplemental_Information "wikilink")
+
 Bibliography
 ------------
 
