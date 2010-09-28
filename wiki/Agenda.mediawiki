@@ -1,1 +1,24 @@
-<big>GROUP MEETING: AGENDA</big>
+= Timeline =
+
+{| class="wikitable" style="width: 40em; margin-left: 2em"
+|-
+|align="right"| '''June 3, 2010'''
+| [[gmod:GMOD Evo Hackathon Proposal|Proposal]] submitted to [http://nesscent.org/ NESCent]
+|-
+|align="right"| '''June 10, 2010'''
+| Funding approved
+|-
+|align="right"| '''August 1, 2010'''
+| [[gmod:GMOD Evo Hackathon Open Call|Open call for participants]], applications open
+|-
+|align="right"| '''August 25, 2010'''
+| [[gmod:GMOD Evo Hackathon Open Call|Open call application]] deadline
+|-
+|align="right"| '''September 16, 2010'''
+| Applicants notified
+|-
+|align="right"| '''September 24, 2010'''
+| Deadline for participant attendance commitment
+|}
+
+= Hackathon Agenda =
