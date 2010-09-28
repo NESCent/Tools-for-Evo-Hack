@@ -91,6 +91,9 @@ Non-US Citizens – Original Receipts:
 NSF/NESCent Travel Policy
 =========================
 
+**These restrictions apply to you only for the expenses that NESCent is
+funding for you.**
+
 Flight Arrangements:
 --------------------
 
