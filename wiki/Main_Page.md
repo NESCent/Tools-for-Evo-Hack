@@ -99,11 +99,15 @@ at the event. Before and at the hackathon, the participants will refine
 and distill these and other options into concrete implementation
 targets.
 
--   Viewing tools for comparative genomics data
--   Visualization of phylogenetic data and trees
--   Population Diversity and Phenotype support
+-   [Viewing tools for comparative genomics
+    data](Comparative_Genomics_Visualization "wikilink")
+-   [Visualization of phylogenetic data and
+    trees](Phylogenetics_and_Tree_Visualization "wikilink")
+-   [Population Diversity and Phenotype
+    support](Diversity_and_Phenotypes "wikilink")
 
-See [Objectives](Objectives "wikilink") for details.
+See [Objectives](Objectives "wikilink") and the individual pages for
+details.
 
 Hackathon Structure
 ===================

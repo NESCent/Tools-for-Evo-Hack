@@ -32,11 +32,11 @@ The hackathon format is ideally suited to realize this opportunity.  Its strengt
 = Specific Objectives =
 
 Organizers have identified the following broad themes for focusing work at the event.  Before and at the hackathon, the participants will refine and distill these and other options into concrete implementation targets.  
-* Viewing tools for comparative genomics data
-* Visualization of phylogenetic data and trees
-* Population Diversity and Phenotype support
+* [[Comparative Genomics Visualization|Viewing tools for comparative genomics data]]
+* [[Phylogenetics and Tree Visualization|Visualization of phylogenetic data and trees]]
+* [[Diversity and Phenotypes|Population Diversity and Phenotype support]]
 
-See [[Objectives]] for details.
+See [[Objectives]] and the individual pages for details.
 
 = Hackathon Structure =
 
