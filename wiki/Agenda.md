@@ -12,12 +12,11 @@ Date, time, and call details will be posted here, once it is known.
 -   Introductions: what [participants](participants "wikilink")'
     interests are, and what you want to work on.
 -   Resources
-    -   [Mailing List](Lists "wikilink")
-    -   This wiki
+    -   [Mailing List](Lists "wikilink"): all participants can post.
+    -   This wiki: All participants can update. High quality content
+        will be copied to [main GMOD wiki](gmod:Main_Page "wikilink")
+        after the event.
           
-        High quality content will be copied to [main GMOD
-        wiki](gmod:Main_Page "wikilink") after this event.
-
         **Q:** Should the hackathon wiki be wide open for viewing to
         anyone, or should it require a login to view pages?
 -   Pre-hackathon work
