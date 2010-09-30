@@ -7,9 +7,19 @@ First Teleconference Agenda
 
 Date, time, and call details will be posted here, once it is known.
 
--   Objectives: Quick review of the three objectives.
--   Introductions: what participants' interests are, and what you want
-    to work on.
+-   [Objectives](Objectives "wikilink"): Quick review of the
+    three objectives.
+-   Introductions: what [participants](participants "wikilink")'
+    interests are, and what you want to work on.
+-   Resources
+    -   [Mailing List](Lists "wikilink")
+    -   This wiki
+          
+        High quality content will be copied to [main GMOD
+        wiki](gmod:Main_Page "wikilink") after this event.
+
+        **Q:** Should the hackathon wiki be wide open for viewing to
+        anyone, or should it require a login to view pages?
 -   Pre-hackathon work
     -   [Use Cases](Use_Cases "wikilink"): Clearly stated, concrete
         problems that can't be addressed currently, and that we could
