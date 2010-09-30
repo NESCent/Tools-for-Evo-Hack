@@ -2,7 +2,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 
 {| border="1" cellspacing="0"
 !Participant	
-!Affiliation
+!Affiliation & Interests
 !Email
 {{Participant|Filip|Balejko||filip.balejko@gmail.com|}}
 {{Participant|Jim|Balhoff||balhoff@nescent.org|}}
