@@ -9,33 +9,33 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Yuri|Bendana|USC Biological Sciences; population diversity and phenotype data, using Chado for genotype and phenotype|ybendana@usc.edu|}}
 {{Participant|Robert|Buels|[http://solgenomics.net/ Sol Genomics Network], Boyce Thompson Institute|rmb32@cornell.edu|'''}}
 {{Participant|Scott|Cain|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]|scott@scottcain.net|'''}}
-{{Participant|Terry|Casstevens||tmc46@cornell.edu|}}
-{{Participant|Dave|Clements|[http://nescent.org NESCent], [[gmod:Main Page|GMOD]]|clements@nescent.org|}}
-{{Participant|Delphine|Dauga||dauga@ibdm.univ-mrs.fr|}}
-{{Participant|Chris|Fields||cjfields@illinois.edu|}}
-{{Participant|Maren|Friesen||friesen@usc.edu|}}
-{{Participant|Vladimir|Gapeyev||vgapeyev@nescent.org|}}
-{{Participant|Richard|Hayes||rdhayes@lbl.gov|}}
-{{Participant|Andrew|Hill||andrew.hill@colorado.edu|}}
-{{Participant|Benjamin|Hitz||hitz@genome.stanford.edu|}}
-{{Participant|Greg|Jordan||greg@ebi.ac.uk|}}
-{{Participant|Hilmar|Lapp||hlapp@nescent.org|}}
-{{Participant|Jonathan|Leto||jonathan@leto.net|}}
-{{Participant|Eric|Lyons||elyons.berkeley@gmail.com|}}
-{{Participant|Sheldon|McKay||sheldon.mckay@gmail.com|}}
-{{Participant|Olaf|Mueller||olaf-mueller@uiowa.edu|}}
-{{Participant|Chris|Mungall||cjm@berkeleybop.org|}}
-{{Participant|Sander|Pick||sanderpick@gmail.com|}}
-{{Participant|Sergei|Pond||spond@ucsd.edu|}}
+{{Participant|Terry|Casstevens|Cornell University, GDPDM, TASSEL, Gramene; phenotype and genotype diversity|tmc46@cornell.edu|}}
+{{Participant|Dave|Clements|[http://nescent.org NESCent], [[gmod:Main Page|GMOD]]|clements@nescent.org|'''}}
+{{Participant|Delphine|Dauga|ANISEED; phenotype, genotype, cell fate, gene expression|dauga@ibdm.univ-mrs.fr|}}
+{{Participant|Chris|Fields|University of Illinois, BioPerl; Better integration of evo tools with GMOD, more consistent models for phylogenetic analyses in BioPerl|cjfields@illinois.edu|}}
+{{Participant|Maren|Friesen|USC; make going from SNP calls to browsing population genetics and associations with phenotypes 'automatic', including integration with feature lists (e.g. gene calls), expression atlases, and GO annotation|friesen@usc.edu|}}
+{{Participant|Vladimir|Gapeyev|[http://nescent.org NESCent], population data, Chado Natural Diversity module and front-end UI suitable for a non-sophisticated user|vgapeyev@nescent.org|}}
+{{Participant|Richard|Hayes|JGI, Phytozome; short read data, [[gmod:GBrowse_syn|GBrowse_syn]], samtools, genome annotation pipeline datasets in Chado, better integrate phytogenetic data with Gbrowse/JBrowse. options for including other tree-building algorithms beyond Neighbor-Joining; Jalview-GBrowse integration|rdhayes@lbl.gov|}}
+{{Participant|Andrew|Hill|Colorado|andrew.hill@colorado.edu|}}
+{{Participant|Benjamin|Hitz|Stanford, SGD; visualization tools to display comparative genomics for a large number of very closely related yeast strains|hitz@genome.stanford.edu|}}
+{{Participant|Greg|Jordan|EBI|greg@ebi.ac.uk|}}
+{{Participant|Hilmar|Lapp|[http://nescent.org NESCent]|hlapp@nescent.org|'''}}
+{{Participant|Jonathan|Leto|[http://solgenomics.net/ Sol Genomics Network], Boyce Thompson Institute; [[gmod:GBrowse_syn|GBrowse_syn]], phylogenetic tree visualization in Javascript, improving [[gmod:Chado|Chado]]'s build system, giving it more tests, and helping to convert it to Git|jonathan@leto.net|}}
+{{Participant|Eric|Lyons|iPlant, CoGe; comparative genomics visualization, visualization of phylogenetic data and trees, population diversity and phenotypes|elyons.berkeley@gmail.com|}}
+{{Participant|Sheldon|McKay|iPlant, Arizona, [[gmod:GBrowse_syn|GBrowse_syn]]|sheldon.mckay@gmail.com|'''}}
+{{Participant|Olaf|Mueller|Iowa; comparative fungal meiosis gene evolution, extending GMOD with web-based modules for large scale visualization and comparison of phylogenetic and genomics data from a large number of species, support selection of homologous genes in a definable number of different species and provide visualization of pre- or on the fly calculated domains, alignments and trees|olaf-mueller@uiowa.edu|}}
+{{Participant|Chris|Mungall|BBOP|cjm@berkeleybop.org|}}
+{{Participant|Sander|Pick|University of Colorado Museum of Natural History; building better (or interfacing with current) tools for visualizing phylogenetic data and trees|sanderpick@gmail.com|}}
+{{Participant|Sergei|Pond|UC San Diego; viral organisms / measurably evolving populations, NGS applications, characterizing viral population diversity within single hosts, [[gmod:Galaxy|Galaxy]], provide analytical and interpretive capabilities in this domain within the GMOD framework|spond@ucsd.edu|}}
 {{Participant|Weigang|Qiu|Hunter College of City University of New York, Bio::Align::Graphics, Bio::Tree::Draw, tree-based character visualization capabilities; http://borreliagenome.org, Processing, viewing genome variations in a phylogenetic order|weigang@genectr.hunter.cuny.edu|}}
-{{Participant|Mitch|Skinner||mitch_skinner@berkeley.edu|}}
-{{Participant|Jason|Stajich||jason.stajich@ucr.edu|}}
-{{Participant|Lincoln|Stein||lincoln.stein@gmail.com|}}
-{{Participant|Andrew|Tritt||atritt@ucdavis.edu|}}
-{{Participant|Haiming|Wang||hwang@uga.edu|}}
-{{Participant|Nicole|Washington||nlwashington@lbl.gov|}}
-{{Participant|Hong|Yi||hongyi@renci.org|}}
-{{Participant|Matt|Yoder||diapriid@gmail.com|}}
+{{Participant|Mitch|Skinner|UC Berkeley, [[gmod:JBrowse|JBrowse]]|mitch_skinner@berkeley.edu|}}
+{{Participant|Jason|Stajich|UC Riverside, fungal genomics, BioPerl|jason.stajich@ucr.edu|}}
+{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR]], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]] |lincoln.stein@gmail.com|}}
+{{Participant|Andrew|Tritt|UC Davis Genome Center; comparative genomics and phylogenetics tools, viualizing genome alignments and phylogenetic analyses; getting Mauve, Tripal, Chado, BioPerl and other components to work better together; prokaryote support in Chado|atritt@ucdavis.edu|}}
+{{Participant|Haiming|Wang|University of Georgia, EuPathDB/PlasmoDB/ToxoDB; Incorporate SynView and our in-house generic data adaptor into GBrowse 2.0. Both work with GBrowse 1.70 and previous versions|hwang@uga.edu|}}
+{{Participant|Nicole|Washington|BBOP, modENCODE|nlwashington@lbl.gov|'''}}
+{{Participant|Hong|Yi|Renaissance Computing Institute; scientific and information visualization|hongyi@renci.org|}}
+{{Participant|Matt|Yoder|NCSU; informatics infrastructure that handles high throughput sequence data, GMOD on Rails, ""structural"" alignments (i.e. those based on data managed in such applications as ARB, or manipulated with COVE, HMMER, etc.), Hymenoptera Anatomy Ontology|diapriid@gmail.com|}}
 |-
 |}
 
