@@ -2,6 +2,34 @@
 title: Agenda
 ---
 
+First Teleconference Agenda
+===========================
+
+Date, time, and call details will be posted here, once it is known.
+
+-   Objectives: Quick review of the three objectives.
+-   Introductions: what participants' interests are, and what you want
+    to work on.
+-   Pre-hackathon work
+    -   [Use Cases](Use_Cases "wikilink"): Clearly stated, concrete
+        problems that can't be addressed currently, and that we could
+        make significant progress towards during the hackathon.
+    -   Coalescing: Participants are encouraged to put forth use cases
+        and advocate that they be worked on, and to do this before the
+        event even starts.
+    -   A couple more conference calls
+    -   Update the [participants](participants "wikilink") page and
+        create your own user pages.
+-   Mechanics of the hackathon itself
+    -   First day; intros, proposals, coalescing, hacking
+    -   Subsequent days: progress reports, hacking
+
+We don't expect to discuss [objectives](objectives "wikilink") in detail
+on this first call
+
+Hackathon Agenda
+================
+
 Timeline
 ========
 
@@ -18,5 +46,4 @@ Timeline
 |  **November 8-12, 2010**| Hackathon held at NESCent                                                                            |
 |    **November 12, 2010**| Most participants depart after noon                                                                  |
 
-Hackathon Agenda
-================
+
