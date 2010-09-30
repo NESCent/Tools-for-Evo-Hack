@@ -3,3 +3,5 @@ Organizers have identified the following broad themes for focusing work at the e
 * [[Comparative Genomics Visualization]]
 * [[Phylogenetics and Tree Visualization]]
 * [[Diversity and Phenotypes]]
+
+[[Category:Objectives]]
