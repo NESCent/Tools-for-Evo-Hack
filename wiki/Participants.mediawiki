@@ -1,6 +1,6 @@
 Names and email addresses of the organizers are in bold face. The participant list is also available as a [[Media:participants.xls|downloadable Excel spreadsheet]].
 
-{| border="1" cellspacing="0"
+{| class="wikitable"
 !Participant	
 !Affiliation & Interests
 !Email
