@@ -2,4 +2,4 @@
 title: Template:Participant
 ---
 
-|- |[, ](User:{{{1}}}{{{2}}} "wikilink")||||\[mailto: \]
+|- |[, ](User:{{{4}}} "wikilink")||||\[mailto: \]
