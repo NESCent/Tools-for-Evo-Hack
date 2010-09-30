@@ -19,6 +19,18 @@
 |-
 |align="right"| '''September 24, 2010'''
 | Deadline for participant attendance commitment
+|-
+|align="right"| '''October 4, 2010'''
+| 4pm Eastern US, First group teleconference, tentative
+|-
+|align="right"| '''November 7, 2010'''
+| Most [[participants]] arrive in Durham
+|-
+|align="right"| '''November 8-12, 2010'''
+| Hackathon held at NESCent
+|-
+|align="right"| '''November 12, 2010'''
+| Most participants depart after noon
 |}
 
 = Hackathon Agenda =
