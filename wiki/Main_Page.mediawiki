@@ -1,6 +1,6 @@
 <center>
 {| style="vertical-align: middle; border: 2px solid #A6A6BC" cellpadding="10"
-| <div style="text-align: right; font-size: 200%; line-height: 120%"><b>GMOD Tools for<br />Evolutionary Biology Hackathon</b><br />November 8-12, 2010<br />[http://nescent.org/ NESCent], Durham, North Carolina, USA</div>
+| <div style="text-align: center; font-size: 200%; line-height: 120%"><b>GMOD Tools for Evolutionary Biology Hackathon</b><br />November 8-12, 2010<br />[http://nescent.org/ NESCent], Durham, North Carolina, USA</div>
 | [[Image:EvoHackathonLogo.png|center|200px]]
 |}
 </center>

@@ -3,15 +3,14 @@ title: Main Page
 ---
 
 <center>
-|                                                                     |                                                  |
-|---------------------------------------------------------------------|--------------------------------------------------|
-| <div style="text-align: right; font-size: 200%; line-height: 120%"> 
- <b>GMOD Tools for                                                    
- Evolutionary Biology Hackathon</b>                                   
- November 8-12, 2010                                                  
- [NESCent](http://nescent.org/), Durham, North Carolina, USA          
-                                                                      
- </div>                                                               | ![](EvoHackathonLogo.png "EvoHackathonLogo.png") |
+|                                                                      |                                                  |
+|----------------------------------------------------------------------|--------------------------------------------------|
+| <div style="text-align: center; font-size: 200%; line-height: 120%"> 
+ <b>GMOD Tools for Evolutionary Biology Hackathon</b>                  
+ November 8-12, 2010                                                   
+ [NESCent](http://nescent.org/), Durham, North Carolina, USA           
+                                                                       
+ </div>                                                                | ![](EvoHackathonLogo.png "EvoHackathonLogo.png") |
 
 </center>
 GMOD will be holding a hackathon November 8-12, 2010, at the [National
