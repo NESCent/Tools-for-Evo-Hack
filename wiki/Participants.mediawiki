@@ -28,12 +28,13 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Sander|Pick|University of Colorado Museum of Natural History; building better (or interfacing with current) tools for visualizing phylogenetic data and trees|sanderpick@gmail.com|}}
 {{Participant|Sergei|Pond|UC San Diego; viral organisms / measurably evolving populations, NGS applications, characterizing viral population diversity within single hosts, [[gmod:Galaxy|Galaxy]], provide analytical and interpretive capabilities in this domain within the GMOD framework|spond@ucsd.edu|}}
 {{Participant|Weigang|Qiu|Hunter College of City University of New York, Bio::Align::Graphics, Bio::Tree::Draw, tree-based character visualization capabilities; http://borreliagenome.org, Processing, viewing genome variations in a phylogenetic order|weigang@genectr.hunter.cuny.edu|}}
+{{Participant|Seth|Redmond|Imperial College London, natural diversity|seth.redmond@imperial.ac.uk|}}
 {{Participant|Mitch|Skinner|UC Berkeley, [[gmod:JBrowse|JBrowse]]|mitch_skinner@berkeley.edu|}}
 {{Participant|Jason|Stajich|UC Riverside, fungal genomics, BioPerl|jason.stajich@ucr.edu|}}
-{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR]], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]] |lincoln.stein@gmail.com|}}
+{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR]], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]].  Lincoln will not be attending in person.|lincoln.stein@gmail.com|}}
 {{Participant|Andrew|Tritt|UC Davis Genome Center; comparative genomics and phylogenetics tools, viualizing genome alignments and phylogenetic analyses; getting Mauve, Tripal, Chado, BioPerl and other components to work better together; prokaryote support in Chado|atritt@ucdavis.edu|}}
 {{Participant|Haiming|Wang|University of Georgia, EuPathDB/PlasmoDB/ToxoDB; Incorporate SynView and our in-house generic data adaptor into GBrowse 2.0. Both work with GBrowse 1.70 and previous versions|hwang@uga.edu|}}
-{{Participant|Nicole|Washington|BBOP, modENCODE|nlwashington@lbl.gov|'''}}
+{{Participant|Nicole|Washington|BBOP, modENCODE. Nicole will be attending remotely.|nlwashington@lbl.gov|'''}}
 {{Participant|Hong|Yi|Renaissance Computing Institute; scientific and information visualization|hongyi@renci.org|}}
 {{Participant|Matt|Yoder|NCSU; informatics infrastructure that handles high throughput sequence data, GMOD on Rails, ""structural"" alignments (i.e. those based on data managed in such applications as ARB, or manipulated with COVE, HMMER, etc.), Hymenoptera Anatomy Ontology|diapriid@gmail.com|}}
 |-
