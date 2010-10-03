@@ -6,8 +6,9 @@ Names and email addresses of the organizers are in bold face. The
 participant list is also available as a [downloadable Excel
 spreadsheet](Media:participants.xls "wikilink").
 
-| Participant | Affiliation & Interests | Email |
-|-------------|-------------------------|-------|
+| Participant         | Affiliation & Interests | Email |
+|---------------------|-------------------------|-------|
+| Remote participants |
 ||
 
 Organizing Committee
