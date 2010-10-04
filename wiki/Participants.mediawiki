@@ -37,7 +37,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Matt|Yoder|NCSU; informatics infrastructure that handles high throughput sequence data, GMOD on Rails, ""structural"" alignments (i.e. those based on data managed in such applications as ARB, or manipulated with COVE, HMMER, etc.), Hymenoptera Anatomy Ontology|diapriid@gmail.com|}}
 |-
 ! colspan="3"| Remote participants
-{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR]], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]].  Lincoln will not be attending in person.  He has not decided if he will participate remotely.|lincoln.stein@gmail.com|}}
+{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]].  Lincoln will not be attending in person.  He has not decided if he will participate remotely.|lincoln.stein@gmail.com|}}
 {{Participant|Nicole|Washington|BBOP, modENCODE. Nicole will be attending remotely.|nlwashington@lbl.gov|'''}}
 |-
 |}
