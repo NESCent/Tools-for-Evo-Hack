@@ -28,7 +28,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Sander|Pick|University of Colorado Museum of Natural History; building better (or interfacing with current) tools for visualizing phylogenetic data and trees|sanderpick@gmail.com|}}
 {{Participant|Sergei|Pond|UC San Diego; viral organisms / measurably evolving populations, NGS applications, characterizing viral population diversity within single hosts, [[gmod:Galaxy|Galaxy]], provide analytical and interpretive capabilities in this domain within the GMOD framework|spond@ucsd.edu|}}
 {{Participant|Weigang|Qiu|Hunter College of City University of New York, Bio::Align::Graphics, Bio::Tree::Draw, tree-based character visualization capabilities; http://borreliagenome.org, Processing, viewing genome variations in a phylogenetic order|weigang@genectr.hunter.cuny.edu|}}
-{{Participant|Seth|Redmond|Imperial College London, natural diversity|seth.redmond@imperial.ac.uk|}}
+{{Participant|Seth|Redmond|[http://www.vectorbase.org VectorBase ] / Imperial College London: genomic & functional genomic tools, natural diversity module, ontology base phenotype tools|seth.redmond@imperial.ac.uk|}}
 {{Participant|Mitch|Skinner|UC Berkeley, [[gmod:JBrowse|JBrowse]]|mitch_skinner@berkeley.edu|}}
 {{Participant|Jason|Stajich|UC Riverside, fungal genomics, BioPerl|jason.stajich@ucr.edu|}}
 {{Participant|Andrew|Tritt|UC Davis Genome Center; comparative genomics and phylogenetics tools, viualizing genome alignments and phylogenetic analyses; getting Mauve, Tripal, Chado, BioPerl and other components to work better together; prokaryote support in Chado|atritt@ucdavis.edu|}}
