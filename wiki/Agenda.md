@@ -5,7 +5,7 @@ title: Agenda
 First Teleconference Agenda
 ===========================
 
-Date, time, and call details will be posted here, once it is known.
+October 4, 2010, 4pm Eastern.
 
 -   [Objectives](Objectives "wikilink"): Quick review of the
     three objectives.
