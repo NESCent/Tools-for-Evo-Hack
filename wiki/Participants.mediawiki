@@ -21,7 +21,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Greg|Jordan|EBI|greg@ebi.ac.uk|}}
 {{Participant|Hilmar|Lapp|[http://nescent.org NESCent]|hlapp@nescent.org|'''}}
 {{Participant|Jonathan|Leto|[http://solgenomics.net/ Sol Genomics Network], Boyce Thompson Institute; [[gmod:GBrowse_syn|GBrowse_syn]], phylogenetic tree visualization in Javascript, improving [[gmod:Chado|Chado]]'s build system, giving it more tests, and helping to convert it to Git|jonathan@leto.net|}}
-{{Participant|Eric|Lyons|iPlant, [http://genomevolution.org CoGe]; comparative genomics visualization, visualization of phylogenetic data and trees, population diversity and phenotypes|elyons.berkeley@gmail.com|}}
+{{Participant|Eric|Lyons|iPlant, [http://genomevolution.org CoGe]; comparative genomics visualization, genome structure, genome evolution, genome dynamics |elyons.berkeley@gmail.com|}}
 {{Participant|Sheldon|McKay|iPlant, Arizona, [[gmod:GBrowse_syn|GBrowse_syn]]|sheldon.mckay@gmail.com|'''}}
 {{Participant|Olaf|Mueller|Iowa; comparative fungal meiosis gene evolution, extending GMOD with web-based modules for large scale visualization and comparison of phylogenetic and genomics data from a large number of species, support selection of homologous genes in a definable number of different species and provide visualization of pre- or on the fly calculated domains, alignments and trees|olaf-mueller@uiowa.edu|}}
 {{Participant|Chris|Mungall|BBOP|cjm@berkeleybop.org|}}
