@@ -1,21 +1,29 @@
 = First Teleconference Agenda =
 
-October 4, 2010, 4pm Eastern.
+The first call is
+* October 4, 2010, 4pm Eastern US.  '''OR'''
+* October 7, 2010, 3pm Eastern US.
 
-* [[Objectives]]: Quick review of the three objectives.
-* Introductions: what [[participants]]' interests are, and what you want to work on.
-* Resources
-** [[Lists|Mailing List]]: all participants can post. 
-** This wiki: All participants can update.  High quality content will be copied to [[gmod:Main Page|main GMOD wiki]] after the event.
-**: '''Q:''' Should the hackathon wiki be wide open for viewing to anyone, or should it require a login to view pages?
-* Pre-hackathon work
-** [[Use Cases]]: Clearly stated, concrete problems that can't be addressed currently, and that we could make significant progress towards during the hackathon.
-** Coalescing: Participants are encouraged to put forth use cases and advocate that they be worked on, and to do this before the event even starts.
-** A couple more conference calls
-** Update the [[participants]] page and create your own user pages.
-* Mechanics of the hackathon itself
-** First day; intros, proposals, coalescing, hacking
-** Subsequent days: progress reports, hacking
+We will cover the same topics in both calls.  Please participate in whichever one is more convenient.
+
+# [[Objectives]]: Quick review of the three objectives.
+# Introductions: what [[participants]]' interests are, and what you want to work on.
+# Resources
+#* [[Lists|Mailing List]]: all participants can post. 
+#* This wiki: All participants can update.  High quality content will be copied to [[gmod:Main Page|main GMOD wiki]] after the event.
+# Pre-hackathon work
+#* [[Use Cases]]: Clearly stated, concrete problems that can't be addressed currently, and that we could make significant progress towards during the hackathon.
+#** Use cases should be ''ripe for implementation.''  Ideas should be addressable with code and should not be open ended.
+#* Coalescing: Participants are encouraged to put forth use cases and advocate that they be worked on, and to do this before the event even starts.
+#* At least one more conference call, week of Oct 18-22.  ''Please [http://doodle.com/du2yy3g2chft2srn fill out the Doodle poll].''
+#* Please think about what training,if any, you would like to have on the first day.  Are there APIs or architectures you need to learn about that will help you during the week?  We'll run needed boot camps on the first day.
+#* Update the [[participants]] page and create your own user pages.
+# Mechanics of the hackathon itself
+#* First day; intros, proposals, coalescing, hacking
+#* Subsequent days: progress reports, hacking
+#* Bring your own laptop.  If you can't let [[User:Dpc13|Dave C]] know ASAP.
+#* Source code [[repositories]].
+
 We don't expect to discuss [[objectives]] in detail on this first call
 
 = Hackathon Agenda =

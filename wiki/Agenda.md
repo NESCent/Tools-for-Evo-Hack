@@ -5,33 +5,48 @@ title: Agenda
 First Teleconference Agenda
 ===========================
 
-October 4, 2010, 4pm Eastern.
+The first call is
 
--   [Objectives](Objectives "wikilink"): Quick review of the
+-   October 4, 2010, 4pm Eastern US. **OR**
+-   October 7, 2010, 3pm Eastern US.
+
+We will cover the same topics in both calls. Please participate in
+whichever one is more convenient.
+
+1.  [Objectives](Objectives "wikilink"): Quick review of the
     three objectives.
--   Introductions: what [participants](participants "wikilink")'
+2.  Introductions: what [participants](participants "wikilink")'
     interests are, and what you want to work on.
--   Resources
+3.  Resources
     -   [Mailing List](Lists "wikilink"): all participants can post.
     -   This wiki: All participants can update. High quality content
         will be copied to [main GMOD wiki](gmod:Main_Page "wikilink")
         after the event.
-          
-        **Q:** Should the hackathon wiki be wide open for viewing to
-        anyone, or should it require a login to view pages?
--   Pre-hackathon work
+
+4.  Pre-hackathon work
     -   [Use Cases](Use_Cases "wikilink"): Clearly stated, concrete
         problems that can't be addressed currently, and that we could
         make significant progress towards during the hackathon.
+        -   Use cases should be *ripe for implementation.* Ideas should
+            be addressable with code and should not be open ended.
     -   Coalescing: Participants are encouraged to put forth use cases
         and advocate that they be worked on, and to do this before the
         event even starts.
-    -   A couple more conference calls
+    -   At least one more conference call, week of Oct 18-22. *Please
+        [fill out the Doodle poll](http://doodle.com/du2yy3g2chft2srn).*
+    -   Please think about what training,if any, you would like to have
+        on the first day. Are there APIs or architectures you need to
+        learn about that will help you during the week? We'll run needed
+        boot camps on the first day.
     -   Update the [participants](participants "wikilink") page and
         create your own user pages.
--   Mechanics of the hackathon itself
+
+5.  Mechanics of the hackathon itself
     -   First day; intros, proposals, coalescing, hacking
     -   Subsequent days: progress reports, hacking
+    -   Bring your own laptop. If you can't let [Dave
+        C](User:Dpc13 "wikilink") know ASAP.
+    -   Source code [repositories](repositories "wikilink").
 
 We don't expect to discuss [objectives](objectives "wikilink") in detail
 on this first call
