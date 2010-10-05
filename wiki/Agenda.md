@@ -66,7 +66,7 @@ Timeline
 |                  **September 16, 2010**| Applicants notified                                                                                  |
 |                  **September 24, 2010**| Deadline for participant attendance commitment                                                       |
 |  **October 4, 2010 or October 7, 2010**| First group teleconference                                                                           |
-|                 **October 18-22, 2010**| Second group teleconference (please [fill out the poll](http://doodle.com/du2yy3g2chft2srn)          |
+|                 **October 18-22, 2010**| Second group teleconference - please [fill out the poll](http://doodle.com/du2yy3g2chft2srn)         |
 |                    **November 7, 2010**| Most [participants](participants "wikilink") arrive in Durham                                        |
 |                 **November 8-12, 2010**| Hackathon held at NESCent                                                                            |
 |                   **November 12, 2010**| Most participants depart after noon                                                                  |

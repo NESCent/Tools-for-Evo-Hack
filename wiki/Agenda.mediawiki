@@ -31,7 +31,7 @@ We don't expect to discuss [[objectives]] in detail on this first call
 
 = Timeline =
 
-{| class="wikitable" style="width: 40em; margin-left: 2em"
+{| class="wikitable" style="margin-left: 2em"
 |-
 |align="right"| '''June 3, 2010'''
 | [[gmod:GMOD Evo Hackathon Proposal|Proposal]] submitted to [http://nesscent.org/ NESCent]
@@ -55,7 +55,7 @@ We don't expect to discuss [[objectives]] in detail on this first call
 | First group teleconference
 |-
 | align="right"| '''October 18-22, 2010'''
-| Second group teleconference (please [http://doodle.com/du2yy3g2chft2srn fill out the poll]
+| Second group teleconference - please [http://doodle.com/du2yy3g2chft2srn fill out the poll]
 |-
 |align="right"| '''November 7, 2010'''
 | Most [[participants]] arrive in Durham
