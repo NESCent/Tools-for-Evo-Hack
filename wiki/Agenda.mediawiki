@@ -51,8 +51,11 @@ We don't expect to discuss [[objectives]] in detail on this first call
 |align="right"| '''September 24, 2010'''
 | Deadline for participant attendance commitment
 |-
-|align="right"| '''October 4, 2010'''
-| 4pm Eastern US, First group teleconference, tentative
+| align="right"| '''October 4, 2010 or October 7, 2010'''
+| First group teleconference
+|-
+| align="right"| '''October 18-22, 2010'''
+| Second group teleconference (please [http://doodle.com/du2yy3g2chft2srn fill out the poll]
 |-
 |align="right"| '''November 7, 2010'''
 | Most [[participants]] arrive in Durham
