@@ -73,7 +73,7 @@ Hackathon Agenda
              Afternoon: Hacking                                                                                                   |
 | Friday    | Morning: Team status reports; hacking                                                                               
                                                                                                                                   
-             Afternoon: Hacking, most out of town participants depart                                                             |
+             Afternoon: Hacking, most out of town participants depart. NESCent will arrange shuttles from NESCent to RDU.         |
 ||
 
 Timeline
