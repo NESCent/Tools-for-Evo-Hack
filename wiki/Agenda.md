@@ -44,8 +44,8 @@ whichever one is more convenient.
 5.  Mechanics of the hackathon itself
     -   First day; intros, proposals, coalescing, hacking
     -   Subsequent days: progress reports, hacking
-    -   Bring your own laptop. If you can't let [Dave
-        C](User:Dpc13 "wikilink") know ASAP.
+    -   Bring your own laptop. If you can't let [Dave](Dave "wikilink")
+        know ASAP.
     -   Source code [repositories](repositories "wikilink").
 
 We don't expect to discuss [objectives](objectives "wikilink") in detail

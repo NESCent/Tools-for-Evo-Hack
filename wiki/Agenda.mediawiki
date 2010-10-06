@@ -21,7 +21,7 @@ We will cover the same topics in both calls.  Please participate in whichever on
 # Mechanics of the hackathon itself
 #* First day; intros, proposals, coalescing, hacking
 #* Subsequent days: progress reports, hacking
-#* Bring your own laptop.  If you can't let [[User:Dpc13|Dave C]] know ASAP.
+#* Bring your own laptop.  If you can't let [[Dave]] know ASAP.
 #* Source code [[repositories]].
 
 We don't expect to discuss [[objectives]] in detail on this first call
