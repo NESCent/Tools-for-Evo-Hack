@@ -2,6 +2,8 @@
 title: Multiple Whole Genome Syntenic Analyses Visualization: identifying patterns of conservation and divergence across multiple whole genomes
 ---
 
+Use case from [Eric](Eric "wikilink").
+
 Motivation  
 
 -   Many genomes coming online. Need interactive methods and tools to
