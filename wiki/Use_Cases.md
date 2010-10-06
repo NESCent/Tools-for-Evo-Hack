@@ -12,6 +12,23 @@ We already have
 
 -   [Objectives](Objectives "wikilink")
 
+[Comparative Genomics Visualization](Comparative_Genomics_Visualization "wikilink") Use Cases
+---------------------------------------------------------------------------------------------
+
+-   [Multiple Whole Genome Syntenic Analyses Visualization: identifying
+    patterns of conservation and divergence across multiple whole
+    genomes](Multiple_Whole_Genome_Syntenic_Analyses_Visualization:_identifying_patterns_of_conservation_and_divergence_across_multiple_whole_genomes "wikilink")
+
+[Phylogenetics and Tree Visualization](Phylogenetics_and_Tree_Visualization "wikilink") Use Cases
+-------------------------------------------------------------------------------------------------
+
+-   Your use case here
+
+[Diversity and Phenotypes](Diversity_and_Phenotypes "wikilink") Use Cases
+-------------------------------------------------------------------------
+
+-   Your use case here
+
 What's in a Use Case?
 ---------------------
 
@@ -54,3 +71,5 @@ A whole slew of example use cases are available from the
 [Phyloinformatics](http://hackathon.nescent.org/UseCases) and [Database
 Interoperability](https://www.nescent.org/wg_evoinfo/Database_Interop_Hackathon/Use_Cases#Use_Cases)
 Hackathons.
+
+[Category:Use Cases](Category:Use_Cases "wikilink")

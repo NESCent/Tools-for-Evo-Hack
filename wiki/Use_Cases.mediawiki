@@ -3,6 +3,18 @@ Use cases are specific problems that we could address or solutions we could impl
 We already have
 * [[Objectives]]
 
+== [[Comparative Genomics Visualization]] Use Cases ==
+
+* [[Multiple Whole Genome Syntenic Analyses Visualization:  identifying patterns of conservation and divergence across multiple whole genomes]]
+
+== [[Phylogenetics and Tree Visualization]] Use Cases ==
+
+* Your use case here
+
+== [[Diversity and Phenotypes]] Use Cases == 
+
+* Your use case here
+
 == What's in a Use Case? ==
 
 Use cases typically specify:
@@ -24,3 +36,5 @@ Use cases typically specify:
 == Examples ==
 
 A whole slew of example use cases are available from the [http://hackathon.nescent.org/UseCases Phyloinformatics] and [https://www.nescent.org/wg_evoinfo/Database_Interop_Hackathon/Use_Cases#Use_Cases Database Interoperability] Hackathons.
+
+[[Category:Use Cases]]
