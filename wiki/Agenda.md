@@ -54,6 +54,28 @@ on this first call
 Hackathon Agenda
 ================
 
+| Day       | Activities                                                                                                          |
+|-----------|---------------------------------------------------------------------------------------------------------------------|
+| Sunday    | Most out of town [participants](participants "wikilink") arrive; Stay at the Marriott.                              |
+| Monday    | Morning: Introductions, Proposals, Boot Camps, Coalescing into groups.                                              
+                                                                                                                                  
+             Afternoon: Hacking                                                                                                   
+                                                                                                                                  
+             Evening: Group dinner at [Tobacco Road](http://www.tobaccoroadsportscafe.com/about/index.html) restaurant in Durham  |
+| Tuesday   | Morning: Team status reports; hacking                                                                               
+                                                                                                                                  
+             Afternoon: Hacking                                                                                                   |
+| Wednesday | Morning: Team status reports; hacking                                                                               
+                                                                                                                                  
+             Afternoon: Hacking                                                                                                   |
+| Thursday  | Morning: Team status reports; hacking                                                                               
+                                                                                                                                  
+             Afternoon: Hacking                                                                                                   |
+| Friday    | Morning: Team status reports; hacking                                                                               
+                                                                                                                                  
+             Afternoon: Hacking, most out of town participants depart                                                             |
+||
+
 Timeline
 ========
 

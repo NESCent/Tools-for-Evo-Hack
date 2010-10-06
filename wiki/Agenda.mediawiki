@@ -28,6 +28,41 @@ We don't expect to discuss [[objectives]] in detail on this first call
 
 = Hackathon Agenda =
 
+{| class="wikitable"
+! Day
+| Activities
+|-
+! Sunday
+| Most out of town [[participants]] arrive; Stay at the Marriott.
+|-
+! Monday
+| Morning: Introductions, Proposals, Boot Camps, Coalescing into groups.
+
+Afternoon: Hacking
+
+Evening: Group dinner at [http://www.tobaccoroadsportscafe.com/about/index.html Tobacco Road] restaurant in Durham
+|-
+! Tuesday
+| Morning: Team status reports; hacking
+
+Afternoon: Hacking
+|-
+! Wednesday
+|Morning: Team status reports; hacking
+
+Afternoon: Hacking
+|-
+! Thursday
+|Morning: Team status reports; hacking
+
+Afternoon: Hacking
+|-
+! Friday
+|Morning: Team status reports; hacking
+
+Afternoon: Hacking, most out of town participants depart
+|-
+|}
 
 = Timeline =
 
