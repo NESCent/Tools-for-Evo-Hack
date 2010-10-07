@@ -1,4 +1,5 @@
 Use case from [[Eric]].
+
 Mauve suggestions by [[Andrew]].
 
 ; Motivation
