@@ -11,10 +11,14 @@ and forth on USB sticks is not enough.
 
 GitHub, SourceForge, and Google Code are all examples of acceptable
 repositories. The choice of repositories is up to each individual team.
+
 If you will be working primarily on the core code for an existing GMOD
 component, then you are encouraged to use the GMOD SourceForge CVS
 repository. [Scott](User:Scott@scottcain.net "wikilink") or
-[Dave](Dave "wikilink") can help you get developer access.
+[Dave](Dave "wikilink") can help you get developer access. If you really
+want a GMOD project moved from SVN to Git before the hackathon, *and*
+you can convince the lead developers that it is a good idea, then
+[Rob](Rob "wikilink") is willing to help with the migration to Git.
 
 In the first [conference call](Conference_Calls "wikilink"),
 [Hilmar](Hilmar "wikilink") suggested that we nail down repositories we
