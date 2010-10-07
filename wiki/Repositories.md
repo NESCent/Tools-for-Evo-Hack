@@ -15,3 +15,15 @@ If you will be working primarily on the core code for an existing GMOD
 component, then you are encouraged to use the GMOD SourceForge CVS
 repository. [Scott](User:Scott@scottcain.net "wikilink") or
 [Dave](Dave "wikilink") can help you get developer access.
+
+In the first [conference call](Conference_Calls "wikilink"),
+[Hilmar](Hilmar "wikilink") suggested that we nail down repositories we
+want to use ahead of time, and then assemble an instruction page
+(probably this page) on where repositories live, and how to get a hold
+of them. This may not always be possible We won't know what the teams
+and projects are until part way through Monday.
+
+GMOD SourceForge Project
+------------------------
+
+See the [GMOD SVN](gmod:SVN "wikilink") page.
