@@ -57,8 +57,6 @@ on this first call
 Minutes
 -------
 
-*This section is under construction.*
-
 First, see the agenda above. If discussion was entirely redundant with
 an agenda item, then it isn't covered in the minutes.
 

@@ -30,10 +30,6 @@ We don't expect to discuss [[objectives]] in detail on this first call
 
 == Minutes ==
 
-
-''This section is under construction.''
-
-
 First, see the agenda above.  If discussion was entirely redundant with an agenda item, then it isn't covered in the minutes.
 
 Most time was spent on introductions:  What people worked on and what they were interested in for the hackathon.  See [[Participants]] for a summary.  Almost everyone made one teleconference or the other.
