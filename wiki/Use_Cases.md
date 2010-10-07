@@ -29,6 +29,11 @@ We already have
 
 -   Your use case here
 
+Multi-objective Use Cases
+-------------------------
+
+Use cases that span more than one objective.
+
 What's in a Use Case?
 ---------------------
 
