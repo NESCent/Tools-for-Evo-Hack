@@ -8,7 +8,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Jim|Balhoff|[http://nescent.org NESCent], [http://phenoscape.org Phenoscape], [http://hymao.org HAO]; standardize phenotype representations, in terms of both ontological modeling and serialization formats, so that data can be easily shared and cross-linked across projects and scientific domains|balhoff@nescent.org|}}
 {{Participant|Yuri|Bendana|USC Biological Sciences; population diversity and phenotype data, using Chado for genotype and phenotype|ybendana@usc.edu|}}
 {{Participant|Robert|Buels|Engineering lead at [http://solgenomics.net/ Sol Genomics Network].  Primarily software engineering background.  Interested in improving comparative genomics visualization tools, particularly GBrowse_syn.|rmb32@cornell.edu|'''}}
-{{Participant|Scott|Cain|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]|scott@scottcain.net|'''}}
+{{Participant|Scott|Cain|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]  GMOD project coordinator|scott@scottcain.net|'''}}
 {{Participant|Terry|Casstevens|Cornell University, GDPDM, TASSEL, Gramene; phenotype and genotype diversity|tmc46@cornell.edu|}}
 {{Participant|Dave|Clements|[http://nescent.org NESCent], [[gmod:Main Page|GMOD]]|clements@nescent.org|'''}}
 {{Participant|Delphine|Dauga|ANISEED; phenotype, genotype, cell fate, gene expression|dauga@ibdm.univ-mrs.fr|}}
