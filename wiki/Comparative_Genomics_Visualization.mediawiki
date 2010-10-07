@@ -4,4 +4,12 @@ In particular, GBrowse_syn lacks support for the [http://samtools.sourceforge.ne
 
 In addition to filling those gaps, GBrowse_syn would also particularly stand to benefit from the event by gaining a more sustainable developer base.
 
+== Interested Participants ==
+
+* [[Dave]]
+
+== See Also ==
+
+* [[Use Cases#Comparative Genomics Visualization Use Cases|Comparative Genomics Visualization Use Cases]]
+
 [[Category:Objectives]]

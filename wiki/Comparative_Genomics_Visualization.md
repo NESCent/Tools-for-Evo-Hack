@@ -20,4 +20,15 @@ In addition to filling those gaps, GBrowse\_syn would also particularly
 stand to benefit from the event by gaining a more sustainable developer
 base.
 
+Interested Participants
+-----------------------
+
+-   [Dave](Dave "wikilink")
+
+See Also
+--------
+
+-   [Comparative Genomics Visualization Use
+    Cases](Use_Cases#Comparative_Genomics_Visualization_Use_Cases "wikilink")
+
 <Category:Objectives>
