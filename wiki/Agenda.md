@@ -37,7 +37,8 @@ whichever one is more convenient.
     -   Please think about what training,if any, you would like to have
         on the first day. Are there APIs or architectures you need to
         learn about that will help you during the week? We'll run needed
-        boot camps on the first day.
+        boot camps on the first day. If you have ideas, please add them
+        to the [Boot Camps](Boot_Camps "wikilink") page.
     -   Update the [participants](participants "wikilink") page and
         create your own user pages.
 

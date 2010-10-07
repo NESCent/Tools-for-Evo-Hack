@@ -16,7 +16,7 @@ We will cover the same topics in both calls.  Please participate in whichever on
 #** Use cases should be ''ripe for implementation.''  Ideas should be addressable with code and should not be open ended.
 #* Coalescing: Participants are encouraged to put forth use cases and advocate that they be worked on, and to do this before the event even starts.
 #* At least one more conference call, week of Oct 18-22.  ''Please [http://doodle.com/du2yy3g2chft2srn fill out the Doodle poll].''
-#* Please think about what training,if any, you would like to have on the first day.  Are there APIs or architectures you need to learn about that will help you during the week?  We'll run needed boot camps on the first day.
+#* Please think about what training,if any, you would like to have on the first day.  Are there APIs or architectures you need to learn about that will help you during the week?  We'll run needed boot camps on the first day.  If you have ideas, please add them to the [[Boot Camps]] page.
 #* Update the [[participants]] page and create your own user pages.
 # Mechanics of the hackathon itself
 #* First day; intros, proposals, coalescing, hacking
