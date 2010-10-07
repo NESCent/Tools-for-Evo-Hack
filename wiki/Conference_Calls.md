@@ -107,7 +107,7 @@ For all participants:
 
 2.  What computing resources does NESCent need to provide for you to get
     your job done? Please post these to [Hilmar](Hilmar "wikilink") and
-    [Dave](Dave "wikilink") or (preferable) to the mailing list.
+    [Dave](Dave "wikilink") or (preferably) to the mailing list.
 3.  What [Boot Camps](Boot_Camps "wikilink") you would like to see
     during the event. Post them to the [Boot
     Camps](Boot_Camps "wikilink") page or send them to the mailing list.
