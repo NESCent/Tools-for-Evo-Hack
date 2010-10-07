@@ -42,10 +42,12 @@ Most time was spent on introductions:  What people worked on and what they were 
 
 '''Data standards?'''  [[Weigang]] pointed out that many of us are working on common problems, for example, visualizing phylogeny.  Should we settle on a common format for the data model.  NEXUS, NeXML, PhyloXML?  Should we create a standard.  We concluded that coming up with a standard for phylogenetic data is outside the scope of this hackathon.  However, using an existing standard would greatly benefit any tools.  It also would be a good idea to talk to the NeXML and PhyloXML developers.  (NeXML, by the way, came out of a NESCent working group and was further fleshed out by the NESCent Database Interoperability Hackathon in 2009.)
 
+'''Similar tools?'''  We'll have representatives from [[gmod:GBrowse_syn|GBrowse_syn]], Mauve and CoGE at this hackathon.  All of these are about [[Comparative Genomics Visualization]].  Other areas may have a similar abundance of riches.  In an ideal world we add features and improve integration of every tool.  In practice, this may not be possible.  One thing we could do is have someone working on each objective survey the tools that are represented at the hackathon (as well as those not at the hackathon).  This will at least give participants a better feel for the landscape.
+
 === Action Items Before Next Call ===
 
 For all participants:
-# Post [[Use Cases]], either to the wiki, or the mailing list (and [[Dave]] will copy them to the wiki.  [[Eric]] has already created one.
+# Post [[Use Cases]], either to the wiki, or the mailing list (and [[Dave]] will copy them to the wiki.  [[Eric]] has already created one.  Feel free to include suggested solutions at the end of use cases.
 ## Once a use case is posted, comment on it, add to it, ... 
 # What computing resources does NESCent need to provide for you to get your job done?  Please post these to [[Hilmar]] and [[Dave]] or (preferably) to the mailing list.
 # What [[Boot Camps]] you would like to see during the event.  Post them to the [[Boot Camps]] page or send them to the mailing list.

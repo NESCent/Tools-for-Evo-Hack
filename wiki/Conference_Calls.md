@@ -103,13 +103,25 @@ PhyloXML developers. (NeXML, by the way, came out of a NESCent working
 group and was further fleshed out by the NESCent Database
 Interoperability Hackathon in 2009.)
 
+**Similar tools?** We'll have representatives from
+[GBrowse\_syn](gmod:GBrowse_syn "wikilink"), Mauve and CoGE at this
+hackathon. All of these are about [Comparative Genomics
+Visualization](Comparative_Genomics_Visualization "wikilink"). Other
+areas may have a similar abundance of riches. In an ideal world we add
+features and improve integration of every tool. In practice, this may
+not be possible. One thing we could do is have someone working on each
+objective survey the tools that are represented at the hackathon (as
+well as those not at the hackathon). This will at least give
+participants a better feel for the landscape.
+
 ### Action Items Before Next Call
 
 For all participants:
 
 1.  Post [Use Cases](Use_Cases "wikilink"), either to the wiki, or the
     mailing list (and [Dave](Dave "wikilink") will copy them to
-    the wiki. [Eric](Eric "wikilink") has already created one.
+    the wiki. [Eric](Eric "wikilink") has already created one. Feel free
+    to include suggested solutions at the end of use cases.
     1.  Once a use case is posted, comment on it, add to it, ...
 
 2.  What computing resources does NESCent need to provide for you to get
