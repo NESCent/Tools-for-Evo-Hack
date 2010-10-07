@@ -75,11 +75,11 @@ let [Dave](Dave "wikilink") know as soon as possible.
 use?** We don't specify which repository that you will use. We do
 however, require that you use a repository. Keeping things just on your
 laptop and passing them back and forth on USB sticks is not enough.
-\[Hilmar\]\] suggested that we nail down repositories we want to use
-ahead of time, and then assemble an instruction page (probably this
-page) on where repositories live, and how to get a hold of them. This
-may not always be possible We won't know what the teams and projects are
-until part way through Monday. See
+[Hilmar](Hilmar "wikilink") suggested that we nail down repositories we
+want to use ahead of time, and then assemble an instruction page
+(probably this page) on where repositories live, and how to get a hold
+of them. This may not always be possible We won't know what the teams
+and projects are until part way through Monday. See
 [Repositories](Repositories "wikilink") for more information.
 
 **What about documentation?** Documentation is definitely a deliverable
