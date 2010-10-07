@@ -1,6 +1,6 @@
 Use case from [[Eric]].
 
-Mauve info by [[Andrew T]].
+Mauve info from [[Andrew T]].
 
 ; Motivation
 *Many genomes coming online.  Need interactive methods and tools to compare and visualize multiple whole genomes in order to identify patterns of conservation and divergence in the structure and evolution of multiple genomes.  GBrowse_syn (no my understanding), does not scale well to whole genomes.
