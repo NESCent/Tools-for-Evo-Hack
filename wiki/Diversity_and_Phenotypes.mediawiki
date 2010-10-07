@@ -4,4 +4,15 @@ A [[gmod:Chado Natural Diversity Module Working Group|Natural Diversity Module i
 
 Aside from the data model deficiencies, the [http://aniseed-ibdm.univ-mrs.fr/ ANISEED] project has started efforts to generalize its sophisticated atlas/image-based web interface for phenotype data, and to make it operate on top of Chado. The hackathon could harness this synergy to help this effort leap forward, which could ultimately provide GMOD with the currently missing web-interface for such data.
 
+== Interested [[Participants]] ==
+
+Please add your name below.
+
+* [[Dave]]
+* Your name here
+
+== See Also ==
+
+* [[Use Cases#Diversity and Phenotypes Use Cases|Diversity and Phenotype Use Cases]]
+
 [[Category:Objectives]]
