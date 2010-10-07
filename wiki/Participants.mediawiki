@@ -18,7 +18,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Richard|Hayes|JGI, Phytozome; short read data, [[gmod:GBrowse_syn|GBrowse_syn]], samtools, genome annotation pipeline datasets in Chado, better integrate phytogenetic data with Gbrowse/JBrowse. options for including other tree-building algorithms beyond Neighbor-Joining; Jalview-GBrowse integration|rdhayes@lbl.gov|}}
 {{Participant|Andrew|Hill|Colorado|andrew.hill@colorado.edu|}}
 {{Participant|Benjamin|Hitz|Stanford, SGD; visualization tools to display comparative genomics for a large number of very closely related yeast strains|hitz@genome.stanford.edu|}}
-{{Participant|Greg|Jordan|EBI|greg@ebi.ac.uk|}}
+{{Participant|Greg|Jordan|EBI, [http://www.ensembl.org Ensembl Compara], [http://phylowidget.org PhyloWidget], web-based user interfaces and visualization|greg@ebi.ac.uk|}}
 {{Participant|Hilmar|Lapp|[http://nescent.org NESCent]|hlapp@nescent.org|'''}}
 {{Participant|Jonathan|Leto|[http://solgenomics.net/ Sol Genomics Network], Boyce Thompson Institute; [[gmod:GBrowse_syn|GBrowse_syn]], phylogenetic tree visualization in Javascript, improving [[gmod:Chado|Chado]]'s build system, giving it more tests, and helping to convert it to Git|jonathan@leto.net|}}
 {{Participant|Eric|Lyons|iPlant, [http://genomevolution.org CoGe]; comparative genomics visualization, genome structure, genome evolution, genome dynamics |elyons.berkeley@gmail.com|}}
