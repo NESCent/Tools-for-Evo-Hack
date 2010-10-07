@@ -139,7 +139,10 @@ For all participants:
     using those formats.
 5.  Create a user page. Do this by clicking on your email address in the
     top bar of the wiki, typing something, and saving it.
-6.  [Dave](Dave "wikilink") will list people's names on each of the
-    three objective pages, based on what he believes their
-    interests are. Folks can then move stuff around.
+6.  [Dave](Dave "wikilink") was going to list people's names on each of
+    the three objective pages, based on what he believes their
+    interests are. *However he quickly found this very difficult to do.*
+    Therefore, this action item is: Participants will list their names
+    on the [Objectives](Objectives "wikilink") pages that they are
+    interested in.
 

@@ -1,4 +1,3 @@
-
 '''Note:''' We will have at least one more conference call, during the week of Oct 18-22.  ''Please [http://doodle.com/du2yy3g2chft2srn fill out the Doodle poll].''
 
 
@@ -57,4 +56,4 @@ For all participants:
 # What [[Boot Camps]] you would like to see during the event.  Post them to the [[Boot Camps]] page or send them to the mailing list.
 # Someone should contact the developers of NeXML and PhyloXML to see if they have any suggestions/advice on visualizing phylogenetic data using those formats.
 # Create a user page.  Do this by clicking on your email address in the top bar of the wiki, typing something, and saving it.
-# [[Dave]] will list people's names on each of the three objective pages, based on what he believes their interests are.  Folks can then move stuff around.
+# [[Dave]] was going to list people's names on each of the three objective pages, based on what he believes their interests are.  ''However he quickly found this very difficult to do.'' Therefore, this action item is: Participants will list their names on the [[Objectives]] pages that they are interested in.
