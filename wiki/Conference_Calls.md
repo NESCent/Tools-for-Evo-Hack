@@ -56,3 +56,25 @@ on this first call
 
 Minutes
 -------
+
+First, see the agenda above. If discussion was entirely redundant with
+an agenda item, then it isn't covered in the minutes.
+
+Most time was spent on introductions: What people worked on and what
+they were interested in for the hackathon. See
+[Participants](Participants "wikilink") for a summary. Almost everyone
+made one teleconference or the other.
+
+### Computing
+
+**Q:** Should people bring their own laptops?  
+**A:** Yes. NESCent will provide wireless networking, table space, and
+power. If you can't bring a laptop let [Dave](Dave "wikilink") know as
+soon as possible.
+
+**Q:** Which open source [repositories](repositories "wikilink") will we
+use.  
+**A:** We don't specify which repository that you will use. We do
+however, require that you use a repository. Keeping things just on your
+laptop and passing them back and forth on USB sticks is not enough. See
+[Repositories](Repositories "wikilink") for more information.
