@@ -38,14 +38,8 @@ First, see the agenda above.  If discussion was entirely redundant with an agend
 
 Most time was spent on introductions:  What people worked on and what they were interested in for the hackathon.  See [[Participants]] for a summary.  Almost everyone made one teleconference or the other.
 
-<!--
-Discussion in the Monday teleconference led to an expansion of the agenda for the Thursday teleconference.
--->
-
 === Computing ===
 
-'''Q:''' Should people bring their own laptops?<br />
-'''A:''' Yes.  NESCent will provide wireless networking, table space, and power.  If you can't bring a laptop let [[Dave]] know as soon as possible.
+Should people bring their own laptops?  Yes.  NESCent will provide wireless networking, table space, and power.  If you can't bring a laptop let [[Dave]] know as soon as possible.
 
-'''Q:''' Which open source [[repositories]] will we use.<br />
-'''A:''' We don't specify which repository that you will use. We do however, require that you use a repository.  Keeping things just on your laptop and passing them back and forth on USB sticks is not enough.  See [[Repositories]] for more information.
+Which open source [[repositories]] will we use?  We don't specify which repository that you will use. We do however, require that you use a repository.  Keeping things just on your laptop and passing them back and forth on USB sticks is not enough.  See [[Repositories]] for more information.
