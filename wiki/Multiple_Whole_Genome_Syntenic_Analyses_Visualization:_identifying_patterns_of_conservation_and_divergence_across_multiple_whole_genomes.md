@@ -4,7 +4,7 @@ title: Multiple Whole Genome Syntenic Analyses Visualization: identifying patter
 
 Use case from [Eric](Eric "wikilink").
 
-Mauve suggestions by [Andrew](Andrew "wikilink").
+Mauve info by [Andrew T](Andrew_T "wikilink").
 
 Motivation  
 
