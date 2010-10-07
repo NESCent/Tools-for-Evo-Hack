@@ -120,6 +120,12 @@ For all participants:
 3.  What [Boot Camps](Boot_Camps "wikilink") you would like to see
     during the event. Post them to the [Boot
     Camps](Boot_Camps "wikilink") page or send them to the mailing list.
-4.  Create a user page. Do this by clicking on your email address in the
+4.  Someone should contact the developers of NeXML and PhyloXML to see
+    if they have any suggestions/advice on visualizing phylogenetic data
+    using those formats.
+5.  Create a user page. Do this by clicking on your email address in the
     top bar of the wiki, typing something, and saving it.
+6.  [Dave](Dave "wikilink") will list people's names on each of the
+    three objective pages, based on what he believes their
+    interests are. Folks can then move stuff around.
 

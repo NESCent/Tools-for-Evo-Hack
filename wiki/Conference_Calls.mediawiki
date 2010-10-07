@@ -53,4 +53,6 @@ For all participants:
 ## Once a use case is posted, comment on it, add to it, ... 
 # What computing resources does NESCent need to provide for you to get your job done?  Please post these to [[Hilmar]] and [[Dave]] or (preferably) to the mailing list.
 # What [[Boot Camps]] you would like to see during the event.  Post them to the [[Boot Camps]] page or send them to the mailing list.
+# Someone should contact the developers of NeXML and PhyloXML to see if they have any suggestions/advice on visualizing phylogenetic data using those formats.
 # Create a user page.  Do this by clicking on your email address in the top bar of the wiki, typing something, and saving it.
+# [[Dave]] will list people's names on each of the three objective pages, based on what he believes their interests are.  Folks can then move stuff around.
