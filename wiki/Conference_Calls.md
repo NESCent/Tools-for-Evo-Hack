@@ -67,16 +67,14 @@ they were interested in for the hackathon. See
 [Participants](Participants "wikilink") for a summary. Almost everyone
 made one teleconference or the other.
 
-### Computing
-
-*Should people bring their own laptops?* Yes. NESCent will provide
+**Should people bring their own laptops?** Yes. NESCent will provide
 wireless networking, table space, and power. If you can't bring a laptop
 let [Dave](Dave "wikilink") know as soon as possible.
 
-*Which open source [repositories](repositories "wikilink") will we use?*
-We don't specify which repository that you will use. We do however,
-require that you use a repository. Keeping things just on your laptop
-and passing them back and forth on USB sticks is not enough.
+**Which open source [repositories](repositories "wikilink") will we
+use?** We don't specify which repository that you will use. We do
+however, require that you use a repository. Keeping things just on your
+laptop and passing them back and forth on USB sticks is not enough.
 \[Hilmar\]\] suggested that we nail down repositories we want to use
 ahead of time, and then assemble an instruction page (probably this
 page) on where repositories live, and how to get a hold of them. This
@@ -84,7 +82,7 @@ may not always be possible We won't know what the teams and projects are
 until part way through Monday. See
 [Repositories](Repositories "wikilink") for more information.
 
-*What about documentation?* Documentation is definitely a deliverable
+**What about documentation?** Documentation is definitely a deliverable
 for the hackathon. Several participants may opt to take this role on.
 Ideally, each team would have someone who was willing to see that
 documentation is created for that group's work. [Dave](Dave "wikilink")
@@ -95,6 +93,17 @@ copy relevant content from the hackathon wiki to the main GMOD wiki, as
 well as harangue participants to address doc needs that weren't met
 during the hackathon. Documentation can go anywhere, including the
 hackathon or main GMOD wiki, as long as it will be publicly accessible.
+
+**Data standards?** [Weigang](Weigang "wikilink") pointed out that many
+of us are working on common problems, for example, visualizing
+phylogeny. Should we settle on a common format for the data model.
+NEXUS, NeXML, PhyloXML? Should we create a standard. We concluded that
+coming up with a standard for phylogenetic data is outside the scope of
+this hackathon. However, using an existing standard would greatly
+benefit any tools. It also would be a good idea to talk to the NeXML and
+PhyloXML developers. (NeXML, by the way, came out of a NESCent working
+group and was further fleshed out by the NESCent Database
+Interoperability Hackathon in 2009.)
 
 ### Action Items Before Next Call
 
