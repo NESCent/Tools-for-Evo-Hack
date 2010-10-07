@@ -69,12 +69,48 @@ made one teleconference or the other.
 
 ### Computing
 
-Should people bring their own laptops? Yes. NESCent will provide
+*Should people bring their own laptops?* Yes. NESCent will provide
 wireless networking, table space, and power. If you can't bring a laptop
 let [Dave](Dave "wikilink") know as soon as possible.
 
-Which open source [repositories](repositories "wikilink") will we use?
+*Which open source [repositories](repositories "wikilink") will we use?*
 We don't specify which repository that you will use. We do however,
 require that you use a repository. Keeping things just on your laptop
-and passing them back and forth on USB sticks is not enough. See
+and passing them back and forth on USB sticks is not enough.
+\[Hilmar\]\] suggested that we nail down repositories we want to use
+ahead of time, and then assemble an instruction page (probably this
+page) on where repositories live, and how to get a hold of them. This
+may not always be possible We won't know what the teams and projects are
+until part way through Monday. See
 [Repositories](Repositories "wikilink") for more information.
+
+*What about documentation?* Documentation is definitely a deliverable
+for the hackathon. Several participants may opt to take this role on.
+Ideally, each team would have someone who was willing to see that
+documentation is created for that group's work. [Dave](Dave "wikilink")
+is responsible for the hackathon wiki, and is willing to be the
+documentation czar overall. Dave will work with each group to make sure
+that documentation is being addressed. Once the event is done he'll also
+copy relevant content from the hackathon wiki to the main GMOD wiki, as
+well as harangue participants to address doc needs that weren't met
+during the hackathon. Documentation can go anywhere, including the
+hackathon or main GMOD wiki, as long as it will be publicly accessible.
+
+### Action Items Before Next Call
+
+For all participants:
+
+1.  Post [Use Cases](Use_Cases "wikilink"), either to the wiki, or the
+    mailing list (and [Dave](Dave "wikilink") will copy them to
+    the wiki. [Eric](Eric "wikilink") has already created one.
+    1.  Once a use case is posted, comment on it, add to it, ...
+
+2.  What computing resources does NESCent need to provide for you to get
+    your job done? Please post these to [Hilmar](Hilmar "wikilink") and
+    [Dave](Dave "wikilink") or (preferable) to the mailing list.
+3.  What [Boot Camps](Boot_Camps "wikilink") you would like to see
+    during the event. Post them to the [Boot
+    Camps](Boot_Camps "wikilink") page or send them to the mailing list.
+4.  Create a user page. Do this by clicking on your email address in the
+    top bar of the wiki, typing something, and saving it.
+
