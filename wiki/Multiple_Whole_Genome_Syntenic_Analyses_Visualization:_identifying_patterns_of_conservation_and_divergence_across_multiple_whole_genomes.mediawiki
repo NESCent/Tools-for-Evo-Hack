@@ -36,5 +36,8 @@ Mauve suggestions by [[Andrew]].
 **[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] has zooming capabilities.
 ; References (optional)
 *[http://symapdb.org SyMap]: [http://bioinformatics.oxfordjournals.org/cgi/ijlink?linkType=ABST&journalCode=genome&resid=16/9/1159 Soderlund C. et al. SyMAP: a system for discovering and viewing syntenic regions of FPC maps. Genome Res. 2006;16:1159-1168.]
+*[http://asap.ahabs.wisc.edu/mauve/index.php Mauve]: 
+**[http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0011147 Aaron E. Darling, Bob Mau, and Nicole T. Perna. 2010.  progressiveMauve: Multiple Genome Alignment with Gene Gain, Loss, and Rearrangement.  PLoS One.  5(6):e11147.]
+**[http://www.genome.org/cgi/content/full/14/7/1394 Aaron C.E. Darling, Bob Mau, Frederick R. Blatter, and Nicole T. Perna.  2004.  Mauve: multiple alignment of conserved genomic sequence with rearrangements.  Genome Research.  14(7):1394-1403.]
 
 [[Category:Use Cases]]
