@@ -20,8 +20,10 @@ In addition to filling those gaps, GBrowse\_syn would also particularly
 stand to benefit from the event by gaining a more sustainable developer
 base.
 
-Interested Participants
------------------------
+Interested [Participants](Participants "wikilink")
+--------------------------------------------------
+
+Please add your name below.
 
 -   [Dave](Dave "wikilink")
 
