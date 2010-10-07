@@ -2,6 +2,10 @@
 title: Conference Calls
 ---
 
+**Note:** We will have at least one more conference call, during the
+week of Oct 18-22. *Please [fill out the Doodle
+poll](http://doodle.com/du2yy3g2chft2srn).*
+
 First Teleconference: October 4 & 7
 ===================================
 
