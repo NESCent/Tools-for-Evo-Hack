@@ -2,16 +2,19 @@ Use case from [[Eric]].
 
 ; Motivation
 *Many genomes coming online.  Need interactive methods and tools to compare and visualize multiple whole genomes in order to identify patterns of conservation and divergence in the structure and evolution of multiple genomes.  GBrowse_syn (no my understanding), does not scale well to whole genomes.
+**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] scales well to multiple whole genome comparisons
 ; Key Challenges
 *Visualization:  the visualization system must be able to identify:
 **syntenic regions
 **duplicated regions (segmental or whole genome)
 **inverted regions
 **translocations (chromosome fusion and fission events; translocation of chromosome segments)
+**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] is capable of displaying syntenic regions along with degree of conservation. Can also identify inverted regions, and relatively easily be hacked to identify translocations. 
 *Possible visualization views 
 **Syntenic dotplots.
 **Parallel line coordinates
 **Circle View
+**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] can only display parallel line coordinates.
 *Useful system with working examples
 **[http://symapdb.org SyMap]:  Demonstrates all viewpoints
 ; Preconditions for Use:

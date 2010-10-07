@@ -11,6 +11,8 @@ Motivation
     patterns of conservation and divergence in the structure and
     evolution of multiple genomes. GBrowse\_syn (no my understanding),
     does not scale well to whole genomes.
+    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) scales well
+        to multiple whole genome comparisons
 
 Key Challenges  
 
@@ -20,10 +22,16 @@ Key Challenges
     -   inverted regions
     -   translocations (chromosome fusion and fission events;
         translocation of chromosome segments)
+    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) is capable
+        of displaying syntenic regions along with degree
+        of conservation. Can also identify inverted regions, and
+        relatively easily be hacked to identify translocations.
 -   Possible visualization views
     -   Syntenic dotplots.
     -   Parallel line coordinates
     -   Circle View
+    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) can only
+        display parallel line coordinates.
 -   Useful system with working examples
     -   [SyMap](http://symapdb.org): Demonstrates all viewpoints
 
