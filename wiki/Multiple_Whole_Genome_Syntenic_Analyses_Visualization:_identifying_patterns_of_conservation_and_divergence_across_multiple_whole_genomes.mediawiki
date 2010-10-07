@@ -14,9 +14,9 @@ Use case from [[Eric]].
 **Syntenic dotplots.
 **Parallel line coordinates
 **Circle View
-**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] can only display parallel line coordinates.
 *Useful system with working examples
 **[http://symapdb.org SyMap]:  Demonstrates all viewpoints
+**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] can only display parallel line coordinates.
 ; Preconditions for Use:
 *Pairwise putative homologous gene sets between all query species
 **These data would likely be housed in the GMOD installation and not submitted by the user
@@ -31,6 +31,7 @@ Use case from [[Eric]].
 *Interactions by user with visualizations
 **scaling (zoom in/out)
 **change view types
+**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] has zooming capabilities.
 ; References (optional)
 *[http://symapdb.org SyMap]: [http://bioinformatics.oxfordjournals.org/cgi/ijlink?linkType=ABST&journalCode=genome&resid=16/9/1159 Soderlund C. et al. SyMAP: a system for discovering and viewing syntenic regions of FPC maps. Genome Res. 2006;16:1159-1168.]
 

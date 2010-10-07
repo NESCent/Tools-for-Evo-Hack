@@ -30,10 +30,10 @@ Key Challenges
     -   Syntenic dotplots.
     -   Parallel line coordinates
     -   Circle View
-    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) can only
-        display parallel line coordinates.
 -   Useful system with working examples
     -   [SyMap](http://symapdb.org): Demonstrates all viewpoints
+    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) can only
+        display parallel line coordinates.
 
 Preconditions for Use:  
 
@@ -55,6 +55,8 @@ Results
 -   Interactions by user with visualizations
     -   scaling (zoom in/out)
     -   change view types
+    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) has
+        zooming capabilities.
 
 References (optional)  
 
