@@ -1,24 +1,19 @@
 Use case from [[Eric]].
 
-Mauve info from [[Andrew T]].
-
 ; Motivation
 *Many genomes coming online.  Need interactive methods and tools to compare and visualize multiple whole genomes in order to identify patterns of conservation and divergence in the structure and evolution of multiple genomes.  GBrowse_syn (no my understanding), does not scale well to whole genomes.
-**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] scales well to multiple whole genome comparisons
 ; Key Challenges
 *Visualization:  the visualization system must be able to identify:
 **syntenic regions
 **duplicated regions (segmental or whole genome)
 **inverted regions
 **translocations (chromosome fusion and fission events; translocation of chromosome segments)
-**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] is capable of displaying syntenic regions along with degree of conservation. Can also identify inverted regions, and relatively easily be hacked to identify translocations. 
 *Possible visualization views 
 **Syntenic dotplots.
 **Parallel line coordinates
 **Circle View
 *Useful system with working examples
 **[http://symapdb.org SyMap]:  Demonstrates all viewpoints
-**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] can only display parallel line coordinates.
 ; Preconditions for Use:
 *Pairwise putative homologous gene sets between all query species
 **These data would likely be housed in the GMOD installation and not submitted by the user
@@ -33,11 +28,7 @@ Mauve info from [[Andrew T]].
 *Interactions by user with visualizations
 **scaling (zoom in/out)
 **change view types
-**[http://asap.ahabs.wisc.edu/mauve/index.php Mauve] has zooming capabilities.
 ; References (optional)
 *[http://symapdb.org SyMap]: [http://bioinformatics.oxfordjournals.org/cgi/ijlink?linkType=ABST&journalCode=genome&resid=16/9/1159 Soderlund C. et al. SyMAP: a system for discovering and viewing syntenic regions of FPC maps. Genome Res. 2006;16:1159-1168.]
-*[http://asap.ahabs.wisc.edu/mauve/index.php Mauve]: 
-**[http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0011147 Darling A.E. et al. 2010.  progressiveMauve: Multiple Genome Alignment with Gene Gain, Loss, and Rearrangement.  PLoS One.  5(6):e11147.]
-**[http://www.genome.org/cgi/content/full/14/7/1394 Darling A.E. et al.  2004.  Mauve: multiple alignment of conserved genomic sequence with rearrangements.  Genome Research.  14(7):1394-1403.]
 
 [[Category:Use Cases]]

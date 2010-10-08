@@ -4,8 +4,6 @@ title: Multiple Whole Genome Syntenic Analyses Visualization: identifying patter
 
 Use case from [Eric](Eric "wikilink").
 
-Mauve info from [Andrew T](Andrew_T "wikilink").
-
 Motivation  
 
 -   Many genomes coming online. Need interactive methods and tools to
@@ -13,8 +11,6 @@ Motivation
     patterns of conservation and divergence in the structure and
     evolution of multiple genomes. GBrowse\_syn (no my understanding),
     does not scale well to whole genomes.
-    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) scales well
-        to multiple whole genome comparisons
 
 Key Challenges  
 
@@ -24,18 +20,12 @@ Key Challenges
     -   inverted regions
     -   translocations (chromosome fusion and fission events;
         translocation of chromosome segments)
-    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) is capable
-        of displaying syntenic regions along with degree
-        of conservation. Can also identify inverted regions, and
-        relatively easily be hacked to identify translocations.
 -   Possible visualization views
     -   Syntenic dotplots.
     -   Parallel line coordinates
     -   Circle View
 -   Useful system with working examples
     -   [SyMap](http://symapdb.org): Demonstrates all viewpoints
-    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) can only
-        display parallel line coordinates.
 
 Preconditions for Use:  
 
@@ -57,8 +47,6 @@ Results
 -   Interactions by user with visualizations
     -   scaling (zoom in/out)
     -   change view types
-    -   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php) has
-        zooming capabilities.
 
 References (optional)  
 
@@ -66,12 +54,5 @@ References (optional)
     for discovering and viewing syntenic regions of FPC maps.
     Genome Res.
     2006;16:1159-1168.](http://bioinformatics.oxfordjournals.org/cgi/ijlink?linkType=ABST&journalCode=genome&resid=16/9/1159)
--   [Mauve](http://asap.ahabs.wisc.edu/mauve/index.php):
-    -   [Darling A.E. et al. 2010. progressiveMauve: Multiple Genome
-        Alignment with Gene Gain, Loss, and Rearrangement. PLoS One.
-        5(6):e11147.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0011147)
-    -   [Darling A.E. et al. 2004. Mauve: multiple alignment of
-        conserved genomic sequence with rearrangements. Genome Research.
-        14(7):1394-1403.](http://www.genome.org/cgi/content/full/14/7/1394)
 
 [Category:Use Cases](Category:Use_Cases "wikilink")
