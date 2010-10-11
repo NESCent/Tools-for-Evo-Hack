@@ -7,8 +7,8 @@ Conference Calls
 
 -   [First Teleconference: October 4 &
     7](Conference_Calls#First_Teleconference:_October_4_&_7 "wikilink")
--   At least one more conference call, week of Oct 18-22. *Please [fill
-    out the Doodle poll](http://doodle.com/du2yy3g2chft2srn).*
+-   [Second Teleconference: October 21, 3pm Eastern
+    US](Conference_Calls#Second_Teleconference:_October_21 "wikilink")
 
 Hackathon Agenda
 ================
