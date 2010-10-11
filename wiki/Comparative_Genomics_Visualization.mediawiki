@@ -9,6 +9,7 @@ In addition to filling those gaps, GBrowse_syn would also particularly stand to 
 Please add your name below.
 
 * [[Dave]]
+* [[Ben]]
 
 == See Also ==
 
