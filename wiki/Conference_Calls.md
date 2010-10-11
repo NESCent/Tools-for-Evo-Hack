@@ -146,3 +146,15 @@ For all participants:
     on the [Objectives](Objectives "wikilink") pages that they are
     interested in.
 
+Second Teleconference: October 21
+=================================
+
+The second call is
+
+-   October 21, 2010, 3pm Eastern US
+
+Agenda
+------
+
+Minutes
+-------
