@@ -7,31 +7,36 @@
 
 {| class="wikitable"
 ! Day
-| Activities
+! Activities
 |-
 ! Sunday
 | Most out of town [[participants]] arrive; Stay at the Marriott.
 |-
 ! Monday
-| Morning: Introductions, Proposals, [[Boot Camps]], Coalescing into groups.<br />
-Afternoon: Hacking <br />
-Evening: Group dinner at [http://www.tobaccoroadsportscafe.com/about/index.html Tobacco Road] restaurant in Durham
+| 
+* Morning: Introductions, Proposals, [[Boot Camps]], Coalescing into groups.
+* Afternoon: Hacking 
+* Evening: Group dinner at [http://www.tobaccoroadsportscafe.com/about/index.html Tobacco Road] restaurant in Durham
 |-
 ! Tuesday
-| Morning: Team status reports; hacking<br />
-Afternoon: Hacking
+| 
+* Morning: Team status reports; hacking
+* Afternoon: Hacking
 |-
 ! Wednesday
-|Morning: Team status reports; hacking<br />
-Afternoon: Hacking
+| 
+* Morning: Team status reports; hacking
+* Afternoon: Hacking
 |-
 ! Thursday
-|Morning: Team status reports; hacking<br />
-Afternoon: Hacking
+|
+* Morning: Team status reports; hacking
+* Afternoon: Hacking
 |-
 ! Friday
-|Morning: Team status reports; hacking<br />
-Afternoon: Hacking, most out of town participants depart.  NESCent will arrange shuttles from NESCent to RDU.
+|
+* Morning: Team status reports; hacking
+* Afternoon: Hacking, most out of town participants depart.  NESCent will arrange shuttles from NESCent to RDU.
 |-
 |}
 
