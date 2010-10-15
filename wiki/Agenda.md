@@ -16,12 +16,12 @@ Hackathon Agenda
 | Day       | Time                                                                                                       | Activities                                                                                                |
 |-----------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Sunday    |                                                                                                            | Most out of town [participants](participants "wikilink") arrive; Stay at the Marriott.                    |
-| Monday    | 9am - 5pm                                                                                                  | Introductions, Proposals, [Boot Camps](Boot_Camps "wikilink"), Coalescing into groups, lunch, and hacking |
+| Monday    | 9am                                                                                                        | Introductions, Proposals, [Boot Camps](Boot_Camps "wikilink"), Coalescing into groups, lunch, and hacking |
 | 6:45pm    | Group dinner at [Tobacco Road](http://www.tobaccoroadsportscafe.com/about/index.html) restaurant in Durham |
-| Tuesday   | 9am - 5pm                                                                                                  | Team status reports; hacking, lunch, hacking                                                              |
-| Wednesday | 9am - 5pm                                                                                                  | Team status reports; hacking, lunch, hacking                                                              |
-| Thursday  | 9am - 5pm                                                                                                  | Team status reports; hacking, lunch, hacking                                                              |
-| Friday    | 9am - ?                                                                                                    | Team status reports; hacking, lunch, hacking                                                              |
+| Tuesday   | 9am                                                                                                        | Team status reports; hacking, lunch, hacking                                                              |
+| Wednesday | 9am                                                                                                        | Team status reports; hacking, lunch, hacking                                                              |
+| Thursday  | 9am                                                                                                        | Team status reports; hacking, lunch, hacking                                                              |
+| Friday    | 9am                                                                                                        | Team status reports; hacking, lunch, hacking                                                              |
 | PM        | Hacking, most out of town participants depart. NESCent will arrange shuttles from NESCent to RDU.          |
 ||
 

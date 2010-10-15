@@ -15,26 +15,26 @@
 | Most out of town [[participants]] arrive; Stay at the Marriott.
 |-
 ! rowspan="2" | Monday
-! 9am - 5pm 
+! 9am
 | Introductions, Proposals, [[Boot Camps]], Coalescing into groups, lunch, and hacking 
 |-
 ! 6:45pm
 | Group dinner at [http://www.tobaccoroadsportscafe.com/about/index.html Tobacco Road] restaurant in Durham
 |-
 ! Tuesday
-! 9am - 5pm
+! 9am
 | Team status reports; hacking, lunch, hacking
 |-
 ! Wednesday
-! 9am - 5pm
+! 9am
 | Team status reports; hacking, lunch, hacking
 |-
 ! Thursday
-! 9am - 5pm
+! 9am
 | Team status reports; hacking, lunch, hacking
 |-
 ! rowspan="2" | Friday
-! 9am - ?
+! 9am
 | Team status reports; hacking, lunch, hacking
 |-
 ! PM
