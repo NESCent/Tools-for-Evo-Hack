@@ -24,7 +24,6 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Eric|Lyons|iPlant, [http://genomevolution.org CoGe]; comparative genomics visualization, genome structure, genome evolution, genome dynamics |elyons.berkeley@gmail.com|}}
 {{Participant|Sheldon|McKay|iPlant, Arizona, [[gmod:GBrowse_syn|GBrowse_syn]]|sheldon.mckay@gmail.com|'''}}
 {{Participant|Olaf|Mueller|Iowa; comparative fungal meiosis gene evolution, extending GMOD with web-based modules for large scale visualization and comparison of phylogenetic and genomics data from a large number of species, support selection of homologous genes in a definable number of different species and provide visualization of pre- or on the fly calculated domains, alignments and trees|olaf-mueller@uiowa.edu|}}
-{{Participant|Chris|Mungall|BBOP|cjm@berkeleybop.org|}}
 {{Participant|Sander|Pick|University of Colorado Museum of Natural History; building better (or interfacing with current) tools for visualizing phylogenetic data and trees|sanderpick@gmail.com|}}
 {{Participant|Sergei|Pond|UC San Diego; viral organisms / measurably evolving populations, NGS applications, characterizing viral population diversity within single hosts, [[gmod:Galaxy|Galaxy]], provide analytical and interpretive capabilities in this domain within the GMOD framework|spond@ucsd.edu|}}
 {{Participant|Weigang|Qiu|Hunter College of City University of New York, Bio::Align::Graphics, Bio::Tree::Draw, tree-based character visualization capabilities; http://borreliagenome.org, Processing, viewing genome variations in a phylogenetic order|weigang@genectr.hunter.cuny.edu|}}
@@ -37,8 +36,11 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Matt|Yoder|NCSU; informatics infrastructure that handles high throughput sequence data, GMOD on Rails, ""structural"" alignments (i.e. those based on data managed in such applications as ARB, or manipulated with COVE, HMMER, etc.), Hymenoptera Anatomy Ontology|diapriid@gmail.com|}}
 |-
 ! colspan="3"| Remote participants
-{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]].  Lincoln will not be attending in person.  He has not decided if he will participate remotely.|lincoln.stein@gmail.com|}}
 {{Participant|Nicole|Washington|BBOP, modENCODE. Nicole will be attending remotely.|nlwashington@lbl.gov|'''}}
+|-
+! colspan="3"| Likely cancellations
+{{Participant|Chris|Mungall|BBOP|cjm@berkeleybop.org|}}
+{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]].  Lincoln will not be attending in person.  He has not decided if he will participate remotely.|lincoln.stein@gmail.com|}}
 |-
 |}
 
