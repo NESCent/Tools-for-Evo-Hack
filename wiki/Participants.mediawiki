@@ -40,7 +40,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 |-
 ! colspan="3"| Likely cancellations
 {{Participant|Chris|Mungall|BBOP|cjm@berkeleybop.org|}}
-{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]].  Lincoln will not be attending in person.  He has not decided if he will participate remotely.|lincoln.stein@gmail.com|}}
+{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]]|lincoln.stein@gmail.com|}}
 |-
 |}
 
