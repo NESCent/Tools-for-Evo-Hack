@@ -9,6 +9,7 @@ Aside from the data model deficiencies, the [http://aniseed-ibdm.univ-mrs.fr/ AN
 Please add your name below.
 
 * [[Dave]]
+* [[Seth Redmond]]
 * Your name here
 
 == See Also ==

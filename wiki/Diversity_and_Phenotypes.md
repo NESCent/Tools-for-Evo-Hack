@@ -36,6 +36,7 @@ Interested [Participants](Participants "wikilink")
 Please add your name below.
 
 -   [Dave](Dave "wikilink")
+-   [Seth Redmond](Seth_Redmond "wikilink")
 -   Your name here
 
 See Also
