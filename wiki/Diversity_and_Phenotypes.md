@@ -37,6 +37,7 @@ Please add your name below.
 
 -   [Dave](Dave "wikilink")
 -   [Seth Redmond](Seth_Redmond "wikilink")
+-   [Vladimir Gapeyev](User:Vgapeyev@nescent.org "wikilink")
 -   Your name here
 
 See Also
