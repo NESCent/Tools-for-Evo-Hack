@@ -132,13 +132,14 @@ Deliverables / Event Results
 ----------------------------
 
 The meeting’s attendance, working groups, and outcomes will be fully
-logged and documented on the [GMOD wiki](gmod:Main_Page "wikilink").
-Each working group during the event will typically have its own wiki
-page, linked from the main EvoHack page, where it documents its minutes
-and design notes, and provides links to the code and documentation it
-produces. Also, since GMOD and NESCent are both committed to open source
-principles, all code and documentation produced by participants during
-the hackathon must be published under an [OSI-approved open source
+logged and documented on this wiki. Relevant content will be copied to
+the [GMOD wiki](gmod:Main_Page "wikilink") after the event. Each working
+group during the event will typically have its own wiki page, where it
+documents its minutes and design notes, and provides links to the code
+and documentation it produces. Also, since GMOD and NESCent are both
+committed to open source principles, all code and documentation produced
+by participants during the hackathon must be published under an
+[OSI-approved open source
 license](http://www.opensource.org/licenses/category). As contributions
 to existing GMOD tools, all hackathon products will most likely satisfy
 this requirement automatically.
