@@ -17,6 +17,11 @@ Relevant resources and questions:
     for the above, which actually appears more informative!
 -   Has the new Chadoesque version of the Chado ND schema mentioned on
     these pages already been released? Where could we see it?
+-   The [Diversity and Phenotypes](Diversity_and_Phenotypes "wikilink")
+    abstract mentions "A recently reported prototype of a Chado data
+    adapter for Phenote, GMODs phenotype annotation tool, could be
+    generalized to become the data persistence interface for such data."
+    Is there a paper or another source that reports on this adapter?
 
 *I would add explaining the current phenotype implementation. [Dave
 C](User:Dpc13 "wikilink")*
