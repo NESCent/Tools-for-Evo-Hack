@@ -19,6 +19,11 @@ add-on for JBrowse. Current Java-based tree viewers (such as
 for a JavaScript-based tree viewer (or an applet that can be controlled
 through JavaScript) that integrates with JBrowse.
 
+Shared / Test Datasets
+----------------------
+
+-   Describe your dataset here.
+
 Interested [Participants](Participants "wikilink")
 --------------------------------------------------
 
