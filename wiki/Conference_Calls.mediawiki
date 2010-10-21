@@ -132,6 +132,11 @@ Becomes:
 
 === List Your Interests ===
 
-# [[Dave]] was going to list people's names on each of the three objective pages, based on what he believes their interests are.  ''However he quickly found this very difficult to do.'' Therefore, this action item is: Participants will list their names on the [[Objectives]] pages that they are interested in.
+There are three broad [[Objectives]] for this hackathon.  '''Please add your name to the list of interested participants for any objective you might want to work on at the hackathon.'''  This is ''not'' a commitment to work on that objective during the hackathon.  It merely gives other participants an idea of who is also interested in what they are interested in.
+
+* [[Comparative Genomics Visualization#Interested Participants|Comparative Genomics Visualization]]
+* [[Phylogenetics and Tree Visualization#INTERESTED PARTICIPANTS|Phylogenetics and Tree Visualization]]
+* [[Diversity and Phenotypes#Interested Participants|Diversity and Phenotypes]]
+rested in.
 
 === Other Discussion ===

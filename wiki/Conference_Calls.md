@@ -285,11 +285,20 @@ California, just to be different.
 </div>
 ### List Your Interests
 
-1.  [Dave](Dave "wikilink") was going to list people's names on each of
-    the three objective pages, based on what he believes their
-    interests are. *However he quickly found this very difficult to do.*
-    Therefore, this action item is: Participants will list their names
-    on the [Objectives](Objectives "wikilink") pages that they are
-    interested in.
+There are three broad [Objectives](Objectives "wikilink") for this
+hackathon. **Please add your name to the list of interested participants
+for any objective you might want to work on at the hackathon.** This is
+*not* a commitment to work on that objective during the hackathon. It
+merely gives other participants an idea of who is also interested in
+what they are interested in.
+
+-   [Comparative Genomics
+    Visualization](Comparative_Genomics_Visualization#Interested_Participants "wikilink")
+-   [Phylogenetics and Tree
+    Visualization](Phylogenetics_and_Tree_Visualization#INTERESTED_PARTICIPANTS "wikilink")
+-   [Diversity and
+    Phenotypes](Diversity_and_Phenotypes#Interested_Participants "wikilink")
+
+rested in.
 
 ### Other Discussion
