@@ -51,6 +51,6 @@ User Steps
 
 Results  
 
--   map with pins for binary values / heatmaps for stochastic
+-   map with pins for binary values / heatmaps for real no.s
 
 [Category:Use Cases](Category:Use_Cases "wikilink")
