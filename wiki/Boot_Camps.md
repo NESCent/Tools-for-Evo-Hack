@@ -49,7 +49,8 @@ Genome Browsing Essentials
 [Matt](User:diapriid@gmail.com "wikilink") (add your name)
 
 [GBrowse](gmod:GBrowse "wikilink"), [JBrowse](gmod:JBrowse "wikilink"),
-[GBrowse\_syn](gmod:GBrowse_syn "wikilink"), CoGE, Mauve.;
+[GBrowse\_syn](gmod:GBrowse_syn "wikilink"), [http://genomevolution.org
+CoGe](http://genomevolution.org_CoGe "wikilink"), Mauve.;
 
 From [*Nature Methods* Supplement on visualizing biological
 data](http://www.nature.com/nmeth/journal/v7/n3s/index.html), March
@@ -68,5 +69,6 @@ This issue also has:
 Comparative Genomics Visualization and Interactive Tools
 --------------------------------------------------------
 
-Ben Hitz: [SGD](http://www.yeastgenome.org/) Eric Lyons:
-[CoGe](http://genomevolution.org/)
+-   Ben Hitz: [SGD](http://www.yeastgenome.org/)
+-   Eric Lyons: [CoGe](http://genomevolution.org/)
+
