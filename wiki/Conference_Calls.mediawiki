@@ -151,7 +151,7 @@ This means that if your code is not in this state when the hackathon starts, the
 
 We don't think we will need a third call, however, if at the end of next week, it looks like we have a lot of open issues that would benefit from a discussion, then we will schedule a third and final cal during the week before the event.
 
-=== Action Items ===
+== Action Items ==
 
 # [[Participants]] are encouraged to continue to submit use cases.  Also, please feel free to comment on or extend existing use cases.  Many of these will become the basis for groups that form at the hackathon.
 # [[Dave]] will make inquiries with NESCent support staff to make this happen.  Dave will also create a page for people to list what datasets they are planning to upload for use/testing at the event. 

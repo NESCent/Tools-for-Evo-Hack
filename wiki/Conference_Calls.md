@@ -334,7 +334,8 @@ week, it looks like we have a lot of open issues that would benefit from
 a discussion, then we will schedule a third and final cal during the
 week before the event.
 
-### Action Items
+Action Items
+------------
 
 1.  [Participants](Participants "wikilink") are encouraged to continue
     to submit use cases. Also, please feel free to comment on or extend
