@@ -6,6 +6,8 @@ Relevant resources and questions:
 * [http://gmod.org/wiki/Talk:Chado_Natural_Diversity_Module_Working_Group the talk page] for the above, which actually appears more informative! 
 * Has the new Chadoesque version of the Chado ND schema mentioned on these pages already been released?  Where could we see it?
 
+''I would add explaining the current phenotype implementation.  [[User:Dpc13|Dave C]]''
+
 == [[gmod:Chado|Chado]] essentials ==
 
 The Chado Way, Features, CVs, DBXREFs and IDs, ..

@@ -18,6 +18,9 @@ Relevant resources and questions:
 -   Has the new Chadoesque version of the Chado ND schema mentioned on
     these pages already been released? Where could we see it?
 
+*I would add explaining the current phenotype implementation. [Dave
+C](User:Dpc13 "wikilink")*
+
 [Chado](gmod:Chado "wikilink") essentials
 -----------------------------------------
 
