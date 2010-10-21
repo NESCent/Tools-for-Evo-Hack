@@ -9,7 +9,7 @@ In addition to filling those gaps, GBrowse_syn would also particularly stand to 
 Please add your name below.
 
 * [[Dave]]
-* [[Hitz@genome.stanford.edu Ben]]
+* [[Hitz@genome.stanford.edu]]
 * [[Hong Yi]]
 
 == See Also ==
