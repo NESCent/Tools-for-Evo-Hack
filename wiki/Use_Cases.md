@@ -20,6 +20,9 @@ We already have
     genomes](Multiple_Whole_Genome_Syntenic_Analyses_Visualization:_identifying_patterns_of_conservation_and_divergence_across_multiple_whole_genomes "wikilink")
 -   [Phylogenetic profiling
     visualization](Phylogenetic_profiling_visualization "wikilink")
+-   Phylogenetical ordering of genome tracks and aligned sequences:
+    co-display tree with comparative data to allow direct visualization
+    of e.g., gain/loss events, SNP homoplasy (Weigang, to be elaborated)
 
 [Phylogenetics and Tree Visualization](Phylogenetics_and_Tree_Visualization "wikilink") Use Cases
 -------------------------------------------------------------------------------------------------

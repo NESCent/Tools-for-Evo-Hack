@@ -7,6 +7,7 @@ We already have
 
 * [[Multiple Whole Genome Syntenic Analyses Visualization:  identifying patterns of conservation and divergence across multiple whole genomes]]
 * [[Phylogenetic profiling visualization]]
+* Phylogenetical ordering of genome tracks and aligned sequences: co-display tree with comparative data to allow direct visualization of e.g., gain/loss events, SNP homoplasy (Weigang, to be elaborated)
 
 == [[Phylogenetics and Tree Visualization]] Use Cases ==
 
