@@ -16,7 +16,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Maren|Friesen|USC; better browsing of population genetics and associations with phenotypes, including integration with feature lists (e.g. gene calls), expression atlases, and GO annotation|friesen@usc.edu|}}
 {{Participant|Vladimir|Gapeyev|[http://nescent.org NESCent], population data, Chado Natural Diversity module and front-end UI suitable for a non-sophisticated user|vgapeyev@nescent.org|}}
 {{Participant|Richard|Hayes|JGI, Phytozome; short read data, [[gmod:GBrowse_syn|GBrowse_syn]], samtools, genome annotation pipeline datasets in Chado, better integrate phytogenetic data with Gbrowse/JBrowse. options for including other tree-building algorithms beyond Neighbor-Joining; Jalview-GBrowse integration|rdhayes@lbl.gov|}}
-{{Participant|Andrew|Hill|Colorado|andrew.hill@colorado.edu|}}
+{{Participant|Andrew|Hill|University of Colorado, Boulder. [http://eeb.colorado.edu Ecology & Evolutionary Biology]|andrew.hill@colorado.edu|}}
 {{Participant|Benjamin|Hitz|Stanford, SGD; visualization tools to display comparative genomics for a large number of very closely related yeast strains|hitz@genome.stanford.edu|}}
 {{Participant|Greg|Jordan|EBI, [http://www.ensembl.org Ensembl Compara], [http://phylowidget.org PhyloWidget], web-based user interfaces and visualization|greg@ebi.ac.uk|}}
 {{Participant|Hilmar|Lapp|[http://nescent.org NESCent]|hlapp@nescent.org|'''}}
