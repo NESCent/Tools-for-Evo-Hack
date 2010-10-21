@@ -302,7 +302,7 @@ what they are interested in.
 
 ### Other Discussion
 
-==== Open Source and Public ===
+#### Open Source and Public
 
 We discussed the immediate open source requirement for the hackathon.
 Any code that is worked no during the event must be made immediately

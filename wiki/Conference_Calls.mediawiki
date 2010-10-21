@@ -140,7 +140,7 @@ There are three broad [[Objectives]] for this hackathon.  '''Please add your nam
 
 === Other Discussion ===
 
-==== Open Source and Public ===
+==== Open Source and Public ====
 
 We discussed the immediate open source requirement for the hackathon.  Any code that is worked no during the event must be made immediately available in public source code repository and have an open source license.  This is a requirement for NESCent sponsorship of the event and has been clearly stated at several points in the process.
 
