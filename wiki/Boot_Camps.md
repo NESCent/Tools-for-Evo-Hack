@@ -5,8 +5,8 @@ title: Boot Camps
 Current state of Chado Natural Diversity module
 -----------------------------------------------
 
-People interested in attending: [Vladimir](User:Vg34 "wikilink") (add
-your name)
+*People interested in attending:* [Vladimir](User:Vg34 "wikilink"),
+[Matt](User:diapriid@gmail.com "wikilink") (add your name)
 
 Relevant resources and questions:
 
@@ -24,10 +24,16 @@ C](User:Dpc13 "wikilink")*
 [Chado](gmod:Chado "wikilink") essentials
 -----------------------------------------
 
+*People interested in attending:*
+[Matt](User:diapriid@gmail.com "wikilink") (add your name)
+
 The Chado Way, Features, CVs, DBXREFs and IDs, ..
 
 Genome Browsing Essentials
 --------------------------
+
+*People interested in attending:*
+[Matt](User:diapriid@gmail.com "wikilink") (add your name)
 
 [GBrowse](gmod:GBrowse "wikilink"), [JBrowse](gmod:JBrowse "wikilink"),
 [GBrowse\_syn](gmod:GBrowse_syn "wikilink"), CoGE, Mauve.;
