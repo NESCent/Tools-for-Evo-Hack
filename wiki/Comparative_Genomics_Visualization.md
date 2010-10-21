@@ -28,6 +28,7 @@ Please add your name below.
 -   [Dave](Dave "wikilink")
 -   [Ben](User:Hitz@genome.stanford.edu "wikilink")
 -   [Hong Yi](Hong_Yi "wikilink")
+-   [Eric Lyons](User:Elyons.berkeley@gmail.com "wikilink")
 
 See Also
 --------
