@@ -29,3 +29,8 @@ From [http://www.nature.com/nmeth/journal/v7/n3s/index.html ''Nature Methods'' S
 
 This issue also has:
 * [http://www.nature.com/nmeth/journal/v7/n3s/abs/nmeth.1434.html Visualization of multiple alignments, phylogenies and gene family evolution], JB Proctor, ''et al.''
+
+== Comparative Genomics Visualization and Interactive Tools == 
+
+Ben Hitz: [http://www.yeastgenome.org/ SGD]
+Eric Lyons: [http://genomevolution.org/ CoGe]

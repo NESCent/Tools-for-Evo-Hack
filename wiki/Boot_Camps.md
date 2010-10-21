@@ -65,3 +65,8 @@ This issue also has:
     evolution](http://www.nature.com/nmeth/journal/v7/n3s/abs/nmeth.1434.html),
     JB Proctor, *et al.*
 
+Comparative Genomics Visualization and Interactive Tools
+--------------------------------------------------------
+
+Ben Hitz: [SGD](http://www.yeastgenome.org/) Eric Lyons:
+[CoGe](http://genomevolution.org/)
