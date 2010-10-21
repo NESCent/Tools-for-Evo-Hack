@@ -68,8 +68,6 @@ The agenda was the [[#Action Items Before Next Call|Action Items from the first 
 
 == Minutes ==
 
-{{UnderConstuction|These minutes will be finalized shortly.}}
-
 First, the action items from previous meeting.
 
 === [[Use Cases]] ===
