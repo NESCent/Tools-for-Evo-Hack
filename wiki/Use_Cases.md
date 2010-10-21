@@ -29,7 +29,8 @@ We already have
 
 -   [Data display by geolocation via google
     maps](Data_display_by_geolocation_via_google_maps "wikilink")
--   [Chado NatDiv front end](Chado_NatDiv_front_end "wikilink")
+-   [Front end for Chado Natural
+    Diversity](Front_end_for_Chado_Natural_Diversity "wikilink")
 
 Multi-objective Use Cases
 -------------------------

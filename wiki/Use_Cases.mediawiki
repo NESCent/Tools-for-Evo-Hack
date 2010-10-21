@@ -14,7 +14,7 @@ We already have
 == [[Diversity and Phenotypes]] Use Cases == 
 
 * [[Data display by geolocation via google maps]]
-* [[Chado NatDiv front end]]
+* [[Front end for Chado Natural Diversity]]
 
 == Multi-objective Use Cases ==
 
