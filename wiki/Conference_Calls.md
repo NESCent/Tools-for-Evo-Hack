@@ -261,20 +261,22 @@ PhyloXML.
 by clicking on your email address in the top bar of the wiki, typing
 something, and saving it.
 
-[Dave](Dave "wikilink") did not talk about this, but he's also been
-creating shortcuts (redirect pages in MediaWiki parlance) for each user
-page that has been created. This means you can now link to a
-participant's page by just putting their first name in brackets in the
-text. For example,
+''[Dave](Dave "wikilink") did not talk about this, but he's also created
+shortcuts (redirect pages in MediaWiki parlance) for each user page that
+has been created. This means you can now link to a participant's page by
+just putting their first name in brackets in the text. For example,
 
-`[[Terry]] works for Cornell from North Carolina, while [[Rob]] and [[Jonathan]] work for Cornell from Oregon.`
+`[[Terry]] works for Cornell from North Carolina, while [[Rob]] and [[Jonathan]] work for Cornell from Oregon.  [[Andrew H]] lives in California and works for Colorado (I think), but [[Andrew T]] lives ''and'' works in California, just to be different.`
 
 Becomes:
 
   
 [Terry](Terry "wikilink") works for Cornell from North Carolina, while
 [Rob](Rob "wikilink") and [Jonathan](Jonathan "wikilink") (or should
-that say [Duke](Duke "wikilink")?) work for Cornell from Oregon.
+that say [Duke](Duke "wikilink")?) work for Cornell from Oregon. [Andrew
+H](Andrew_H "wikilink") lives in California and works for Colorado (I
+think), but [Andrew T](Andrew_T "wikilink") lives *and* works in
+California, just to be different.
 
 ### List Your Interests
 
