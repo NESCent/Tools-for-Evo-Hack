@@ -155,5 +155,11 @@ The second call was
 Agenda
 ------
 
+The agenda was the [Action Items from the first
+call](#Action_Items_Before_Next_Call "wikilink"), plus discussion of any
+other issues.
+
 Minutes
 -------
+
+Minutes will appear here shortly.

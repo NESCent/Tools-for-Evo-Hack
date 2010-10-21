@@ -64,4 +64,8 @@ The second call was
 
 == Agenda ==
 
+The agenda was the [[#Action Items Before Next Call|Action Items from the first call]], plus discussion of any other issues.
+
 == Minutes ==
+
+Minutes will appear here shortly.
