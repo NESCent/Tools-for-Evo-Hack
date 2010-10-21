@@ -31,7 +31,8 @@ C](User:Dpc13 "wikilink")*
 
 *People interested in attending:*
 [Matt](User:diapriid@gmail.com "wikilink"),
-[Vladimir](User:Vg34 "wikilink") (add your name)
+[Vladimir](User:Vg34 "wikilink"),
+[Chris](User:cjfields@illinois.edu "wikilink") (add your name)
 
 The Chado Way, Features, CVs, DBXREFs and IDs, ..
 
