@@ -190,10 +190,17 @@ to make this happen. Dave will also create a page for people to list
 what datasets they are planning to upload for use/testing at the
 event.**
 
-**[Participants](Participants "wikilink") with appropriate, sharable
-datasets will upload them to the dataset repository, and describe them
-on the "Datasets" section of each of the
-[Objectives](Objectives "wikilink") pages.**
+**[Participants](Participants "wikilink") with sharable datasets will
+upload them to the dataset repository, and describe them on the
+"Datasets" section of each of the [Objectives](Objectives "wikilink")
+pages.**
+
+-   [Comparative Genomics
+    Visualization](Comparative_Genomics_Visualization#Shared_/_Test_Datasets "wikilink")
+-   [Phylogenetics and Tree
+    Visualization](Phylogenetics_and_Tree_Visualization#Shared_/_Test_Datasets "wikilink")
+-   [Diversity and
+    Phenotypes](Diversity_and_Phenotypes#Shared_/_Test_Datasets "wikilink")
 
 #### Shared / Common Server
 

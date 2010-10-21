@@ -84,7 +84,10 @@ Several more [[Use Cases]] have been written.  [[Richard]], and [[Weigang]] have
 
 '''[[Dave]] will make inquiries with NESCent support staff to make this happen.  Dave will also create a page for people to list what datasets they are planning to upload for use/testing at the event.'''  
 
-'''[[Participants]] with appropriate, sharable datasets will upload them to the dataset repository, and describe them on the "Datasets" section of each of the [[Objectives]] pages.'''
+'''[[Participants]] with sharable datasets will upload them to the dataset repository, and describe them on the "Datasets" section of each of the [[Objectives]] pages.'''
+* [[Comparative Genomics Visualization#Shared / Test Datasets |Comparative Genomics Visualization]]
+* [[Phylogenetics and Tree Visualization#Shared / Test Datasets|Phylogenetics and Tree Visualization]]
+* [[Diversity and Phenotypes#Shared / Test Datasets|Diversity and Phenotypes]]
 
 ==== Shared / Common Server ====
 
