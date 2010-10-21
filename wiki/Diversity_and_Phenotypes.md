@@ -39,6 +39,7 @@ Please add your name below.
 -   [Seth Redmond](Seth_Redmond "wikilink")
 -   [Vladimir Gapeyev](User:Vg34 "wikilink")
 -   [Matt Yoder](User:diapriid@gmail.com "wikilink")
+-   [Jim Balhoff](User:balhoff@nescent.org "wikilink")
 -   Your name here
 
 See Also
