@@ -162,7 +162,7 @@ other issues.
 Minutes
 -------
 
-First, the action ttems from previous meeting.
+First, the action items from previous meeting.
 
 ### [Use Cases](Use_Cases "wikilink")
 
@@ -333,3 +333,54 @@ We don't think we will need a third call, however, if at the end of next
 week, it looks like we have a lot of open issues that would benefit from
 a discussion, then we will schedule a third and final cal during the
 week before the event.
+
+### Action Items
+
+1.  [Participants](Participants "wikilink") are encouraged to continue
+    to submit use cases. Also, please feel free to comment on or extend
+    existing use cases. Many of these will become the basis for groups
+    that form at the hackathon.
+2.  [Dave](Dave "wikilink") will make inquiries with NESCent support
+    staff to make this happen. Dave will also create a page for people
+    to list what datasets they are planning to upload for use/testing at
+    the event.
+3.  [Participants](Participants "wikilink") with sharable datasets will
+    upload them to the dataset repository, and describe them on the
+    "Datasets" section of each of the
+    [Objectives](Objectives "wikilink") pages:
+    -   [Comparative Genomics
+        Visualization](Comparative_Genomics_Visualization#Shared_/_Test_Datasets "wikilink")
+    -   [Phylogenetics and Tree
+        Visualization](Phylogenetics_and_Tree_Visualization#Shared_/_Test_Datasets "wikilink")
+    -   [Diversity and
+        Phenotypes](Diversity_and_Phenotypes#Shared_/_Test_Datasets "wikilink")
+
+4.  [Dave](Dave "wikilink") will create a survey and poll participants
+    for what, if any shared/common server we need to setup.
+5.  [Participants](Participants "wikilink") will add any boot camps they
+    would like to see to the [Boot Camps](Boot_Camps "wikilink") page,
+    *and* indicate which boot camps you are interested in.
+    [Organizers](Participants#Organizing_Committee "wikilink") will then
+    find instructors for boot camps with sufficient demand. **In order
+    to give instructors enough time to prepare, please do this no later
+    than Monday, October 25.**
+6.  [Hilmar](Hilmar "wikilink") will contact the developers of NeXML and
+    PhyloXML to see if they have any suggestions/advice on visualizing
+    phylogenetic data using those formats, and what if any
+    implementations have already been built.
+7.  If you haven't already done so, please create a *user page.* Do this
+    by clicking on your email address in the top bar of the wiki, typing
+    something, and saving it.
+8.  Please add your name to the list of interested participants for any
+    objective you might want to work on at the hackathon. This is *not*
+    a commitment to work on that objective during the hackathon. It
+    merely gives other participants an idea of who is also interested in
+    what they are interested in.
+    -   [Comparative Genomics
+        Visualization](Comparative_Genomics_Visualization#Interested_Participants "wikilink")
+    -   [Phylogenetics and Tree
+        Visualization](Phylogenetics_and_Tree_Visualization#INTERESTED_PARTICIPANTS "wikilink")
+    -   [Diversity and
+        Phenotypes](Diversity_and_Phenotypes#Interested_Participants "wikilink")
+
+
