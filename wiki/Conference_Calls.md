@@ -299,6 +299,4 @@ what they are interested in.
 -   [Diversity and
     Phenotypes](Diversity_and_Phenotypes#Interested_Participants "wikilink")
 
-rested in.
-
 ### Other Discussion

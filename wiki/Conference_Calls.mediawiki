@@ -137,6 +137,5 @@ There are three broad [[Objectives]] for this hackathon.  '''Please add your nam
 * [[Comparative Genomics Visualization#Interested Participants|Comparative Genomics Visualization]]
 * [[Phylogenetics and Tree Visualization#INTERESTED PARTICIPANTS|Phylogenetics and Tree Visualization]]
 * [[Diversity and Phenotypes#Interested Participants|Diversity and Phenotypes]]
-rested in.
 
 === Other Discussion ===
