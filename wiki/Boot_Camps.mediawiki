@@ -1,6 +1,6 @@
 ==Current state of Chado Natural Diversity module==
 
-''People interested in attending:'' [[User:Vg34|Vladimir]], [[User:diapriid@gmail.com|Matt]], [[User:cjfields@illinois.edu|Chris]] (add your name)
+''People interested in attending:'' [[User:Vg34|Vladimir]], [[User:diapriid@gmail.com|Matt]] (add your name)
 
 Relevant resources and questions:  
 * [http://gmod.org/wiki/Chado_Natural_Diversity_Module_Working_Group Chado Natural Diversity Module Working Group] 
@@ -12,7 +12,7 @@ Relevant resources and questions:
 
 == [[gmod:Chado|Chado]] essentials ==
 
-''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:Vg34|Vladimir]], [[User:balhoff@nescent.org|Jim]] (add your name)
+''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:Vg34|Vladimir]] (add your name)
 
 The Chado Way, Features, CVs, DBXREFs and IDs, ..
 
