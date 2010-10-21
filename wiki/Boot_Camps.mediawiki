@@ -1,6 +1,6 @@
 ==Current state of Chado Natural Diversity module==
 
-''People interested in attending:'' [[User:Vg34|Vladimir]], [[User:diapriid@gmail.com|Matt]] (add your name) [[User:friesen@usc.edu|Maren]]
+''People interested in attending:'' [[User:Vg34|Vladimir]], [[User:diapriid@gmail.com|Matt]], [[User:balhoff@nescent.org|Jim]] (add your name) [[User:friesen@usc.edu|Maren]]
 
 Relevant resources and questions:  
 * [http://gmod.org/wiki/Chado_Natural_Diversity_Module_Working_Group Chado Natural Diversity Module Working Group] 
