@@ -257,8 +257,24 @@ PhyloXML.
 
 ### User Pages
 
-1.  Create a user page. Do this by clicking on your email address in the
-    top bar of the wiki, typing something, and saving it.
+**If you haven't already done so, please create a *user page.*** Do this
+by clicking on your email address in the top bar of the wiki, typing
+something, and saving it.
+
+[Dave](Dave "wikilink") did not talk about this, but he's also been
+creating shortcuts (redirect pages in MediaWiki parlance) for each user
+page that has been created. This means you can now link to a
+participant's page by just putting their first name in brackets in the
+text. For example,
+
+`[[Terry]] works for Cornell from North Carolina, while [[Rob]] and [[Jonathan]] work for Cornell from Oregon.`
+
+Becomes:
+
+  
+[Terry](Terry "wikilink") works for Cornell from North Carolina, while
+[Rob](Rob "wikilink") and [Jonathan](Jonathan "wikilink") (or should
+that say [Duke](Duke "wikilink")?) work for Cornell from Oregon.
 
 ### List Your Interests
 
