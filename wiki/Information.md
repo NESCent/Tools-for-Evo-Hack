@@ -55,6 +55,9 @@ NESCent office for your visit. We will also pre-schedule your out-bound
 airport shuttles (if applicable). A schedule will be distributed upon
 your arrival at NESCent.
 
+In addition you can get between NESCent and the Hotel at other times
+using the Bull City Connector.
+
 Meal Arrangements:
 ------------------
 
