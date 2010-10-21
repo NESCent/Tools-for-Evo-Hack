@@ -33,7 +33,7 @@ This issue also has:
 == Comparative Genomics Visualization and Interactive Tools == 
 
 *Ben Hitz: [http://www.yeastgenome.org/ SGD]
-**Outline of the 1000 closely related genome problem
+**Tentative:  Outline of the 1000 closely related genome problem
 *Eric Lyons: [http://genomevolution.org/ CoGe]
 **Pair-wise whole genome syntenic analyses, advanced visualization using synonymous mutation rates, high-resolution sequence analyses using multiple genomic regions
 **Will focus on a plant genome comparisons where multiple shared and independent whole genome duplications creates multiple syntenic regions (mappings) for any given genomic region.
