@@ -26,7 +26,8 @@ Interested [Participants](Participants "wikilink")
 Please add your name below.
 
 -   [Dave](Dave "wikilink")
--   [Ben](Ben "wikilink")
+-   [Hitz@genome.stanford.edu
+    Ben](Hitz@genome.stanford.edu_Ben "wikilink")
 -   [Hong Yi](Hong_Yi "wikilink")
 
 See Also
