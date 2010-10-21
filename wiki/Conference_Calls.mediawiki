@@ -106,7 +106,11 @@ Which, if any, of these options would be most useful depends on what we want to 
 
 === [[Boot Camps]] ===
 
+Several [[Boot Camps]] have now been proposed.
+
 # What [[Boot Camps]] you would like to see during the event.  Post them to the [[Boot Camps]] page or send them to the mailing list.
+
+'''[[Participants]] will add any boot camps they would like to see to the [[Boot Camp]] page, ''and'' indicate which boot camps you are interested in.  [[Participants#Organizing Committee|Organizers]] will then find instructors for boot camps with sufficient demand. In order to give instructors enough time to prepare, please do this no later than Monday, October 25.'''
 
 === NeXML / PhyloXML ===
 
