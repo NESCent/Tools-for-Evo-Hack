@@ -12,6 +12,8 @@ section.
 Hotel Arrangements:
 -------------------
 
+All out of town participants will be staying at the downtown [Durham
+Marriott](http://www.marriott.com/hotels/travel/rducv-durham-marriott-convention-center/).
 NESCent will pay for your room, while you will be responsible for all
 other incidental room charges, including phone calls and meals you might
 charge to your room.
