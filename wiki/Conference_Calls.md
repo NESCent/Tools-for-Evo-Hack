@@ -301,3 +301,28 @@ what they are interested in.
     Phenotypes](Diversity_and_Phenotypes#Interested_Participants "wikilink")
 
 ### Other Discussion
+
+==== Open Source and Public ===
+
+We discussed the immediate open source requirement for the hackathon.
+Any code that is worked no during the event must be made immediately
+available in public source code repository and have an open source
+license. This is a requirement for NESCent sponsorship of the event and
+has been clearly stated at several points in the process.
+
+This means that if your code is not in this state when the hackathon
+starts, then we can't work on at the hackathon. However, you are free to
+contribute code from a non-public repository during the event, as long
+as it becomes a part of a public repository during the event. For
+example, CoGE is not currently in a public repository, but it has an
+open source license and the only obstacles are logistical. It would be
+acceptable to contribute code from CoGE to, say,
+[GBrowse\_syn](gmod:GBrowse_syn "wikilink") during the event, as
+GBrowse\_syn does have a public repository and an open source license.
+
+#### Next Call
+
+We don't think we will need a third call, however, if at the end of next
+week, it looks like we have a lot of open issues that would benefit from
+a discussion, then we will schedule a third and final cal during the
+week before the event.
