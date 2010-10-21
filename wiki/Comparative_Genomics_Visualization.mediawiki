@@ -4,9 +4,15 @@ In particular, GBrowse_syn lacks support for the [http://samtools.sourceforge.ne
 
 In addition to filling those gaps, GBrowse_syn would also particularly stand to benefit from the event by gaining a more sustainable developer base.
 
+== Shared / Test Datasets ==
+
+{{SharedDataSetsBlurb}}
+
+* Describe your dataset here.
+
 == Interested [[Participants]] ==
 
-Please add your name below.
+Please add your name below.  This is not a commitment to participate on this during the event.
 
 * [[Dave]]
 * [[User:Hitz@genome.stanford.edu|Ben]]

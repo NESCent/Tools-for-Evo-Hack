@@ -20,10 +20,16 @@ In addition to filling those gaps, GBrowse\_syn would also particularly
 stand to benefit from the event by gaining a more sustainable developer
 base.
 
+Shared / Test Datasets
+----------------------
+
+-   Describe your dataset here.
+
 Interested [Participants](Participants "wikilink")
 --------------------------------------------------
 
-Please add your name below.
+Please add your name below. This is not a commitment to participate on
+this during the event.
 
 -   [Dave](Dave "wikilink")
 -   [Ben](User:Hitz@genome.stanford.edu "wikilink")
