@@ -248,9 +248,12 @@ can be done on an impromptu basis.
 
 ### NeXML / PhyloXML
 
-1.  Someone should contact the developers of NeXML and PhyloXML to see
-    if they have any suggestions/advice on visualizing phylogenetic data
-    using those formats.
+**[Hilmar](Hilmar "wikilink") volunteered to contact the developers of
+NeXML and PhyloXML** to see if they have any suggestions/advice on
+visualizing phylogenetic data using those formats, and what if any
+implementations have already been built. Hilmar was familiar with the
+[Archaeopteryx viewer](http://www.phylosoft.org/archaeopteryx/) built on
+PhyloXML.
 
 ### User Pages
 

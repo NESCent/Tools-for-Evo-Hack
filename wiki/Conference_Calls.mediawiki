@@ -114,7 +114,7 @@ Boot camps proposed after this deadline might still be possible, if they can be 
 
 === NeXML / PhyloXML ===
 
-# Someone should contact the developers of NeXML and PhyloXML to see if they have any suggestions/advice on visualizing phylogenetic data using those formats.
+'''[[Hilmar]] volunteered to contact the developers of NeXML and PhyloXML''' to see if they have any suggestions/advice on visualizing phylogenetic data using those formats, and what if any implementations have already been built.  Hilmar was familiar with the [http://www.phylosoft.org/archaeopteryx/ Archaeopteryx viewer] built on PhyloXML.
 
 === User Pages ===
 
