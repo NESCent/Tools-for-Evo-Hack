@@ -7,8 +7,9 @@ Current state of Chado Natural Diversity module
 
 *People interested in attending:* [Vladimir](User:Vg34 "wikilink"),
 [Matt](User:diapriid@gmail.com "wikilink"),
-[Jim](User:balhoff@nescent.org "wikilink") (add your name)
-[Maren](User:friesen@usc.edu "wikilink")
+[Jim](User:balhoff@nescent.org "wikilink"),
+[Maren](User:friesen@usc.edu "wikilink"),
+[Yuri](User:ybendana@usc.edu "wikilink") (add your name)
 
 Relevant resources and questions:
 
