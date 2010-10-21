@@ -5,3 +5,17 @@ Relevant resources and questions:
 * [http://gmod.org/wiki/Chado_Natural_Diversity_Module_Working_Group Chado Natural Diversity Module Working Group] 
 * [http://gmod.org/wiki/Talk:Chado_Natural_Diversity_Module_Working_Group the talk page] for the above, which actually appears more informative! 
 * Has the new Chadoesque version of the Chado ND schema mentioned on these pages already been released?  Where could we see it?
+
+== [[gmod:Chado|Chado]] essentials ==
+
+The Chado Way, Features, CVs, DBXREFs and IDs, ..
+
+== Genome Browsing Essentials ==
+
+[[gmod:GBrowse|GBrowse]], [[gmod:JBrowse|JBrowse]], [[gmod:GBrowse_syn|GBrowse_syn]], CoGE, Mauve.; 
+
+From [http://www.nature.com/nmeth/journal/v7/n3s/index.html ''Nature Methods'' Supplement on visualizing biological data], March 2010:
+* [http://www.nature.com/nmeth/journal/v7/n3s/abs/nmeth.1422.html Visualizing genomes: techniques and challenges], CB Nielsen, ''et al.''
+
+This issue also has:
+* [http://www.nature.com/nmeth/journal/v7/n3s/abs/nmeth.1434.html Visualization of multiple alignments, phylogenies and gene family evolution], JB Proctor, ''et al.''
