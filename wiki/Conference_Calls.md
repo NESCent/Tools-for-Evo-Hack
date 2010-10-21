@@ -231,11 +231,9 @@ what, if any shared/common server we need to setup.**
 
 ### [Boot Camps](Boot_Camps "wikilink")
 
-Several [Boot Camps](Boot_Camps "wikilink") have now been proposed.
-
-1.  What [Boot Camps](Boot_Camps "wikilink") you would like to see
-    during the event. Post them to the [Boot
-    Camps](Boot_Camps "wikilink") page or send them to the mailing list.
+Several [Boot Camps](Boot_Camps "wikilink") have now been proposed. Boot
+camps can lat anywhere from 15 minutes to an hour, although shorter is
+better.
 
 **[Participants](Participants "wikilink") will add any boot camps they
 would like to see to the [Boot Camp](Boot_Camp "wikilink") page, *and*
@@ -244,6 +242,9 @@ indicate which boot camps you are interested in.
 find instructors for boot camps with sufficient demand. In order to give
 instructors enough time to prepare, please do this no later than Monday,
 October 25.**
+
+Boot camps proposed after this deadline might still be possible, if they
+can be done on an impromptu basis.
 
 ### NeXML / PhyloXML
 
