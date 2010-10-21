@@ -38,6 +38,7 @@ Please add your name below.
 -   [Dave](Dave "wikilink")
 -   [Seth Redmond](Seth_Redmond "wikilink")
 -   [Vladimir Gapeyev](User:Vg34 "wikilink")
+-   [Matt Yoder](User:diapriid@gmail.com "wikilink")
 -   Your name here
 
 See Also
