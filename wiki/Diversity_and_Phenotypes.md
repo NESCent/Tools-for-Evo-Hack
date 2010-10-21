@@ -41,6 +41,7 @@ Please add your name below.
 -   [Matt Yoder](User:diapriid@gmail.com "wikilink")
 -   [Jim Balhoff](User:balhoff@nescent.org "wikilink")
 -   [Yuri Bendana](User:ybendana@usc.edu "wikilink")
+-   [Maren Friesen](User:friesen@usc.edu "wikilink")
 -   Your name here
 
 See Also
