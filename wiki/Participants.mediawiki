@@ -29,7 +29,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Weigang|Qiu|Hunter College of City University of New York, Bio::Align::Graphics, Bio::Tree::Draw, tree-based character visualization capabilities; http://borreliagenome.org, Processing, viewing genome variations in a phylogenetic order|weigang@genectr.hunter.cuny.edu|}}
 {{Participant|Seth|Redmond|[http://www.vectorbase.org VectorBase ] / Imperial College London: genomic & functional genomic tools, natural diversity module, ontology base phenotype tools|seth.redmond@imperial.ac.uk|}}
 {{Participant|Mitch|Skinner|UC Berkeley, [[gmod:JBrowse|JBrowse]]|mitch_skinner@berkeley.edu|}}
-{{Participant|Jason|Stajich|UC Riverside, fungal genomics, BioPerl|jason.stajich@ucr.edu|}}
+{{Participant|Jason|Stajich|UC Riverside, fungal genomics, [http://bioperl.org BioPerl]|jason.stajich@ucr.edu|}}
 {{Participant|Andrew|Tritt|UC Davis Genome Center; comparative genomics and phylogenetics tools, viualizing genome alignments and phylogenetic analyses; getting Mauve, Tripal, Chado, BioPerl and other components to work better together; prokaryote support in Chado|atritt@ucdavis.edu|}}
 {{Participant|Haiming|Wang|University of Georgia, EuPathDB/PlasmoDB/ToxoDB; Incorporate SynView and our in-house generic data adaptor into GBrowse 2.0. Both work with GBrowse 1.70 and previous versions|hwang@uga.edu|}}
 {{Participant|Hong|Yi|Renaissance Computing Institute; scientific and information visualization|hongyi@renci.org|}}
