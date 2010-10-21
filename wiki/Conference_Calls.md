@@ -161,3 +161,49 @@ other issues.
 
 Minutes
 -------
+
+### Action Items from previous meeting
+
+#### [Use Cases](Use_Cases "wikilink")
+
+Several more [Use Cases](Use_Cases "wikilink") have been written.
+[Richard](Richard "wikilink"), and [Weigang](Weigang "wikilink") have
+additional use cases in the works, and [Ben](Ben "wikilink") has an
+extension to [Eric](Eric "wikilink")'s. **You are encouraged to continue
+to submit use cases.** Also, please feel free to comment on or extend
+existing use cases. Many of these will become the basis for groups that
+form at the hackathon.
+
+#### Needed Computing Resources
+
+1.  What computing resources does NESCent need to provide for you to get
+    your job done? Please post these to [Hilmar](Hilmar "wikilink") and
+    [Dave](Dave "wikilink") or (preferably) to the mailing list.
+
+#### [Boot Camps](Boot_Camps "wikilink")
+
+1.  What [Boot Camps](Boot_Camps "wikilink") you would like to see
+    during the event. Post them to the [Boot
+    Camps](Boot_Camps "wikilink") page or send them to the mailing list.
+
+#### NeXML / PhyloXML
+
+1.  Someone should contact the developers of NeXML and PhyloXML to see
+    if they have any suggestions/advice on visualizing phylogenetic data
+    using those formats.
+
+#### User Pages
+
+1.  Create a user page. Do this by clicking on your email address in the
+    top bar of the wiki, typing something, and saving it.
+
+#### List Your Interests
+
+1.  [Dave](Dave "wikilink") was going to list people's names on each of
+    the three objective pages, based on what he believes their
+    interests are. *However he quickly found this very difficult to do.*
+    Therefore, this action item is: Participants will list their names
+    on the [Objectives](Objectives "wikilink") pages that they are
+    interested in.
+
+### Other Discussion
