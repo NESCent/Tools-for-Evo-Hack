@@ -68,4 +68,4 @@ The agenda was the [[#Action Items Before Next Call|Action Items from the first 
 
 == Minutes ==
 
-Minutes will appear here shortly.
+{{UnderConstuction|These minutes will be finalized shortly.}}

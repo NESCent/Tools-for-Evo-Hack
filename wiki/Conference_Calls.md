@@ -161,5 +161,3 @@ other issues.
 
 Minutes
 -------
-
-Minutes will appear here shortly.
