@@ -27,7 +27,8 @@ We already have
 [Diversity and Phenotypes](Diversity_and_Phenotypes "wikilink") Use Cases
 -------------------------------------------------------------------------
 
--   Your use case here
+-   [Data display by geolocation via google
+    maps](Data_display_by_geolocation_via_google_maps "wikilink")
 
 Multi-objective Use Cases
 -------------------------
