@@ -176,15 +176,58 @@ form at the hackathon.
 
 ### Needed Computing Resources
 
+#### Dataset Repository
+
 *[Jason](Jason "wikilink") inquired about setting up shared storage for
 datasets* so that people can upload their datasets for everyone to see
 before the hackathon. We can also use this repository during the event.
+[Eric](Eric "wikilink") and [Ben](Ben "wikilink") provide several
+alignment datasets. [Maren](Maren "wikilink") has population diversity
+data and phenotype data that she will provide.
 
 **[Dave](Dave "wikilink") will make inquiries with NESCent support staff
-to make this happen.**
+to make this happen. Dave will also create a page for people to list
+what datasets they are planning to upload for use/testing at the
+event.**
+
+**[Participants](Participants "wikilink") with appropriate, sharable
+datasets will upload them to the dataset repository, and describe them
+on the "Datasets" section of each of the
+[Objectives](Objectives "wikilink") pages.**
+
+#### Shared / Common Server
 
 Jason's question led to another question. *Do we need to setup a test
-machine to deploy and test things on?*
+machine to deploy and test things on?* We didn't come to a clear answer
+to this question.
+
+There was no one on the call dieing to have this.
+[Scott](Scott "wikilink") and [Eric](Eric "wikilink") argued against it.
+[Dave](Dave "wikilink") pointed out that the hackathon is not about
+compute intensive activities like generating alignments and phylogenies,
+but rather about visualizing them.
+
+Many possibilities were discussed:
+
+-   Get an Amazon EC2 instance up for the week.
+    -   If we did this we would need to know system requirements in
+        terms of storage, memory, and CPUs well ahead of time.
+    -   [Eric](Eric "wikilink") pointed out that if it's easy and cheap
+        to set one of these up, then there is little harm in doing so.
+    -   We might be able to use a [GMOD VMware](gmod:VMware "wikilink")
+        image from the [2010 GMOD Summer School -
+        Americas](#2010_GMOD_Summer_School_-_Americas "wikilink") or
+        from recent work [Scott](Scott "wikilink") is doing, to set up
+        the EC2 server.
+-   We could also just make a [GMOD VMware](gmod:VMware "wikilink")
+    image available for people to run on their own laptops.
+-   Another option is using the shared compute cluster at Duke.
+
+Which, if any, of these options would be most useful depends on what we
+want to do with it.
+
+**[Dave](Dave "wikilink") will create a survey and poll participants for
+what, if any shared/common server we need to setup.**
 
 ### [Boot Camps](Boot_Camps "wikilink")
 
