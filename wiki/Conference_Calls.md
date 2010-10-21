@@ -267,7 +267,10 @@ shortcuts (redirect pages in MediaWiki parlance) for each user page that
 has been created. This means you can now link to a participant's page by
 just putting their first name in brackets in the text. For example,*
 
-`[[Terry]] works for Cornell from North Carolina, while [[Rob]] and [[Jonathan]] work for Cornell from Oregon.  [[Andrew H]] lives in California and works for Colorado (I think), but [[Andrew T]] lives ''and'' works in California, just to be different.`
+` [[Terry]] works for Cornell from North Carolina, while [[Rob]] and [[Jonathan]]`  
+` (or should that say [[Duke]]?) work for Cornell from Oregon.  [[Andrew H]] lives `  
+` in California and works for Colorado (I think), but [[Andrew T]] lives ''and'' `  
+` works in California, just to be different.`
 
 Becomes:
 
