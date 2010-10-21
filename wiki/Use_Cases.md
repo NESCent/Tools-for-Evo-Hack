@@ -18,6 +18,8 @@ We already have
 -   [Multiple Whole Genome Syntenic Analyses Visualization: identifying
     patterns of conservation and divergence across multiple whole
     genomes](Multiple_Whole_Genome_Syntenic_Analyses_Visualization:_identifying_patterns_of_conservation_and_divergence_across_multiple_whole_genomes "wikilink")
+-   [Phylogenetic profiling
+    visualization](Phylogenetic_profiling_visualization "wikilink")
 
 [Phylogenetics and Tree Visualization](Phylogenetics_and_Tree_Visualization "wikilink") Use Cases
 -------------------------------------------------------------------------------------------------

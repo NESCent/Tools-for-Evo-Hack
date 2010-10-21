@@ -6,6 +6,7 @@ We already have
 == [[Comparative Genomics Visualization]] Use Cases ==
 
 * [[Multiple Whole Genome Syntenic Analyses Visualization:  identifying patterns of conservation and divergence across multiple whole genomes]]
+* [[Phylogenetic profiling visualization]]
 
 == [[Phylogenetics and Tree Visualization]] Use Cases ==
 
