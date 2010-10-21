@@ -176,9 +176,15 @@ form at the hackathon.
 
 #### Needed Computing Resources
 
-1.  What computing resources does NESCent need to provide for you to get
-    your job done? Please post these to [Hilmar](Hilmar "wikilink") and
-    [Dave](Dave "wikilink") or (preferably) to the mailing list.
+*[Jason](Jason "wikilink") inquired about setting up shared storage for
+datasets* so that people can upload their datasets for everyone to see
+before the hackathon. We can also use this repository during the event.
+
+**[Dave](Dave "wikilink") will make inquiries with NESCent support staff
+to make this happen.**
+
+Jason's question led to another question. *Do we need to setup a test
+machine to deploy and test things on?*
 
 #### [Boot Camps](Boot_Camps "wikilink")
 

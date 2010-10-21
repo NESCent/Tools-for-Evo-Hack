@@ -78,7 +78,11 @@ Several more [[Use Cases]] have been written.  [[Richard]], and [[Weigang]] have
 
 ==== Needed Computing Resources ====
 
-# What computing resources does NESCent need to provide for you to get your job done?  Please post these to [[Hilmar]] and [[Dave]] or (preferably) to the mailing list.
+''[[Jason]] inquired about setting up shared storage for datasets'' so that people can upload their datasets for everyone to see before the hackathon.  We can also use this repository during the event.
+
+'''[[Dave]] will make inquiries with NESCent support staff to make this happen.'''
+
+Jason's question led to another question.  ''Do we need to setup a test machine to deploy and test things on?''
 
 ==== [[Boot Camps]] ====
 
