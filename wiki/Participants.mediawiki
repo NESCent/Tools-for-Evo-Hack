@@ -13,7 +13,7 @@ Names and email addresses of the organizers are in bold face. The participant li
 {{Participant|Dave|Clements|[http://nescent.org NESCent], [[gmod:Main Page|GMOD]]|clements@nescent.org|'''}}
 {{Participant|Delphine|Dauga|ANISEED; phenotype, genotype, cell fate, gene expression|dauga@ibdm.univ-mrs.fr|}}
 {{Participant|Chris|Fields|University of Illinois, BioPerl; Better integration of evo tools with GMOD, more consistent models for phylogenetic analyses in BioPerl|cjfields@illinois.edu|}}
-{{Participant|Maren|Friesen|USC; make going from SNP calls to browsing population genetics and associations with phenotypes 'automatic', including integration with feature lists (e.g. gene calls), expression atlases, and GO annotation|friesen@usc.edu|}}
+{{Participant|Maren|Friesen|USC; better browsing of population genetics and associations with phenotypes, including integration with feature lists (e.g. gene calls), expression atlases, and GO annotation|friesen@usc.edu|}}
 {{Participant|Vladimir|Gapeyev|[http://nescent.org NESCent], population data, Chado Natural Diversity module and front-end UI suitable for a non-sophisticated user|vgapeyev@nescent.org|}}
 {{Participant|Richard|Hayes|JGI, Phytozome; short read data, [[gmod:GBrowse_syn|GBrowse_syn]], samtools, genome annotation pipeline datasets in Chado, better integrate phytogenetic data with Gbrowse/JBrowse. options for including other tree-building algorithms beyond Neighbor-Joining; Jalview-GBrowse integration|rdhayes@lbl.gov|}}
 {{Participant|Andrew|Hill|Colorado|andrew.hill@colorado.edu|}}
