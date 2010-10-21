@@ -236,7 +236,7 @@ camps can lat anywhere from 15 minutes to an hour, although shorter is
 better.
 
 **[Participants](Participants "wikilink") will add any boot camps they
-would like to see to the [Boot Camp](Boot_Camp "wikilink") page, *and*
+would like to see to the [Boot Camps](Boot_Camps "wikilink") page, *and*
 indicate which boot camps you are interested in.
 [Organizers](Participants#Organizing_Committee "wikilink") will then
 find instructors for boot camps with sufficient demand. In order to give
