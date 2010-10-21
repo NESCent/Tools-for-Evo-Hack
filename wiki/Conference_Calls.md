@@ -233,7 +233,8 @@ what, if any shared/common server we need to setup.**
 
 Several [Boot Camps](Boot_Camps "wikilink") have now been proposed. Boot
 camps can lat anywhere from 15 minutes to an hour, although shorter is
-better.
+better. The possibility of a boot camp on [Git](Repositories "wikilink")
+was raised.
 
 **[Participants](Participants "wikilink") will add any boot camps they
 would like to see to the [Boot Camps](Boot_Camps "wikilink") page, *and*
