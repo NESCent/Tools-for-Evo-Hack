@@ -36,7 +36,8 @@ C](User:Dpc13 "wikilink")*
 [Matt](User:diapriid@gmail.com "wikilink"),
 [Vladimir](User:Vg34 "wikilink"),
 [Chris](User:cjfields@illinois.edu "wikilink"),
-[Jim](User:balhoff@nescent.org "wikilink") (add your name)
+[Jim](User:balhoff@nescent.org "wikilink"),
+[Yuri](User:ybendana@usc.edu "wikilink") (add your name)
 
 The Chado Way, Features, CVs, DBXREFs and IDs, ..
 

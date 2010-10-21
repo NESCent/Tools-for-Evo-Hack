@@ -12,7 +12,7 @@ Relevant resources and questions:
 
 == [[gmod:Chado|Chado]] essentials ==
 
-''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:Vg34|Vladimir]], [[User:cjfields@illinois.edu|Chris]], [[User:balhoff@nescent.org|Jim]] (add your name)
+''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:Vg34|Vladimir]], [[User:cjfields@illinois.edu|Chris]], [[User:balhoff@nescent.org|Jim]], [[User:ybendana@usc.edu|Yuri]] (add your name)
 
 The Chado Way, Features, CVs, DBXREFs and IDs, ..
 
