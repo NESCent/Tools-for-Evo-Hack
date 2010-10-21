@@ -2,6 +2,8 @@
 title: Data display by geolocation via google maps
 ---
 
+use case by [seth](seth "wikilink")
+
 Motivation  
 
 With the addition of the geolocation tables to the ND natural Diversity

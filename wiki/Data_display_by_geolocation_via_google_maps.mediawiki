@@ -1,3 +1,5 @@
+use case by [[seth]]
+
 ; Motivation
 With the addition of the geolocation tables to the ND natural Diversity Module it is envisaged that researchers from a variety of fields (no pun intended) will want to display data in reference to the location in which a survey / experiment was carried out.  
 
