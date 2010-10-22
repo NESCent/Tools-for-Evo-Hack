@@ -61,10 +61,10 @@ your arrival at NESCent.
 </div>
 In addition you can get between NESCent and the Hotel at other times
 using the [Bull City Connector](http://www.bullcityconnector.org/), a
-free bus that runs from close to the hotel ([stop 21,22,24 /
-11,12](http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf)),
-to close to NESCent ([stop
-4/30](http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf)
+free bus that runs from close to the hotel ([stops E21,22,24 /
+W11,12](http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf)),
+to close to NESCent ([stop E4 /
+W30](http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf)
 in front of Mad Hatters. On Monday through Friday, the Bull City
 Connector runs:
 

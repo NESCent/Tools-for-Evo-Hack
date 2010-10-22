@@ -28,7 +28,7 @@ NESCent will coordinate daily shuttle service between the hotel and the NESCent 
 <div style="float: right">
 http://www.durham-nc.com/resources/images/BCC/connector_horiz.jpg
 </div>
-In addition you can get between NESCent and the Hotel at other times using the [http://www.bullcityconnector.org/ Bull City Connector], a free bus that runs from close to the hotel ([http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf stop 21,22,24 / 11,12]), to close to NESCent ([http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf stop 4/30] in front of Mad Hatters.  On Monday through Friday, the Bull City Connector runs:
+In addition you can get between NESCent and the Hotel at other times using the [http://www.bullcityconnector.org/ Bull City Connector], a free bus that runs from close to the hotel ([http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf stops E21,22,24 / W11,12]), to close to NESCent ([http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf stop E4 / W30] in front of Mad Hatters.  On Monday through Friday, the Bull City Connector runs:
 * 7am - 6pm, every 15 minutes
 * 6pm - Midnight, every 20 minutes
 
