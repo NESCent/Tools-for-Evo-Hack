@@ -23,7 +23,9 @@ Upon arrival to the airport, please take a taxi to the hotel.  The taxis are ava
 ==Getting to NESCent:==
 NESCent will coordinate daily shuttle service between the hotel and the NESCent office for your visit.  We will also pre-schedule your out-bound airport shuttles (if applicable).  A schedule will be distributed upon your arrival at NESCent.
 
-In addition you can get between NESCent and the Hotel at other times using the Bull City Connector.
+In addition you can get between NESCent and the Hotel at other times using the [http://www.bullcityconnector.org/ Bull City Connector], a free bus that runs from close to the hotel to close to NESCent.  On Monday through Friday, the Bull City Connector runs:
+* 7am - 6pm, every 15 minutes
+* 6pm - Midnight, every 20 minutes
 
 == Meal Arrangements: == 
 
