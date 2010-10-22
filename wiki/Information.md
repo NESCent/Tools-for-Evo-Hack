@@ -55,6 +55,10 @@ NESCent office for your visit. We will also pre-schedule your out-bound
 airport shuttles (if applicable). A schedule will be distributed upon
 your arrival at NESCent.
 
+<div style="float: right">
+<http://www.durham-nc.com/resources/images/BCC/connector_horiz.jpg>
+
+</div>
 In addition you can get between NESCent and the Hotel at other times
 using the [Bull City Connector](http://www.bullcityconnector.org/), a
 free bus that runs from close to the hotel to close to NESCent. On
@@ -62,6 +66,9 @@ Monday through Friday, the Bull City Connector runs:
 
 -   7am - 6pm, every 15 minutes
 -   6pm - Midnight, every 20 minutes
+
+See the [Bull City Connector web
+site](http://www.bullcityconnector.org/) for routes and more info.
 
 Meal Arrangements:
 ------------------
