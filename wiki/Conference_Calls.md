@@ -342,9 +342,9 @@ Action Items
     existing use cases. Many of these will become the basis for groups
     that form at the hackathon.
 2.  [Dave](Dave "wikilink") will make inquiries with NESCent support
-    staff to make this happen. Dave will also create a page for people
-    to list what datasets they are planning to upload for use/testing at
-    the event.
+    staff to create a space for shared datasets. Dave will also create a
+    page for people to list what datasets they are planning to upload
+    for use/testing at the event.
 3.  [Participants](Participants "wikilink") with sharable datasets will
     upload them to the dataset repository, and describe them on the
     "Datasets" section of each of the
