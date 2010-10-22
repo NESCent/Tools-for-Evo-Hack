@@ -12,7 +12,7 @@ Relevant resources and questions:
 
 == [[gmod:Chado|Chado]] essentials ==
 
-''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:Vg34|Vladimir]], [[User:cjfields@illinois.edu|Chris]], [[User:balhoff@nescent.org|Jim]], [[User:ybendana@usc.edu|Yuri]] (add your name)
+''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:Vg34|Vladimir]], [[User:cjfields@illinois.edu|Chris]], [[User:balhoff@nescent.org|Jim]], [[User:ybendana@usc.edu|Yuri]] [[User:jonathan@leto.net|Duke]] (add your name)
 
 The Chado Way, Features, CVs, DBXREFs and IDs, ..
 
@@ -20,7 +20,7 @@ Mechanics of using Chado: installing, loading data. --[[User:Vg34|Vladimir]]
 
 == Genome Browsing Essentials ==
 
-''People interested in attending:'' [[User:diapriid@gmail.com|Matt]] (add your name)
+''People interested in attending:'' [[User:diapriid@gmail.com|Matt]] [[User:jonathan@leto.net|Duke]] (add your name)
 
 [[gmod:GBrowse|GBrowse]], [[gmod:JBrowse|JBrowse]], [[gmod:GBrowse_syn|GBrowse_syn]], [[http://genomevolution.org CoGe]], Mauve.; 
 
@@ -31,6 +31,10 @@ This issue also has:
 * [http://www.nature.com/nmeth/journal/v7/n3s/abs/nmeth.1434.html Visualization of multiple alignments, phylogenies and gene family evolution], JB Proctor, ''et al.''
 
 == Comparative Genomics Visualization and Interactive Tools == 
+
+''People interested in attending:'' [[User:jonathan@leto.net|Duke]] 
+
+
 
 *Ben Hitz: [http://www.yeastgenome.org/ SGD]
 **Tentative:  Outline of the 1000 closely related genome problem

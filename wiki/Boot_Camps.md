@@ -37,7 +37,8 @@ C](User:Dpc13 "wikilink")*
 [Vladimir](User:Vg34 "wikilink"),
 [Chris](User:cjfields@illinois.edu "wikilink"),
 [Jim](User:balhoff@nescent.org "wikilink"),
-[Yuri](User:ybendana@usc.edu "wikilink") (add your name)
+[Yuri](User:ybendana@usc.edu "wikilink")
+[Duke](User:jonathan@leto.net "wikilink") (add your name)
 
 The Chado Way, Features, CVs, DBXREFs and IDs, ..
 
@@ -48,7 +49,8 @@ Genome Browsing Essentials
 --------------------------
 
 *People interested in attending:*
-[Matt](User:diapriid@gmail.com "wikilink") (add your name)
+[Matt](User:diapriid@gmail.com "wikilink")
+[Duke](User:jonathan@leto.net "wikilink") (add your name)
 
 [GBrowse](gmod:GBrowse "wikilink"), [JBrowse](gmod:JBrowse "wikilink"),
 [GBrowse\_syn](gmod:GBrowse_syn "wikilink"), [http://genomevolution.org
@@ -70,6 +72,9 @@ This issue also has:
 
 Comparative Genomics Visualization and Interactive Tools
 --------------------------------------------------------
+
+*People interested in attending:*
+[Duke](User:jonathan@leto.net "wikilink")
 
 -   Ben Hitz: [SGD](http://www.yeastgenome.org/)
     -   Tentative: Outline of the 1000 closely related genome problem
