@@ -33,7 +33,7 @@ on](#Specific_Objectives "wikilink") tools for 1) viewing comparative
 genomics data; 2) visualizing phylogenomic data; and 3) supporting
 population diversity data and phenotype annotation.
 
-The event will bring together a group of about 20 software developers,
+The event will bring together a group of about 30 software developers,
 end-user representatives, and documentation experts who would otherwise
 not meet. The participants will include key developers of GMOD
 components that currently lack features critical for emerging

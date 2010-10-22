@@ -15,7 +15,7 @@ The [[gmod:GMOD Evo Hackathon Open Call|Open Call for Participation]] went out o
 
 This hackathon will fill critical gaps in the capabilities of the Generic Model Organism Database (GMOD) toolbox that currently limit its utility for evolutionary research. Specifically, we will [[#Specific Objectives|focus on]] tools for 1) viewing comparative genomics data; 2) visualizing phylogenomic data; and 3) supporting population diversity data and phenotype annotation.
 
-The event will bring together a group of about 20 software developers, end-user representatives, and documentation experts who would otherwise not meet. The participants will include key developers of GMOD components that currently lack features critical for emerging evolutionary biology research, developers of informatics tools in evolutionary research that lack GMOD integration, and informatics-savvy biologists who can represent end-user requirements.
+The event will bring together a group of about 30 software developers, end-user representatives, and documentation experts who would otherwise not meet. The participants will include key developers of GMOD components that currently lack features critical for emerging evolutionary biology research, developers of informatics tools in evolutionary research that lack GMOD integration, and informatics-savvy biologists who can represent end-user requirements.
 
 This hackathon will provide a unique opportunity to infuse the community of GMOD developers with a heightened awareness of unmet needs in evolutionary biology that GMOD components have the potential to fill, and for tool developers in evolutionary biology to better understand how best to extend or integrate with already existing GMOD components.
 
