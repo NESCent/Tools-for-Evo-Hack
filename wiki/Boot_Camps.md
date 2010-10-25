@@ -9,7 +9,8 @@ Current state of Chado Natural Diversity module
 [Matt](User:diapriid@gmail.com "wikilink"),
 [Jim](User:balhoff@nescent.org "wikilink"),
 [Maren](User:friesen@usc.edu "wikilink"),
-[Yuri](User:ybendana@usc.edu "wikilink") (add your name)
+[Yuri](User:ybendana@usc.edu "wikilink"),
+[Richard](User:rdhayes@lbl.gov "wikilink")(add your name)
 
 Relevant resources and questions:
 
@@ -37,8 +38,9 @@ C](User:Dpc13 "wikilink")*
 [Vladimir](User:Vg34 "wikilink"),
 [Chris](User:cjfields@illinois.edu "wikilink"),
 [Jim](User:balhoff@nescent.org "wikilink"),
-[Yuri](User:ybendana@usc.edu "wikilink")
-[Duke](User:jonathan@leto.net "wikilink") (add your name)
+[Yuri](User:ybendana@usc.edu "wikilink"),
+[Duke](User:jonathan@leto.net "wikilink"),
+[Richard](User:rdhayes@lbl.gov "wikilink") (add your name)
 
 The Chado Way, Features, CVs, DBXREFs and IDs, ..
 
@@ -49,8 +51,9 @@ Genome Browsing Essentials
 --------------------------
 
 *People interested in attending:*
-[Matt](User:diapriid@gmail.com "wikilink")
-[Duke](User:jonathan@leto.net "wikilink") (add your name)
+[Matt](User:diapriid@gmail.com "wikilink"),
+[Duke](User:jonathan@leto.net "wikilink"),
+[Richard](User:rdhayes@lbl.gov "wikilink") (add your name)
 
 [GBrowse](gmod:GBrowse "wikilink"), [JBrowse](gmod:JBrowse "wikilink"),
 [GBrowse\_syn](gmod:GBrowse_syn "wikilink"), [http://genomevolution.org
