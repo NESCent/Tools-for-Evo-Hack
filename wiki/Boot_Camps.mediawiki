@@ -22,7 +22,7 @@ Mechanics of using Chado: installing, loading data. --[[User:Vg34|Vladimir]]
 
 ''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:jonathan@leto.net|Duke]], [[User:rdhayes@lbl.gov|Richard]], [[User:greg@ebi.ac.uk|Greg]] (add your name)
 
-[[gmod:GBrowse|GBrowse]], [[gmod:JBrowse|JBrowse]], [[gmod:GBrowse_syn|GBrowse_syn]], [http://genomevolution.org CoGe], Mauve.; 
+[[gmod:GBrowse|GBrowse]], [[gmod:JBrowse|JBrowse]], [[gmod:GBrowse_syn|GBrowse_syn]], {{CoGeLink|CoGe}}, Mauve.; 
 
 From [http://www.nature.com/nmeth/journal/v7/n3s/index.html ''Nature Methods'' Supplement on visualizing biological data], March 2010:
 * [http://www.nature.com/nmeth/journal/v7/n3s/abs/nmeth.1422.html Visualizing genomes: techniques and challenges], CB Nielsen, ''et al.''
