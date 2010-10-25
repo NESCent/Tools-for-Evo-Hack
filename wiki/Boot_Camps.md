@@ -10,7 +10,7 @@ Current state of Chado Natural Diversity module
 [Jim](User:balhoff@nescent.org "wikilink"),
 [Maren](User:friesen@usc.edu "wikilink"),
 [Yuri](User:ybendana@usc.edu "wikilink"),
-[Richard](User:rdhayes@lbl.gov "wikilink")(add your name)
+[Richard](User:rdhayes@lbl.gov "wikilink") (add your name)
 
 Relevant resources and questions:
 
@@ -77,7 +77,8 @@ Comparative Genomics Visualization and Interactive Tools
 --------------------------------------------------------
 
 *People interested in attending:*
-[Duke](User:jonathan@leto.net "wikilink")
+[Duke](User:jonathan@leto.net "wikilink"),
+[Richard](User:rdhayes@lbl.gov "wikilink")
 
 -   Ben Hitz: [SGD](http://www.yeastgenome.org/)
     -   Tentative: Outline of the 1000 closely related genome problem
