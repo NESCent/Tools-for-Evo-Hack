@@ -155,13 +155,16 @@ We don't think we will need a third call, however, if at the end of next week, i
 
 # [[Participants]] are encouraged to continue to submit use cases.  Also, please feel free to comment on or extend existing use cases.  Many of these will become the basis for groups that form at the hackathon.
 # [[Dave]] will make inquiries with NESCent support staff to create a space for shared datasets.  Dave will also create a page for people to list what datasets they are planning to upload for use/testing at the event. 
+#: Request sent; will probably be FTP
 # [[Participants]] with sharable datasets will upload them to the dataset repository, and describe them on the "Datasets" section of each of the [[Objectives]] pages:
 #* [[Comparative Genomics Visualization#Shared / Test Datasets |Comparative Genomics Visualization]]
 #* [[Phylogenetics and Tree Visualization#Shared / Test Datasets|Phylogenetics and Tree Visualization]]
 #* [[Diversity and Phenotypes#Shared / Test Datasets|Diversity and Phenotypes]]
 # [[Dave]] will create a survey and poll participants for what, if any shared/common server we need to setup.
+#: Survey draft done; not sent out yet
 # [[Participants]] will add any boot camps they would like to see to the [[Boot Camps]] page, ''and'' indicate which boot camps you are interested in.  [[Participants#Organizing Committee|Organizers]] will then find instructors for boot camps with sufficient demand. '''In order to give instructors enough time to prepare, please do this no later than Monday, October 25.'''
 # [[Hilmar]] will contact the developers of NeXML and PhyloXML to see if they have any suggestions/advice on visualizing phylogenetic data using those formats, and what if any implementations have already been built.
+#: Done.  See [[PhyloXML and NeXML]] for details.
 # If you haven't already done so, please create a ''user page.''  Do this by clicking on your email address in the top bar of the wiki, typing something, and saving it.
 # Please add your name to the list of interested participants for any objective you might want to work on at the hackathon.  This is ''not'' a commitment to work on that objective during the hackathon.  It merely gives other participants an idea of who is also interested in what they are interested in.
 #* [[Comparative Genomics Visualization#Interested Participants|Comparative Genomics Visualization]]

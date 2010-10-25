@@ -345,6 +345,9 @@ Action Items
     staff to create a space for shared datasets. Dave will also create a
     page for people to list what datasets they are planning to upload
     for use/testing at the event.
+      
+    Request sent; will probably be FTP
+
 3.  [Participants](Participants "wikilink") with sharable datasets will
     upload them to the dataset repository, and describe them on the
     "Datasets" section of each of the
@@ -358,6 +361,9 @@ Action Items
 
 4.  [Dave](Dave "wikilink") will create a survey and poll participants
     for what, if any shared/common server we need to setup.
+      
+    Survey draft done; not sent out yet
+
 5.  [Participants](Participants "wikilink") will add any boot camps they
     would like to see to the [Boot Camps](Boot_Camps "wikilink") page,
     *and* indicate which boot camps you are interested in.
@@ -369,6 +375,10 @@ Action Items
     PhyloXML to see if they have any suggestions/advice on visualizing
     phylogenetic data using those formats, and what if any
     implementations have already been built.
+      
+    Done. See [PhyloXML and NeXML](PhyloXML_and_NeXML "wikilink")
+    for details.
+
 7.  If you haven't already done so, please create a *user page.* Do this
     by clicking on your email address in the top bar of the wiki, typing
     something, and saving it.
