@@ -20,7 +20,7 @@ Mechanics of using Chado: installing, loading data. --[[User:Vg34|Vladimir]]
 
 == Genome Browsing Essentials ==
 
-''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:jonathan@leto.net|Duke]], [[User:rdhayes@lbl.gov|Richard]] (add your name)
+''People interested in attending:'' [[User:diapriid@gmail.com|Matt]], [[User:jonathan@leto.net|Duke]], [[User:rdhayes@lbl.gov|Richard]], [[User:greg@ebi.ac.uk|Greg]] (add your name)
 
 [[gmod:GBrowse|GBrowse]], [[gmod:JBrowse|JBrowse]], [[gmod:GBrowse_syn|GBrowse_syn]], [[http://genomevolution.org CoGe]], Mauve.; 
 
@@ -32,7 +32,7 @@ This issue also has:
 
 == Comparative Genomics Visualization and Interactive Tools == 
 
-''People interested in attending:'' [[User:jonathan@leto.net|Duke]], [[User:rdhayes@lbl.gov|Richard]] 
+''People interested in attending:'' [[User:jonathan@leto.net|Duke]], [[User:rdhayes@lbl.gov|Richard]], [[User:greg@ebi.ac.uk|Greg]]
 
 
 

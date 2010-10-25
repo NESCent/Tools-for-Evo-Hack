@@ -53,7 +53,8 @@ Genome Browsing Essentials
 *People interested in attending:*
 [Matt](User:diapriid@gmail.com "wikilink"),
 [Duke](User:jonathan@leto.net "wikilink"),
-[Richard](User:rdhayes@lbl.gov "wikilink") (add your name)
+[Richard](User:rdhayes@lbl.gov "wikilink"),
+[Greg](User:greg@ebi.ac.uk "wikilink") (add your name)
 
 [GBrowse](gmod:GBrowse "wikilink"), [JBrowse](gmod:JBrowse "wikilink"),
 [GBrowse\_syn](gmod:GBrowse_syn "wikilink"), [http://genomevolution.org
@@ -78,7 +79,8 @@ Comparative Genomics Visualization and Interactive Tools
 
 *People interested in attending:*
 [Duke](User:jonathan@leto.net "wikilink"),
-[Richard](User:rdhayes@lbl.gov "wikilink")
+[Richard](User:rdhayes@lbl.gov "wikilink"),
+[Greg](User:greg@ebi.ac.uk "wikilink")
 
 -   Ben Hitz: [SGD](http://www.yeastgenome.org/)
     -   Tentative: Outline of the 1000 closely related genome problem
