@@ -57,8 +57,8 @@ Genome Browsing Essentials
 [Greg](User:greg@ebi.ac.uk "wikilink") (add your name)
 
 [GBrowse](gmod:GBrowse "wikilink"), [JBrowse](gmod:JBrowse "wikilink"),
-[GBrowse\_syn](gmod:GBrowse_syn "wikilink"), [http://genomevolution.org
-CoGe](http://genomevolution.org_CoGe "wikilink"), Mauve.;
+[GBrowse\_syn](gmod:GBrowse_syn "wikilink"),
+[CoGe](http://genomevolution.org), Mauve.;
 
 From [*Nature Methods* Supplement on visualizing biological
 data](http://www.nature.com/nmeth/journal/v7/n3s/index.html), March
