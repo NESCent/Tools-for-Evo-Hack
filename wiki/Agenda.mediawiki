@@ -42,7 +42,7 @@
 |-
 |}
 
-== Other non-hackathon events happening during the hackathon ==
+== Other events happening during the hackathon ==
 
 Please add any events you know about here.
 
@@ -51,8 +51,12 @@ Please add any events you know about here.
 ! Time
 ! Activities
 |-
+! Monday
+! 6:45pm
+| Group dinner at [http://www.tobaccoroadsportscafe.com/about/index.html Tobacco Road] restaurant in Durham
+|-
 ! Wednesday
-| 6-9:30pm
+! 6-9:30pm
 | [http://thecrunkleton.com/event.php?id=42 Bootlegging Liquor: The Race is On!], Junior Johnson, [http://thecrunkleton.com/ The Crunkleton], Chapel Hill.  $48
 |}
 
