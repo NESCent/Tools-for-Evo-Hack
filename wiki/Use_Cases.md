@@ -23,6 +23,8 @@ We already have
 -   Phylogenetical ordering of genome tracks and aligned sequences:
     co-display tree with comparative data to allow direct visualization
     of e.g., gain/loss events, SNP homoplasy (Weigang, to be elaborated)
+-   [Phylogenetic pipelines in
+    Galaxy](Phylogenetic_pipelines_in_Galaxy "wikilink")
 
 [Phylogenetics and Tree Visualization](Phylogenetics_and_Tree_Visualization "wikilink") Use Cases
 -------------------------------------------------------------------------------------------------
