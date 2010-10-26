@@ -2,14 +2,6 @@
 title: Agenda
 ---
 
-Conference Calls
-================
-
--   [First Teleconference: October 4 &
-    7](Conference_Calls#First_Teleconference:_October_4_&_7 "wikilink")
--   [Second Teleconference: October 21, 3pm Eastern
-    US](Conference_Calls#Second_Teleconference:_October_21 "wikilink")
-
 Hackathon Agenda
 ================
 
@@ -34,6 +26,14 @@ Please add any events you know about here.
 |-----------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Monday    | 6:45pm   | Group dinner at [Tobacco Road](http://www.tobaccoroadsportscafe.com/about/index.html) restaurant in Durham                                                     |
 | Wednesday | 6-9:30pm | [Bootlegging Liquor: The Race is On!](http://thecrunkleton.com/event.php?id=42), Junior Johnson, [The Crunkleton](http://thecrunkleton.com/), Chapel Hill. $48 |
+
+Conference Calls
+================
+
+-   [First Teleconference: October 4 &
+    7](Conference_Calls#First_Teleconference:_October_4_&_7 "wikilink")
+-   [Second Teleconference: October 21, 3pm Eastern
+    US](Conference_Calls#Second_Teleconference:_October_21 "wikilink")
 
 Timeline
 ========
