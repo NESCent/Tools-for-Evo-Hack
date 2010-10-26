@@ -1,0 +1,37 @@
+Use case from: [[Sergei]], [[Filip]].
+
+; Motivation
+[http://www.galaxyproject.org Galaxy] is a sophisticated web-based (Python/Pylons/SQLAlchemy) framework for interactive or automated analysis of genomic data on remote computer resources (e.g. clusters). It provides a rich collection of tools for the retrieval, manipulation and analysis of genomic data, including next generation sequencing (NGS) data. However, most of the functionality is geared towards sequence and read mapping/alignment, complex filtering, descriptive statistics, metagenomic analyses and human genetics applications. Galaxy has very few modules for comparative sequence analysis, which can broadly be characterized as model-based phylogenetic analyses, and such analyses naturally address the second tier of questions that arise in comparative genomics: gene and species trees and gene family evolution, evolutionary rates and timing, screens for natural selection and evolutionary relationships between genes, selection on non-coding regions to name a few. Many of these analyses are implemented in [http://www.hyphy.org HyPhy] -- a scriptable software package for model-based hypothesis testing and inference using phylogenies. 
+
+During the 2010 Google Summer of Code program, one of the projects undertaken under the auspices of NESCent sought to integrate the two packages by writing Python-based wrappers and display modules to infuse Galaxy with Hyphy-powered phylogenetic functionality. Ultimately, the goal is to replicate and improve the current implementation of a custom-coded, and hence difficult to maintain and port, Datamonkey (www.datamonkey.org) server, which enables life sciences users to run computationally intensive jobs on an MPI computer cluster maintained by HyPhy and Datamonkey developers at UCSD. Datamonkey has been a popular resource, with over 200 citations and ~100000 jobs (currently ~100/day, average of 2 CPU hours per job) processed since it was originally launched in 2004.  
+
+At this hackathon the two contributors to the GSoC projects (Sergei LK Pond and Filip Balejko) propose to polish the existing Galaxy-HyPhy module, expand the repertoire of available analyses and develop a generic interface harness to allow Galaxy to incorporate higher level HyPhy functionality in a generic way (currently each 'tool', i.e. a single HyPhy analysis needs its own collection of glue scripts and supporting files).
+
+; Key Challenges
+
+HyPhy implements most of its analytical logic via a domain specific scripting language (HyPhy Batch Language) which can be controlled via configuration files, user input or programmatically via a high level Python library interface. Datamonkey.org also supplies a variety of user-driven result display and interpretation options, for instance to contrast the patterns of non-synonymous substitutions at two sites mapped to a phylogeny. To write a new tool in Galaxy, one constructs an XML configuration file to render to the user for analysis configurations, a tool runner script (a Python script to call the command line tool, to generate appropriate input files etc) and a result presentation module (a Python class in the Pylons web framework). We propose develop an 'interface' factory which generates appropriate Galaxy interface components based on a structured HBL analysis file, and to standardize a library of standard static and interactive visualization modules in Galaxy to handle HyPhy outputs. This product will enable easy and rapid integration of state-of-the-art computational statistical methods into Galaxy. Conversely, HyPhy users will benefit from the wealth of existing Galaxy tools for data extraction and processing, workflows and standard statistical modules. 
+
+*Useful system with working examples
+** http://www.datamonkey.org/ : provides web based workflows to perform a number of popular evolutionary analyses with HyPhy
+** http://137.110.191.252:8080/: is a running instance of Galaxy which showcases HyPhy-based components developed during GSoC that will serve as the basis for continued form.
+
+; Preconditions for Use:
+* An existing alignment file, either uploaded from the users' computer (see http://137.110.191.252:8080/tool_runner?tool_id=upload1 for the list of formats supported by Galaxy; should consider adding NEXUS and Phylo/NeXML). This file is validated by a HyPhy tool to confirm that it contains an alignment of coding sequences. At this stage the user supplies the genetic code; if the file contains a tree it is added to the analysis, otherwise a tree is reconstructed. Other analyses (e.g. HIV subtyping and NGS analysis) do not require aligned sequences, but rather re-map the reads to viral references themselves.
+
+; User Steps
+* User selects:
+** The type of an analysis: see http://www.datamonkey.org/help/index.php for the list of analyses that we would like to implement; currently SLAC and PARRIS are available in the running Galaxy instance.
+** Analysis parameters: this typically includes choices related to the evolutionary model used for inference, parameters of the statistical test (e.g. p-value or Bayes Factor) and analysis specific modules.
+
+; Results
+
+* Analysis report including:
+** HTML based analysis specific summary, e.g. all sites found to be under positive selection at a given significance threshold, estimated of dN/dS, substitution counts, frequencies of drug 
+** CSV analogs of the same files for export to external analysis software
+** Graphics
+*** Tree plots (currently static, consider http://www.jsphylosvg.com/)
+*** sequence logos
+*** GnuPLOT, R and custom PostScript figures. 
+** Inline help to assist in interpretation 
+** Some filtering and re-display tools (e.g. show only a subset of sites meeting a particular condition)
+** 'Drill-down' displays -- e.g. links from summary pages to look at individual sites/branches/reads
