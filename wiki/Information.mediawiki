@@ -20,15 +20,15 @@ Beginning January 12, 2009, all VWP (Visa Waiver Program) nationals and citizens
 For complete information, please go to:  http://www.cbp.gov/xp/cgov/travel/id_visa/esta/
 
 ==Arrival at Raleigh/Durham International Airport (RDU):==
-Upon arrival to the airport, please take a taxi to the hotel.  The taxis are available outside the Baggage Claim areas.
+Upon arrival to the airport, please take a taxi to the {{MarriottLink|hotel}}.  The taxis are available outside the Baggage Claim areas.
 
 ==Getting to NESCent:==
-NESCent will coordinate daily shuttle service between the hotel and the NESCent office for your visit.  We will also pre-schedule your out-bound airport shuttles (if applicable).  A schedule will be distributed upon your arrival at NESCent.
+NESCent will coordinate daily shuttle service between the {{MarriottLink|hotel and}} the NESCent office for your visit.  We will also pre-schedule your out-bound airport shuttles (if applicable).  A schedule will be distributed upon your arrival at NESCent.
 
 <div style="float: right">
 http://www.durham-nc.com/resources/images/BCC/connector_horiz.jpg
 </div>
-In addition you can get between NESCent and the Hotel at other times using the [http://www.bullcityconnector.org/ Bull City Connector], a free bus that runs from close to the hotel ([http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf stops E21,22,24 / W11,12]), to close to NESCent ([http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf stop E4 / W30] in front of Mad Hatters.  On Monday through Friday, the Bull City Connector runs:
+In addition you can get between NESCent and the {{MarriottLink|Hotel}} at other times using the [http://www.bullcityconnector.org/ Bull City Connector], a free bus that runs from close to the hotel ([http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf stops E21,22,24 / W11,12]), to close to NESCent ([http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf stop E4 / W30] in front of Mad Hatters.  On Monday through Friday, the Bull City Connector runs:
 * 7am - 6pm, every 15 minutes
 * 6pm - Midnight, every 20 minutes
 
@@ -67,11 +67,11 @@ See the [http://www.bullcityconnector.org/ Bull City Connector web site] for rou
 ==Ground transportation:==
 #  Attendees may choose to drive to their meeting at NESCent.  In these cases and at NESCent’s discretion, NESCent may choose to offer the attendee reimbursement equal to the GSA mileage rate for the round-trip drive or a 21-day advance purchase air fare, whichever is lower.  Long distance driving reimbursements will be evaluated on a case-by-case basis.
 #  NESCent will pay for shuttles to and from the Raleigh/Durham (RDU) airport to the selected hotel and NESCent, and strongly suggests using the selected hotel’s shuttle.
-#  NESCent will reimburse attendees for routine airport parking and related hometown ground-travel expenses with original receipts.#Attendees arriving at or after 9:00 p.m. should take a taxi to the hotel.  Taxis may be found outside the Baggage Claim areas at the RDU Airport.
+#  NESCent will reimburse attendees for routine airport parking and related hometown ground-travel expenses with original receipts.#Attendees arriving at or after 9:00 p.m. should take a taxi to the {{MarriottLink|hotel}}.  Taxis may be found outside the Baggage Claim areas at the RDU Airport.
 #  NESCent cannot pay for limousines or car rentals.
 
 ==Lodging and reimbursement rates:==
-#NESCent will select the hotel and will coordinate all reservations for the attendees.
+#NESCent will select the {{MarriottLink|hotel}} and will coordinate all reservations for the attendees.
 #NESCent is limited by the US Government's rates in the lodging fees that it can pay.  
 #NESCent will pay for attendees' lodging for the dates of the meeting, usually including arriving the day prior to the meeting and departure the afternoon or evening of the last meeting day.  Return flights to some locations may require departure the day following the meeting's adjournment.  Meeting coordinators can request an arrival or departure beyond this framework for themselves.  
 

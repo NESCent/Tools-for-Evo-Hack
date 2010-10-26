@@ -43,24 +43,24 @@ application. For complete information, please go to:
 Arrival at Raleigh/Durham International Airport (RDU):
 ------------------------------------------------------
 
-Upon arrival to the airport, please take a taxi to the hotel. The taxis
-are available outside the Baggage Claim areas.
+Upon arrival to the airport, please take a taxi to the . The taxis are
+available outside the Baggage Claim areas.
 
 Getting to NESCent:
 -------------------
 
-NESCent will coordinate daily shuttle service between the hotel and the
-NESCent office for your visit. We will also pre-schedule your out-bound
-airport shuttles (if applicable). A schedule will be distributed upon
-your arrival at NESCent.
+NESCent will coordinate daily shuttle service between the the NESCent
+office for your visit. We will also pre-schedule your out-bound airport
+shuttles (if applicable). A schedule will be distributed upon your
+arrival at NESCent.
 
 <div style="float: right">
 <http://www.durham-nc.com/resources/images/BCC/connector_horiz.jpg>
 
 </div>
-In addition you can get between NESCent and the Hotel at other times
-using the [Bull City Connector](http://www.bullcityconnector.org/), a
-free bus that runs from close to the hotel ([stops E21,22,24 /
+In addition you can get between NESCent and the at other times using the
+[Bull City Connector](http://www.bullcityconnector.org/), a free bus
+that runs from close to the hotel ([stops E21,22,24 /
 W11,12](http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf)),
 to close to NESCent ([stop E4 /
 W30](http://www.bullcityconnector.org/resources/images/BCC/bcc_sign_full.pdf)
@@ -164,15 +164,15 @@ Ground transportation:
 3.  NESCent will reimburse attendees for routine airport parking and
     related hometown ground-travel expenses with original
     receipts.\#Attendees arriving at or after 9:00 p.m. should take a
-    taxi to the hotel. Taxis may be found outside the Baggage Claim
-    areas at the RDU Airport.
+    taxi to the . Taxis may be found outside the Baggage Claim areas at
+    the RDU Airport.
 4.  NESCent cannot pay for limousines or car rentals.
 
 Lodging and reimbursement rates:
 --------------------------------
 
-1.  NESCent will select the hotel and will coordinate all reservations
-    for the attendees.
+1.  NESCent will select the and will coordinate all reservations for
+    the attendees.
 2.  NESCent is limited by the US Government's rates in the lodging fees
     that it can pay.
 3.  NESCent will pay for attendees' lodging for the dates of the
