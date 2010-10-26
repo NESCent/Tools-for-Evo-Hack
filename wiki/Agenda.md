@@ -25,6 +25,15 @@ Hackathon Agenda
 | PM        | Hacking, most out of town participants depart. NESCent will arrange shuttles from NESCent to RDU.          |
 ||
 
+Other non-hackathon events happening during the hackathon
+---------------------------------------------------------
+
+Please add any events you know about here.
+
+| Day       | Time     | Activities                                                                                                                                                     |
+|-----------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wednesday | 6-9:30pm | [Bootlegging Liquor: The Race is On!](http://thecrunkleton.com/event.php?id=42), Junior Johnson, [The Crunkleton](http://thecrunkleton.com/), Chapel Hill. $48 |
+
 Timeline
 ========
 

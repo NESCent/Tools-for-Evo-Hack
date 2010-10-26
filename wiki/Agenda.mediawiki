@@ -42,6 +42,20 @@
 |-
 |}
 
+== Other non-hackathon events happening during the hackathon ==
+
+Please add any events you know about here.
+
+{| class="wikitable"
+! Day
+! Time
+! Activities
+|-
+! Wednesday
+| 6-9:30pm
+| [http://thecrunkleton.com/event.php?id=42 Bootlegging Liquor: The Race is On!], Junior Johnson, [http://thecrunkleton.com/ The Crunkleton], Chapel Hill.  $48
+|}
+
 = Timeline =
 
 {| class="wikitable" style="margin-left: 2em"
