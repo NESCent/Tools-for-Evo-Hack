@@ -63,7 +63,7 @@ References (optional)
     for discovering and viewing syntenic regions of FPC maps.
     Genome Res.
     2006;16:1159-1168.](http://bioinformatics.oxfordjournals.org/cgi/ijlink?linkType=ABST&journalCode=genome&resid=16/9/1159)
--   \[<http://wolfe.gen.tcd.ie/ygob/> Yeast Gene Order Browser - an
-    online tool for visualizing the syntenic content of (yeast genes)
+-   [Yeast Gene Order Browser - an online tool for visualizing the
+    syntenic content of (yeast genes)](http://wolfe.gen.tcd.ie/ygob/)
 
 [Category:Use Cases](Category:Use_Cases "wikilink")

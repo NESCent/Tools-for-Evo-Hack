@@ -34,6 +34,6 @@ Use case from [[Eric]].
 * Summary views of genome differences in gene content
 ** Ortholog mapping
 *[http://symapdb.org SyMap]: [http://bioinformatics.oxfordjournals.org/cgi/ijlink?linkType=ABST&journalCode=genome&resid=16/9/1159 Soderlund C. et al. SyMAP: a system for discovering and viewing syntenic regions of FPC maps. Genome Res. 2006;16:1159-1168.]
-*[http://wolfe.gen.tcd.ie/ygob/ Yeast Gene Order Browser - an online tool for visualizing the syntenic content of (yeast genes)
+*[http://wolfe.gen.tcd.ie/ygob/ Yeast Gene Order Browser - an online tool for visualizing the syntenic content of (yeast genes)]
 
 [[Category:Use Cases]]
