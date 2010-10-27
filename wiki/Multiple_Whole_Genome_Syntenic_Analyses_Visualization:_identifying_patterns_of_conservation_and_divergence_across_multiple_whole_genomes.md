@@ -10,7 +10,9 @@ Motivation
     compare and visualize multiple whole genomes in order to identify
     patterns of conservation and divergence in the structure and
     evolution of multiple genomes. GBrowse\_syn (no my understanding),
-    does not scale well to whole genomes.
+    does not scale well to whole genomes views, however it does well for
+    smaller regions (contig sized or smaller). There are issues with
+    GBrowse\_syn scaling to a large number of genomes.
 
 Key Challenges  
 
@@ -20,10 +22,15 @@ Key Challenges
     -   inverted regions
     -   translocations (chromosome fusion and fission events;
         translocation of chromosome segments)
+    -   large dynamic range in both number of
+        sequences (10s-100s-1000s?) and similarity ("strains"
+        to non-syntenic)
 -   Possible visualization views
     -   Syntenic dotplots.
     -   Parallel line coordinates
     -   Circle View
+    -   High density "block" alignment view (for highly
+        similar sequences)
 -   Useful system with working examples
     -   [SyMap](http://symapdb.org): Demonstrates all viewpoints
 
@@ -50,9 +57,13 @@ Results
 
 References (optional)  
 
+-   Summary views of genome differences in gene content
+    -   Ortholog mapping
 -   [SyMap](http://symapdb.org): [Soderlund C. et al. SyMAP: a system
     for discovering and viewing syntenic regions of FPC maps.
     Genome Res.
     2006;16:1159-1168.](http://bioinformatics.oxfordjournals.org/cgi/ijlink?linkType=ABST&journalCode=genome&resid=16/9/1159)
+-   \[<http://wolfe.gen.tcd.ie/ygob/> Yeast Gene Order Browser - an
+    online tool for visualizing the syntenic content of (yeast genes)
 
 [Category:Use Cases](Category:Use_Cases "wikilink")

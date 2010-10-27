@@ -1,17 +1,19 @@
 Use case from [[Eric]].
 
 ; Motivation
-*Many genomes coming online.  Need interactive methods and tools to compare and visualize multiple whole genomes in order to identify patterns of conservation and divergence in the structure and evolution of multiple genomes.  GBrowse_syn (no my understanding), does not scale well to whole genomes.
+*Many genomes coming online.  Need interactive methods and tools to compare and visualize multiple whole genomes in order to identify patterns of conservation and divergence in the structure and evolution of multiple genomes.  GBrowse_syn (no my understanding), does not scale well to whole genomes views, however it does well for smaller regions (contig sized or smaller).  There are issues with GBrowse_syn scaling to a large number of genomes.
 ; Key Challenges
 *Visualization:  the visualization system must be able to identify:
 **syntenic regions
 **duplicated regions (segmental or whole genome)
 **inverted regions
 **translocations (chromosome fusion and fission events; translocation of chromosome segments)
+**large dynamic range in both number of sequences (10s-100s-1000s?) and similarity ("strains" to non-syntenic)
 *Possible visualization views 
 **Syntenic dotplots.
 **Parallel line coordinates
 **Circle View
+**High density "block" alignment view (for highly similar sequences)
 *Useful system with working examples
 **[http://symapdb.org SyMap]:  Demonstrates all viewpoints
 ; Preconditions for Use:
@@ -29,6 +31,9 @@ Use case from [[Eric]].
 **scaling (zoom in/out)
 **change view types
 ; References (optional)
+* Summary views of genome differences in gene content
+** Ortholog mapping
 *[http://symapdb.org SyMap]: [http://bioinformatics.oxfordjournals.org/cgi/ijlink?linkType=ABST&journalCode=genome&resid=16/9/1159 Soderlund C. et al. SyMAP: a system for discovering and viewing syntenic regions of FPC maps. Genome Res. 2006;16:1159-1168.]
+*[http://wolfe.gen.tcd.ie/ygob/ Yeast Gene Order Browser - an online tool for visualizing the syntenic content of (yeast genes)
 
 [[Category:Use Cases]]
