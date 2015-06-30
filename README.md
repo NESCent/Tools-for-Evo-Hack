@@ -7,8 +7,8 @@ Ingredients
 * install docker
 * define a 'pandoc' command, put it on path
 
-    #!/bin/bash
-    exec docker run -v `pwd`:`pwd` jagregory/pandoc $*
+      \#!/bin/bash
+      exec docker run -v \`pwd\`:\`pwd\` jagregory/pandoc $*
 
 * kludge the invocation of 'pandoc' in convert.py
 
@@ -16,7 +16,7 @@ Ingredients
 
 * invoke with
 
-    python /path...to.../gmodevohackathon/mediawiki_to_git_md/convert.py \`pwd\`/gmodevohackathon.xml
+      python /path...to.../gmodevohackathon/mediawiki_to_git_md/convert.py \`pwd\`/gmodevohackathon.xml
 
 I could have used 'brew install pandoc' and avoided the `pwd` nonsense.
 
