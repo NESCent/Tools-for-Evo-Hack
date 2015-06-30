@@ -7,20 +7,20 @@ Ingredients
 * install docker
 * define a 'pandoc' command, put it on path
 
-      \#!/bin/bash
-      exec docker run -v \`pwd\`:\`pwd\` jagregory/pandoc $*
+        \#!/bin/bash
+        exec docker run -v \`pwd\`:\`pwd\` jagregory/pandoc $*
 
 * kludge the invocation of 'pandoc' in convert.py
 
-         '/path...to.../Tools-for-Evo-Hack/' + mw_filename],
+        '/path...to.../Tools-for-Evo-Hack/' + mw_filename],
 
 * invoke with
 
-      python /path...to.../gmodevohackathon/mediawiki_to_git_md/convert.py \`pwd\`/gmodevohackathon.xml
+        python /path...to.../gmodevohackathon/mediawiki_to_git_md/convert.py \`pwd\`/gmodevohackathon.xml
 
-I could have used 'brew install pandoc' and avoided the `pwd` nonsense.
+I could have used 'brew install pandoc' and avoided docker and the kludge and `pwd` nonsense entirely.
 
-At the end of conversion I got 
+After converting 363 pages I got 
 
     fatal: No existing author found with 'hlapp'
     Return code 128 from git commit
