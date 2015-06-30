@@ -9,7 +9,7 @@ title:               'GMOD Evo Hackathon'
 tagline:             'Supplementary wiki'
 description:         'The supplementary (and at first original) wiki content for the <a href="http://gmod.org/wiki/GMOD_Evo_Hackathon" target="_blank">GMOD Tools for Evolutionary Biology Hackathon</a>, a collaboration between <a href="http://nescent.org" target="_blank">NESCent</a> and <a href="http://gmod.org" target="_blank">GMOD</a>.'
 url:                 http://nescent.github.io/Tools-for-Evo-Hack
-baseurl:             /Tools-for-Evo-Hack/
+baseurl:             /Tools-for-Evo-Hack
 paginate:            5
 
 # About/contact
@@ -19,4 +19,6 @@ author:
   email:             info@gmod.org
 
 # Custom vars
+github:
+  repo:              https://github.com/NESCent/Tools-for-Evo-Hack
 version:             1.0.0
