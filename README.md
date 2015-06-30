@@ -1,6 +1,6 @@
 ---
-Title: ReadMe
-Layout: page
+title: ReadMe
+layout: page
 ---
 
 How this site was generated:

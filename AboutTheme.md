@@ -1,6 +1,6 @@
 ---
-Title: About Lanyon
-Layout: page
+title: About Lanyon
+layout: page
 ---
 
 # Lanyon
