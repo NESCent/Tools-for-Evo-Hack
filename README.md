@@ -1,24 +1,27 @@
-Ingredients
+What I did
 
 * git clone git@github.com:peterjc/mediawiki_to_git_md.git
 * git clone git@github.com:NESCent/Tools-for-Evo-Hack.git
 * cd Tools-for-Evo-Hack.git
 * scp -p siren:/deposit/inputs/dumps/gmodevohackathon.xml.gz ./
+* gunzip gmodevohackathon.xml.gz
 * install docker
 * define a 'pandoc' command, put it on path
 
         \#!/bin/bash
         exec docker run -v \`pwd\`:\`pwd\` jagregory/pandoc $*
 
-* kludge the invocation of 'pandoc' in convert.py
+* kludge the invocation of 'pandoc' in convert.py to compensate for use of docker
 
-        '/path...to.../Tools-for-Evo-Hack/' + mw_filename],
+        [... '/path...to.../Tools-for-Evo-Hack/' + mw_filename],
 
 * invoke with
 
         python /path...to.../gmodevohackathon/mediawiki_to_git_md/convert.py \`pwd\`/gmodevohackathon.xml
 
-I could have used 'brew install pandoc' and avoided docker and the kludge and `pwd` nonsense entirely.
+I could have used 'brew install pandoc' and avoided docker and the
+kludge and `pwd` nonsense entirely, but I didn't think of that.  (The
+standard OS X pandoc installer fails, but brew works just fine.)
 
 After converting 363 pages I got 
 
