@@ -1,1 +1,0 @@
-<div style="float: right; padding-left: 1em; padding-bottom: 1em;">__TOC__</div>

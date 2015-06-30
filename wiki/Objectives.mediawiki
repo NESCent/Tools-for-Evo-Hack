@@ -1,7 +1,0 @@
-Organizers have identified the following broad themes for focusing work at the event.  Before and at the hackathon, the participants will refine and distill these and other options into concrete implementation targets.  The participants will develop criteria for prioritization, such as maturity of a target for implementation, availability of test data, and potential for completing or making significant progress towards the target during the hackathon. Further ideas and discussion topics can be found on the [[gmod:GMOD_Evo_Hackathon_Proposal_Supplemental_Information | Supplemental Information ]] page.
-
-* [[Comparative Genomics Visualization]]
-* [[Phylogenetics and Tree Visualization]]
-* [[Diversity and Phenotypes]]
-
-[[Category:Objectives]]
