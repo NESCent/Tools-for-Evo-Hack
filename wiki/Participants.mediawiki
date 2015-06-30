@@ -38,10 +38,6 @@ Names and email addresses of the organizers are in bold face. The participant li
 ! colspan="3"| Remote participants
 {{Participant|Nicole|Washington|BBOP, modENCODE. Nicole will be attending remotely.|nlwashington@lbl.gov|'''}}
 |-
-! colspan="3"| Likely cancellations
-{{Participant|Chris|Mungall|BBOP|cjm@berkeleybop.org|}}
-{{Participant|Lincoln|Stein|[http://oicr.on.ca OICR], [[gmod:Main Page|GMOD]]; [[gmod:GBrowse|GBrowse]]|lincoln.stein@gmail.com|}}
-|-
 |}
 
 == Organizing Committee ==
