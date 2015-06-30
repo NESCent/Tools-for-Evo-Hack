@@ -22,3 +22,9 @@ author:
 github:
   repo:              https://github.com/NESCent/Tools-for-Evo-Hack
 version:             1.0.0
+
+# Page settings
+defaults:
+  -
+    values:
+      layout: "default"
