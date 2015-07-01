@@ -1,8 +1,11 @@
 What I did
 
 * git clone git@github.com:peterjc/mediawiki_to_git_md.git
-* git clone git@github.com:NESCent/Tools-for-Evo-Hack.git
-* cd Tools-for-Evo-Hack.git
+* Start with an empty repo
+
+        git clone git@github.com:NESCent/Tools-for-Evo-Hack.git
+
+* cd Tools-for-Evo-Hack
 * scp -p siren:/deposit/inputs/dumps/gmodevohackathon.xml.gz ./
 * gunzip gmodevohackathon.xml.gz
 * install docker
@@ -15,6 +18,8 @@ What I did
 
         [... '/path...to.../Tools-for-Evo-Hack/' + mw_filename],
 
+* create empty user_blacklist.txt
+* create usernames.txt (I tried putting entries in it, that didn't work, next time should try empty)
 * invoke with
 
         python /path...to.../gmodevohackathon/mediawiki_to_git_md/convert.py \`pwd\`/gmodevohackathon.xml
